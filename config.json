@@ -1,0 +1,65 @@
+{
+  "clubs": {
+    "remo": {
+      "name": "Clube do Remo",
+      "sources": [
+        {
+          "id": "remo_tv_youtube",
+          "type": "youtube_rss",
+          "name": "Remo TV (canal oficial)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCsLGx5V5iv-JHbG10oDZOcw"
+        },
+        {
+          "id": "leao_azulino_youtube",
+          "type": "youtube_rss",
+          "name": "Leão Azulino Oficial",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6ICcAg7Ul2GUtyX7FiU7Lg"
+        },
+        {
+          "id": "chaves_remista_youtube",
+          "type": "youtube_rss",
+          "name": "Chaves Remista",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL5BUmUROasf8Ny0gcQ_02g"
+        },
+        {
+          "id": "remo100_rss",
+          "type": "rss",
+          "name": "Remo 100%",
+          "url": "http://feeds.feedburner.com/remo100porcento"
+        },
+        {
+          "id": "clubedoremo_site",
+          "type": "scrape_list",
+          "name": "Site Oficial - Clube do Remo",
+          "url": "https://clubedoremo.com.br/noticias.php",
+          "base_url": "https://clubedoremo.com.br/",
+          "url_pattern": "ler-noticia\\.php\\?id=\\d+"
+        },
+        {
+          "id": "dol_remo",
+          "type": "scrape_list",
+          "name": "DOL - Diário Online (Remo)",
+          "url": "https://dol.com.br/esporte/remo?d=1",
+          "base_url": "https://dol.com.br",
+          "url_pattern": "/esporte/remo/\\d+/[a-z0-9-]+"
+        }
+      ],
+      "sources_nao_automatizadas": [
+        {
+          "name": "Remistas",
+          "url": "https://remistas.com.br/",
+          "motivo": "site com bloqueio anti-bot ativo; checar manualmente por enquanto"
+        },
+        {
+          "name": "ge.globo.com (Remo)",
+          "url": "https://ge.globo.com/pa/futebol/times/remo/",
+          "motivo": "domínio Globo bloqueia acesso automatizado; sem RSS público"
+        }
+      ]
+    },
+    "paysandu": { "name": "Paysandu Sport Club", "sources": [] },
+    "goias": { "name": "Goiás Esporte Clube", "sources": [] },
+    "vila_nova": { "name": "Vila Nova Futebol Clube", "sources": [] },
+    "crb": { "name": "Clube de Regatas Brasil", "sources": [] }
+  }
+}
