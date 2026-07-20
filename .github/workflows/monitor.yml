@@ -11,6 +11,10 @@ concurrency:
   group: radar-de-pautas
   cancel-in-progress: false
 
+# necessario para o job conseguir dar "git push" do state.json atualizado
+permissions:
+  contents: write
+
 jobs:
   monitor:
     runs-on: ubuntu-latest
