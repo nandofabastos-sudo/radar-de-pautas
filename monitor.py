@@ -3,11 +3,11 @@ Radar de Pautas - monitor de fontes por clube
 ------------------------------------------------
 Le config.json (fontes por clube), verifica o que ha de novo
 desde a ultima execucao (guardado em state/state.json) e dispara
-uma notificacao no WhatsApp (via CallMeBot) para cada item novo.
+uma notificacao no Telegram (via bot do Telegram) para cada item novo.
 
 Uso local:
-    export CALLMEBOT_PHONE="55XXXXXXXXXXX"
-    export CALLMEBOT_APIKEY="123456"
+    export TELEGRAM_BOT_TOKEN="123456789:ABCdefGHIjklMNOpqrsTUVwxyz"
+    export TELEGRAM_CHAT_ID="123456789"
     python monitor.py
 
 Em producao isso roda via GitHub Actions (ver .github/workflows/monitor.yml),
@@ -122,24 +122,24 @@ def get_items(source: dict) -> list[dict]:
     raise ValueError(f"Tipo de fonte desconhecido: {source_type}")
 
 
-def notify_whatsapp(message: str):
-    phone = os.environ.get("CALLMEBOT_PHONE")
-    apikey = os.environ.get("CALLMEBOT_APIKEY")
-    if not phone or not apikey:
-        print("[AVISO] CALLMEBOT_PHONE/CALLMEBOT_APIKEY nao configurados. "
+def notify_telegram(message: str):
+    bot_token = os.environ.get("TELEGRAM_BOT_TOKEN")
+    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
+    if not bot_token or not chat_id:
+        print("[AVISO] TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID nao configurados. "
               "Mensagem que seria enviada:")
         print(message)
         print("-" * 40)
         return
 
-    url = "https://api.callmebot.com/whatsapp.php"
-    params = {"phone": phone, "text": message, "apikey": apikey}
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    payload = {"chat_id": chat_id, "text": message}
     try:
-        r = requests.get(url, params=params, timeout=20)
+        r = requests.post(url, data=payload, timeout=20)
         r.raise_for_status()
         print(f"[OK] Notificacao enviada: {message.splitlines()[0]}")
     except Exception as e:
-        print(f"[ERRO] Falha ao enviar WhatsApp: {e}")
+        print(f"[ERRO] Falha ao enviar Telegram: {e}")
 
 
 def run():
@@ -176,7 +176,7 @@ def run():
                         f"{it['title']}\n"
                         f"{it['link']}"
                     )
-                    notify_whatsapp(msg)
+                    notify_telegram(msg)
                     total_new += 1
                 already_seen.add(it["id"])
 
