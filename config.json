@@ -112,6 +112,41 @@
     },
     "goias": { "name": "Goiás Esporte Clube", "sources": [] },
     "vila_nova": { "name": "Vila Nova Futebol Clube", "sources": [] },
-    "crb": { "name": "Clube de Regatas Brasil", "sources": [] }
+    "crb": {
+      "name": "Clube de Regatas Brasil",
+      "sources": [
+        {
+          "id": "crb_tv_youtube",
+          "type": "youtube_rss",
+          "name": "CRB TV (canal oficial)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxWEfjeAzBzoW5idREGLDFQ"
+        },
+        {
+          "id": "crb_site",
+          "type": "scrape_list",
+          "name": "Site Oficial - CRB",
+          "url": "https://www.crboficial.com.br/noticias",
+          "base_url": "https://www.crboficial.com.br",
+          "url_pattern": "/futebol/[a-z0-9-]+"
+        }
+      ],
+      "sources_nao_automatizadas": [
+        {
+          "name": "Informe Alagoas (categoria CRB)",
+          "url": "https://informealagoas.com.br/index.php/category/esportes/futebol/crb/feed/",
+          "motivo": "tem RSS proprio so do CRB, mas a categoria esta abandonada (ultimo post de maio/2025)"
+        },
+        {
+          "name": "Alagoas 24 Horas / TNH1",
+          "url": "https://www.alagoas24horas.com.br/feed/",
+          "motivo": "so tem feed geral (policia, politica, variedades); zero itens de CRB entre os 20-30 mais recentes, entao filtrar por palavra-chave perderia noticia"
+        },
+        {
+          "name": "Gazeta de Alagoas (tag CRB)",
+          "url": "https://www.gazetaweb.com/tags/crb",
+          "motivo": "pagina de tag e renderizada por JavaScript; o HTML do servidor devolve materias sem relacao com o clube"
+        }
+      ]
+    }
   }
 }
