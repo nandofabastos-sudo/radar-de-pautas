@@ -157,7 +157,11 @@ def run():
 
         for source in sources:
             source_key = source["id"]
-            already_seen = set(club_state.get(source_key, []))
+            # seen_ids guarda a ordem de chegada (mais antigo -> mais novo), pra
+            # o corte no fim descartar de fato os mais antigos. O set e so pra
+            # consulta rapida.
+            seen_ids = list(club_state.get(source_key, []))
+            already_seen = set(seen_ids)
             is_first_run = source_key not in club_state
 
             try:
@@ -178,15 +182,18 @@ def run():
                     )
                     notify_telegram(msg)
                     total_new += 1
-                already_seen.add(it["id"])
+                if it["id"] not in already_seen:
+                    already_seen.add(it["id"])
+                    seen_ids.append(it["id"])
 
             if is_first_run and new_items:
                 print(f"[INFO] Primeira execucao de '{source['name']}' "
                       f"({club['name']}): {len(new_items)} itens registrados, "
                       f"sem notificar.")
 
-            # nao deixa a lista de ids crescer pra sempre
-            club_state[source_key] = list(already_seen)[-MAX_IDS_KEPT_PER_SOURCE:]
+            # nao deixa a lista crescer pra sempre; como seen_ids esta em ordem
+            # de chegada, o corte descarta os mais antigos e mantem os recentes
+            club_state[source_key] = seen_ids[-MAX_IDS_KEPT_PER_SOURCE:]
 
     save_json(STATE_PATH, state)
     print(f"[FIM] {total_new} novidade(s) notificada(s) nesta execucao.")
