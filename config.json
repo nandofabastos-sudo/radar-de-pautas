@@ -63,7 +63,35 @@
         }
       ]
     },
-    "paysandu": { "name": "Paysandu Sport Club", "sources": [] },
+    "paysandu": {
+      "name": "Paysandu Sport Club",
+      "sources": [
+        {
+          "id": "papaotv_youtube",
+          "type": "youtube_rss",
+          "name": "PapãoTV (canal oficial)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQefle_6-5n-b1qoBotV8VQ"
+        },
+        {
+          "id": "paysandu_site",
+          "type": "json_list",
+          "name": "Site Oficial - Paysandu",
+          "url": "https://api.paysandu.com.br/api/noticias",
+          "items_path": "results.noticias",
+          "id_field": "id",
+          "title_field": "titulo",
+          "link_template": "https://www.paysandu.com.br/noticias/{id}/{slug}"
+        },
+        {
+          "id": "dol_paysandu",
+          "type": "scrape_list",
+          "name": "DOL - Diário Online (Paysandu)",
+          "url": "https://dol.com.br/esporte/paysandu?d=1",
+          "base_url": "https://dol.com.br",
+          "url_pattern": "/esporte/paysandu/\\d+/[a-z0-9-]+"
+        }
+      ]
+    },
     "goias": { "name": "Goiás Esporte Clube", "sources": [] },
     "vila_nova": { "name": "Vila Nova Futebol Clube", "sources": [] },
     "crb": { "name": "Clube de Regatas Brasil", "sources": [] }

@@ -113,12 +113,43 @@ def fetch_scrape_list(source: dict) -> list[dict]:
     return items
 
 
+def fetch_json_list(source: dict) -> list[dict]:
+    """Le uma API que devolve JSON (mais estavel que raspar HTML).
+
+    Campos esperados na config da fonte:
+      items_path    - caminho ate a lista, separado por ponto (ex: "results.noticias")
+      id_field      - campo usado como identificador unico
+      title_field   - campo com o titulo
+      link_template - molde do link, com {campo} preenchido pelo item
+    """
+    resp = requests.get(source["url"], headers=HEADERS, timeout=20)
+    resp.raise_for_status()
+    data = resp.json()
+
+    for key in source.get("items_path", "").split("."):
+        if key:
+            data = data[key]
+
+    items = []
+    for entry in data[:MAX_ITEMS_PER_SOURCE]:
+        items.append(
+            {
+                "id": str(entry[source.get("id_field", "id")]),
+                "title": str(entry[source.get("title_field", "titulo")]).strip(),
+                "link": source["link_template"].format(**entry),
+            }
+        )
+    return items
+
+
 def get_items(source: dict) -> list[dict]:
     source_type = source["type"]
     if source_type in ("rss", "youtube_rss"):
         return fetch_rss(source)
     if source_type == "scrape_list":
         return fetch_scrape_list(source)
+    if source_type == "json_list":
+        return fetch_json_list(source)
     raise ValueError(f"Tipo de fonte desconhecido: {source_type}")
 
 

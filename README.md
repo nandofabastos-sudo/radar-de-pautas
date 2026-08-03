@@ -85,6 +85,11 @@ preencho e testo os padrões de scraping igual fiz com o Remo.
   notícia (com fallback pro nome da fonte, se não achar nada). Também
   corrige automaticamente sites que declaram o charset errado no
   `Content-Type` (causa comum de acento quebrado tipo "Ã³" em vez de "ó").
+- `json_list` — site que serve as notícias por uma API em JSON (caso do
+  Paysandu). É o mais estável dos três: não depende do HTML, que muda.
+  Precisa de `items_path` (caminho até a lista, ex: `results.noticias`),
+  `id_field`, `title_field` e `link_template` (molde do link, com os campos
+  do item entre chaves — ex: `.../noticias/{id}/{slug}`).
 
 ## Limitações a ter em mente
 
