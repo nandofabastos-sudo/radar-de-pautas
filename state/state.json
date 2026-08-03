@@ -365,7 +365,8 @@
       "https://dol.com.br/esporte/remo/948026/remo-recebe-o-vitoria-com-nova-dupla-de-zaga-veja-o-provavel-time",
       "https://dol.com.br/esporte/remo/947949/atraso-em-voo-cancela-treino-e-remo-diminui-preparacao-contra-o-vitoria",
       "https://dol.com.br/esporte/remo/947581/promessa-do-remo-gustagol-inicia-trajetoria-no-palmeiras-com-hat-trick",
-      "https://dol.com.br/esporte/remo/958799/adrianinho-fica-fora-dos-planos-do-remo-apos-exigencia-do-brusque"
+      "https://dol.com.br/esporte/remo/958799/adrianinho-fica-fora-dos-planos-do-remo-apos-exigencia-do-brusque",
+      "https://dol.com.br/esporte/remo/958804/remo-x-santos-mais-de-30-mil-torcedores-confirmados-no-mangueirao"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -421,7 +422,8 @@
       "yt:video:huUathpEjQQ",
       "yt:video:iifZCRIYxkE",
       "yt:video:y-3cNOilwyE",
-      "yt:video:FAhHmnbBjd4"
+      "yt:video:FAhHmnbBjd4",
+      "yt:video:ikYSg6usxVA"
     ],
     "tomazao_tv_youtube": [
       "yt:video:y90CcUcJ5HQ",
@@ -484,6 +486,70 @@
     ],
     "alagoas_alerta_crb": [
       "https://www.alagoasalerta.com.br/noticia/lyncon-ganha-espaco-no-crb-com-fabio-matias-e-destaca-confianca-do-treinador"
+    ]
+  },
+  "goias": {
+    "tv_goias_youtube": [
+      "yt:video:zcTBXlWK2uM",
+      "yt:video:9kYHl8NBlSE",
+      "yt:video:d9QjrR3vgGw",
+      "yt:video:fpOJsWeefjQ",
+      "yt:video:J7ZUGiIZQ_M",
+      "yt:video:mRd3LFAokkk",
+      "yt:video:NwO80d-Er1o",
+      "yt:video:zAjhk4mPylU",
+      "yt:video:hCOr-5jaL3E",
+      "yt:video:jxCKuXM3mjs"
+    ],
+    "goias_site": [
+      "https://www.goiasec.com.br/noticias/goias-esporte-clube-comunica-o-encerramento-do-ciclo-de-daniel-paulista",
+      "https://www.goiasec.com.br/noticias/mozart-e-o-novo-treinador-do-goias-esporte-clube",
+      "https://www.goiasec.com.br/noticias/nautico-x-goias-e-c---guia-da-partida-em-21-junho---campeonato-brasileiro-serie-b",
+      "https://www.goiasec.com.br/noticias/goias-e-c-x-ceara---guia-da-partida-em-4-julho---campeonato-brasileiro-serie-b",
+      "https://www.goiasec.com.br/noticias/crb-al-x-goias-e-c---guia-da-partida-em-12-julho---campeonato-brasileiro-serie-b",
+      "https://www.goiasec.com.br/noticias/goias-abre-seletivas-para-as-categorias-de-base-e-busca-novos-talentos-para-as-joias-esmeraldinas",
+      "https://www.goiasec.com.br/noticias/ponte-preta-x-goias-e-c---guia-da-partida-em-18-julho---campeonato-brasileiro-serie-b",
+      "https://www.goiasec.com.br/noticias/goias-e-c-x-sport---guia-da-partida-em-22-julho---campeonato-brasileiro-serie-b",
+      "https://www.goiasec.com.br/noticias/e-campeao--goias-bate-o-ceara-em-disputa-emocionante-e-conquista-o-brasileiro-sub-20-serie-b",
+      "https://www.goiasec.com.br/noticias/america-mg-x-goias-e-c---guia-da-partida-em-26-julho---campeonato-brasileiro-serie-b"
+    ],
+    "mais_goias_goias": [
+      "https://www.maisgoias.com.br/?p=1106124",
+      "https://www.maisgoias.com.br/?p=1106348",
+      "https://www.maisgoias.com.br/?p=1107535",
+      "https://www.maisgoias.com.br/?p=1108367",
+      "https://www.maisgoias.com.br/?p=1108791",
+      "https://www.maisgoias.com.br/?p=1109176",
+      "https://www.maisgoias.com.br/?p=1109370",
+      "https://www.maisgoias.com.br/?p=1109506",
+      "https://www.maisgoias.com.br/?p=1109580",
+      "https://www.maisgoias.com.br/?p=1110058"
+    ]
+  },
+  "vila_nova": {
+    "tigrao_tv_youtube": [
+      "yt:video:jZFLampVzi0",
+      "yt:video:8cBCd927gkA",
+      "yt:video:FC2KYFn7POo",
+      "yt:video:3RYriNo8HZ0",
+      "yt:video:6By34gyRv7Y",
+      "yt:video:ah3Gqk-zXuk",
+      "yt:video:s1OSxlFrKXg",
+      "yt:video:FpiR0tfG1Tw",
+      "yt:video:4u9OUfbj000",
+      "yt:video:SYszSqbiumA"
+    ],
+    "mais_goias_vilanova": [
+      "https://www.maisgoias.com.br/?p=1107846",
+      "https://www.maisgoias.com.br/?p=1107881",
+      "https://www.maisgoias.com.br/?p=1107970",
+      "https://www.maisgoias.com.br/?p=1107949",
+      "https://www.maisgoias.com.br/?p=1108367",
+      "https://www.maisgoias.com.br/?p=1108808",
+      "https://www.maisgoias.com.br/?p=1109039",
+      "https://www.maisgoias.com.br/?p=1109424",
+      "https://www.maisgoias.com.br/?p=1109495",
+      "https://www.maisgoias.com.br/?p=1109580"
     ]
   }
 }
