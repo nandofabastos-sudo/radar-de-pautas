@@ -73,6 +73,24 @@
           "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQefle_6-5n-b1qoBotV8VQ"
         },
         {
+          "id": "meu_paysandu_youtube",
+          "type": "youtube_rss",
+          "name": "Canal Meu Paysandu",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCXpW01BzezGbJeZepMQw6kg"
+        },
+        {
+          "id": "noticias_paysandu_youtube",
+          "type": "youtube_rss",
+          "name": "Notícias do Paysandu S.C.",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRAlZ5FwxCtpg8FHRPRaYjg"
+        },
+        {
+          "id": "tomazao_tv_youtube",
+          "type": "youtube_rss",
+          "name": "Tomazão TV (Paysandu/Remo)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8ENnG602oefTaHuGzsS3tQ"
+        },
+        {
           "id": "paysandu_site",
           "type": "json_list",
           "name": "Site Oficial - Paysandu",
