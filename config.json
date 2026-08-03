@@ -22,6 +22,12 @@
           "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCL5BUmUROasf8Ny0gcQ_02g"
         },
         {
+          "id": "rs_live_sports_youtube",
+          "type": "youtube_rss",
+          "name": "RS Live Sports",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0rRUEZA3_QFHBwiKPCIezg"
+        },
+        {
           "id": "remo100_rss",
           "type": "rss",
           "name": "Remo 100%",
