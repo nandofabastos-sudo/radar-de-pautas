@@ -38,15 +38,18 @@ HEADERS = {
 MAX_ITEMS_PER_SOURCE = 10
 MAX_IDS_KEPT_PER_SOURCE = 300
 
-# janela de HTML apos o link, onde procuramos o titulo da noticia (h1-h6)
+# janela de HTML apos o link, onde procuramos o titulo da noticia (h1-h6).
+# Alguns sites colocam <img> enormes entre o link e o titulo; nesses casos da
+# pra aumentar so naquela fonte, com "title_window" na config.
 TITLE_SEARCH_WINDOW = 700
 TITLE_TAG_PREFERRED_RE = re.compile(r"<h2[^>]*>(.*?)</h2>", re.DOTALL)
 TITLE_TAG_ANY_RE = re.compile(r"<h[1-6][^>]*>(.*?)</h[1-6]>", re.DOTALL)
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 
 
-def extract_nearby_title(html_text: str, end_pos: int, fallback: str) -> str:
-    window = html_text[end_pos: end_pos + TITLE_SEARCH_WINDOW]
+def extract_nearby_title(html_text: str, end_pos: int, fallback: str,
+                         window_size: int = TITLE_SEARCH_WINDOW) -> str:
+    window = html_text[end_pos: end_pos + window_size]
     for pattern in (TITLE_TAG_PREFERRED_RE, TITLE_TAG_ANY_RE):
         m = pattern.search(window)
         if m:
@@ -55,6 +58,18 @@ def extract_nearby_title(html_text: str, end_pos: int, fallback: str) -> str:
             if cleaned:
                 return cleaned
     return fallback
+
+
+def item_cap(source: dict) -> int:
+    """Quantos itens varrer na origem.
+
+    Com filtro por palavra-chave vale varrer bem mais antes de peneirar,
+    senao a noticia do clube pode ficar de fora do corte por causa do que
+    os outros times publicaram na mesma pagina.
+    """
+    if source.get("filter_keywords"):
+        return MAX_ITEMS_PER_SOURCE * 5
+    return MAX_ITEMS_PER_SOURCE
 
 
 def load_json(path: Path, default):
@@ -73,7 +88,7 @@ def save_json(path: Path, data):
 def fetch_rss(source: dict) -> list[dict]:
     feed = feedparser.parse(source["url"])
     items = []
-    for entry in feed.entries[:MAX_ITEMS_PER_SOURCE]:
+    for entry in feed.entries[:item_cap(source)]:
         link = entry.get("link")
         if not link:
             continue
@@ -106,9 +121,12 @@ def fetch_scrape_list(source: dict) -> list[dict]:
         if link in seen_links:
             continue
         seen_links.add(link)
-        title = extract_nearby_title(page_html, m.end(), source["name"])
+        title = extract_nearby_title(
+            page_html, m.end(), source["name"],
+            source.get("title_window", TITLE_SEARCH_WINDOW),
+        )
         items.append({"id": link, "title": title, "link": link})
-        if len(items) >= MAX_ITEMS_PER_SOURCE:
+        if len(items) >= item_cap(source):
             break
     return items
 
@@ -131,7 +149,7 @@ def fetch_json_list(source: dict) -> list[dict]:
             data = data[key]
 
     items = []
-    for entry in data[:MAX_ITEMS_PER_SOURCE]:
+    for entry in data[:item_cap(source)]:
         items.append(
             {
                 "id": str(entry[source.get("id_field", "id")]),
@@ -142,15 +160,28 @@ def fetch_json_list(source: dict) -> list[dict]:
     return items
 
 
+def matches_keywords(item: dict, keywords: list[str]) -> bool:
+    alvo = (item.get("title", "") + " " + item.get("link", "")).lower()
+    return any(k.lower() in alvo for k in keywords)
+
+
 def get_items(source: dict) -> list[dict]:
     source_type = source["type"]
     if source_type in ("rss", "youtube_rss"):
-        return fetch_rss(source)
-    if source_type == "scrape_list":
-        return fetch_scrape_list(source)
-    if source_type == "json_list":
-        return fetch_json_list(source)
-    raise ValueError(f"Tipo de fonte desconhecido: {source_type}")
+        items = fetch_rss(source)
+    elif source_type == "scrape_list":
+        items = fetch_scrape_list(source)
+    elif source_type == "json_list":
+        items = fetch_json_list(source)
+    else:
+        raise ValueError(f"Tipo de fonte desconhecido: {source_type}")
+
+    # fontes que misturam varios clubes (ex: caderno de esportes regional)
+    # podem restringir o que interessa por palavra-chave
+    keywords = source.get("filter_keywords")
+    if keywords:
+        items = [it for it in items if matches_keywords(it, keywords)]
+    return items[:MAX_ITEMS_PER_SOURCE]
 
 
 def notify_telegram(message: str):

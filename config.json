@@ -128,6 +128,16 @@
           "url": "https://www.crboficial.com.br/noticias",
           "base_url": "https://www.crboficial.com.br",
           "url_pattern": "/futebol/[a-z0-9-]+"
+        },
+        {
+          "id": "alagoas_alerta_crb",
+          "type": "scrape_list",
+          "name": "Alagoas Alerta (CRB)",
+          "url": "https://www.alagoasalerta.com.br/esportes",
+          "base_url": "https://www.alagoasalerta.com.br",
+          "url_pattern": "/noticia/[a-z0-9-]+",
+          "title_window": 2500,
+          "filter_keywords": ["crb", "regatas", "galo"]
         }
       ],
       "sources_nao_automatizadas": [

@@ -85,6 +85,17 @@ preencho e testo os padrões de scraping igual fiz com o Remo.
   notícia (com fallback pro nome da fonte, se não achar nada). Também
   corrige automaticamente sites que declaram o charset errado no
   `Content-Type` (causa comum de acento quebrado tipo "Ã³" em vez de "ó").
+Duas opções que valem pra qualquer tipo de fonte:
+
+- `filter_keywords` — lista de palavras; só passa o item cujo título ou link
+  contenha alguma delas. Serve pra caderno de esportes regional que mistura
+  vários clubes (ex: Alagoas Alerta, que cobre CRB, CSA e ASA na mesma
+  página). Com filtro ligado, o radar varre 5x mais itens antes de peneirar,
+  pra notícia do clube não ficar de fora do corte.
+- `title_window` — quantos caracteres de HTML depois do link o radar varre
+  procurando o título (padrão 700). Alguns sites colocam `<img>` gigantes
+  entre o link e o título e precisam de mais (o Alagoas Alerta usa 2500).
+
 - `json_list` — site que serve as notícias por uma API em JSON (caso do
   Paysandu). É o mais estável dos três: não depende do HTML, que muda.
   Precisa de `items_path` (caminho até a lista, ex: `results.noticias`),
