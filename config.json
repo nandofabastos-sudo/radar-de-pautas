@@ -110,8 +110,58 @@
         }
       ]
     },
-    "goias": { "name": "Goiás Esporte Clube", "sources": [] },
-    "vila_nova": { "name": "Vila Nova Futebol Clube", "sources": [] },
+    "goias": {
+      "name": "Goiás Esporte Clube",
+      "sources": [
+        {
+          "id": "tv_goias_youtube",
+          "type": "youtube_rss",
+          "name": "Goiás E.C. (canal oficial)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDoUNRSo1gArmS2ygB2uBaA"
+        },
+        {
+          "id": "goias_site",
+          "type": "scrape_list",
+          "name": "Site Oficial - Goiás",
+          "url": "https://www.goiasec.com.br/noticias",
+          "base_url": "https://www.goiasec.com.br",
+          "url_pattern": "/noticias/(?!categorias|page-)[a-z0-9-]{15,}",
+          "title_window": 1500
+        },
+        {
+          "id": "mais_goias_goias",
+          "type": "rss",
+          "name": "Mais Goiás (Goiás E.C.)",
+          "url": "https://www.maisgoias.com.br/tag/goias-esporte-clube/feed/"
+        }
+      ]
+    },
+    "vila_nova": {
+      "name": "Vila Nova Futebol Clube",
+      "sources": [
+        {
+          "id": "tigrao_tv_youtube",
+          "type": "youtube_rss",
+          "name": "TigrãoTV (canal oficial)",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCyzEjyFAs3vIrqIm_i0RB8g"
+        },
+        {
+          "id": "vilanova_site",
+          "type": "scrape_list",
+          "name": "Site Oficial - Vila Nova",
+          "url": "https://www.vilanovafc.com.br/noticias",
+          "base_url": "https://www.vilanovafc.com.br",
+          "url_pattern": "/noticias/\\d+-[a-z0-9-]+",
+          "title_window": 1500
+        },
+        {
+          "id": "mais_goias_vilanova",
+          "type": "rss",
+          "name": "Mais Goiás (Vila Nova)",
+          "url": "https://www.maisgoias.com.br/tag/vila-nova/feed/"
+        }
+      ]
+    },
     "crb": {
       "name": "Clube de Regatas Brasil",
       "sources": [
