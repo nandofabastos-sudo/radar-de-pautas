@@ -67,7 +67,7 @@ def item_cap(source: dict) -> int:
     senao a noticia do clube pode ficar de fora do corte por causa do que
     os outros times publicaram na mesma pagina.
     """
-    if source.get("filter_keywords"):
+    if source.get("filter_keywords") or source.get("exclude_keywords"):
         return MAX_ITEMS_PER_SOURCE * 5
     return MAX_ITEMS_PER_SOURCE
 
@@ -181,6 +181,19 @@ def get_items(source: dict) -> list[dict]:
     keywords = source.get("filter_keywords")
     if keywords:
         items = [it for it in items if matches_keywords(it, keywords)]
+
+    # assuntos que nunca viram pauta do canal (ex: futebol feminino, base).
+    # A excecao resgata o que toca o time principal: "sobe do sub-20 para o
+    # profissional" e pauta, mesmo casando com a palavra excluida.
+    excluir = source.get("exclude_keywords")
+    if excluir:
+        resgate = source.get("exclude_except", [])
+        items = [
+            it for it in items
+            if not matches_keywords(it, excluir)
+            or (resgate and matches_keywords(it, resgate))
+        ]
+
     return items[:MAX_ITEMS_PER_SOURCE]
 
 
@@ -208,6 +221,11 @@ def run():
     config = load_json(CONFIG_PATH, {"clubs": {}})
     state = load_json(STATE_PATH, {})
 
+    # assuntos descartados em todas as fontes de todos os clubes, e as
+    # palavras que resgatam o item mesmo tendo casado com a exclusao
+    excluir_global = config.get("exclude_keywords_global", [])
+    resgate_global = config.get("exclude_except_global", [])
+
     total_new = 0
 
     for club_key, club in config["clubs"].items():
@@ -218,6 +236,14 @@ def run():
         club_state = state.setdefault(club_key, {})
 
         for source in sources:
+            if excluir_global:
+                source = {
+                    **source,
+                    "exclude_keywords": list(source.get("exclude_keywords", []))
+                    + excluir_global,
+                    "exclude_except": list(source.get("exclude_except", []))
+                    + resgate_global,
+                }
             source_key = source["id"]
             # seen_ids guarda a ordem de chegada (mais antigo -> mais novo), pra
             # o corte no fim descartar de fato os mais antigos. O set e so pra

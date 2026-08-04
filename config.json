@@ -1,4 +1,19 @@
 {
+  "_comentario_exclude": "Assuntos que nunca viram pauta do canal. Vale para todas as fontes de todos os clubes. Casa com titulo ou link, sem diferenciar maiuscula.",
+  "exclude_keywords_global": [
+    "feminino",
+    "feminina",
+    "futsal",
+    "sub-20",
+    "sub 20"
+  ],
+  "_comentario_resgate": "Se o item casar com uma palavra acima MAS tambem com uma destas, ele passa. Serve pra nao perder garoto da base subindo pro elenco principal.",
+  "exclude_except_global": [
+    "profissional",
+    "promovido",
+    "integrado ao elenco",
+    "sobe para o elenco"
+  ],
   "clubs": {
     "remo": {
       "name": "Clube do Remo",

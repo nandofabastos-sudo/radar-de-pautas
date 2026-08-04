@@ -85,6 +85,16 @@ preencho e testo os padrões de scraping igual fiz com o Remo.
   notícia (com fallback pro nome da fonte, se não achar nada). Também
   corrige automaticamente sites que declaram o charset errado no
   `Content-Type` (causa comum de acento quebrado tipo "Ã³" em vez de "ó").
+No topo do `config.json` ficam os assuntos descartados em **todas** as fontes
+de todos os clubes:
+
+- `exclude_keywords_global` — futebol feminino, futsal e sub-20, que não são
+  pauta do canal.
+- `exclude_except_global` — o resgate: se o item casar com uma palavra
+  excluída **mas também** com uma destas (`profissional`, `promovido`…), ele
+  passa mesmo assim. É o que garante que "garoto do sub-20 sobe para o
+  profissional" continue chegando, já que isso é notícia de time principal.
+
 Duas opções que valem pra qualquer tipo de fonte:
 
 - `filter_keywords` — lista de palavras; só passa o item cujo título ou link
