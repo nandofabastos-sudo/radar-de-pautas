@@ -148,6 +148,14 @@
           "type": "rss",
           "name": "Mais Goiás (Goiás E.C.)",
           "url": "https://www.maisgoias.com.br/tag/goias-esporte-clube/feed/"
+        },
+        {
+          "id": "piriquito_news",
+          "type": "scrape_list",
+          "name": "Piriquito News",
+          "url": "https://www.piriquitonews.com/noticias",
+          "base_url": "https://www.piriquitonews.com/",
+          "url_pattern": "ler_noticia\\.php\\?id=\\d+"
         }
       ]
     },
