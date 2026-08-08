@@ -2,3 +2,7 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+
+# credenciais e log da execucao local -- nunca vao pro GitHub
+local.env
+local_run.log
