@@ -211,6 +211,43 @@
           "url_pattern": "/noticia/[a-z0-9-]+",
           "title_window": 2500,
           "filter_keywords": ["crb", "regatas", "galo"]
+        },
+        {
+          "id": "fala_regatiano_youtube",
+          "type": "youtube_rss",
+          "name": "Fala Regatiano",
+          "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCA8FQecsjsPSeLrnaNJfj6w"
+        },
+        {
+          "id": "tribuna_hoje_crb",
+          "type": "scrape_list",
+          "name": "Tribuna Hoje (CRB)",
+          "url": "https://tribunahoje.com/noticias/esportes",
+          "base_url": "https://tribunahoje.com",
+          "url_pattern": "/noticias/esportes/\\d{4}/\\d{2}/\\d{2}/\\d+-[a-z0-9-]+",
+          "title_window": 2500,
+          "filter_keywords": ["crb", "regatas", "galo"]
+        },
+        {
+          "id": "gazeta_alagoas_crb",
+          "type": "scrape_list",
+          "name": "Gazeta de Alagoas (CRB)",
+          "url": "https://www.gazetaweb.com/tags/crb?d=1",
+          "base_url": "https://www.gazetaweb.com",
+          "url_pattern": "/noticias/esportes/alagoano/[a-z0-9-]+-\\d{4,}",
+          "title_window": 2500,
+          "filter_keywords": ["crb", "regatas", "galo"]
+        },
+        {
+          "id": "frances_news_crb",
+          "type": "scrape_list",
+          "name": "Francês News (CRB)",
+          "url": "https://francesnews.com.br/noticias/esporte",
+          "base_url": "https://francesnews.com.br",
+          "url_pattern": "/post/\\d{4}/\\d{2}/\\d{2}/\\d+-[a-z0-9-]+",
+          "title_pattern": "<div class=\"box-title\">(.*?)</div>",
+          "title_window": 2500,
+          "filter_keywords": ["crb", "regatas", "galo"]
         }
       ],
       "sources_nao_automatizadas": [
@@ -225,9 +262,9 @@
           "motivo": "so tem feed geral (policia, politica, variedades); zero itens de CRB entre os 20-30 mais recentes, entao filtrar por palavra-chave perderia noticia"
         },
         {
-          "name": "Gazeta de Alagoas (tag CRB)",
-          "url": "https://www.gazetaweb.com/tags/crb",
-          "motivo": "pagina de tag e renderizada por JavaScript; o HTML do servidor devolve materias sem relacao com o clube"
+          "name": "Frances News (feed geral)",
+          "url": "https://francesnews.com.br/feed",
+          "motivo": "o RSS geral do site nao traz CRB (e dominado por policia/geral); por isso usamos a secao de esporte por scraping, e nao o feed"
         }
       ]
     }

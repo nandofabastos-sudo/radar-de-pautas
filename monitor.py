@@ -48,9 +48,15 @@ HTML_TAG_RE = re.compile(r"<[^>]+>")
 
 
 def extract_nearby_title(html_text: str, end_pos: int, fallback: str,
-                         window_size: int = TITLE_SEARCH_WINDOW) -> str:
+                         window_size: int = TITLE_SEARCH_WINDOW,
+                         custom_pattern: str | None = None) -> str:
     window = html_text[end_pos: end_pos + window_size]
-    for pattern in (TITLE_TAG_PREFERRED_RE, TITLE_TAG_ANY_RE):
+    # alguns sites nao usam h1-h6 no titulo da chamada (ex: <div class=
+    # "box-title">); nesses da pra dizer na config onde o titulo esta
+    padroes = (TITLE_TAG_PREFERRED_RE, TITLE_TAG_ANY_RE)
+    if custom_pattern:
+        padroes = (re.compile(custom_pattern, re.DOTALL),) + padroes
+    for pattern in padroes:
         m = pattern.search(window)
         if m:
             cleaned = html.unescape(HTML_TAG_RE.sub("", m.group(1)))
@@ -124,6 +130,7 @@ def fetch_scrape_list(source: dict) -> list[dict]:
         title = extract_nearby_title(
             page_html, m.end(), source["name"],
             source.get("title_window", TITLE_SEARCH_WINDOW),
+            source.get("title_pattern"),
         )
         items.append({"id": link, "title": title, "link": link})
         if len(items) >= item_cap(source):
