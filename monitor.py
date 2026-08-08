@@ -28,6 +28,12 @@ BASE_DIR = Path(__file__).parent
 CONFIG_PATH = BASE_DIR / "config.json"
 STATE_PATH = BASE_DIR / "state" / "state.json"
 
+# No Windows a saida padrao e cp1252 e quebra ao imprimir emoji (o 🚨 das
+# notificacoes). Como o print vem depois do envio, isso fazia uma mensagem
+# entregue com sucesso ser reportada como falha.
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
 HEADERS = {
     "User-Agent": (
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
