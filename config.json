@@ -63,6 +63,16 @@
           "url": "https://dol.com.br/esporte/remo?d=1",
           "base_url": "https://dol.com.br",
           "url_pattern": "/esporte/remo/\\d+/[a-z0-9-]+"
+        },
+        {
+          "id": "oliberal_remo",
+          "type": "scrape_list",
+          "name": "O Liberal (Remo)",
+          "url": "https://www.oliberal.com/esportes",
+          "base_url": "https://www.oliberal.com",
+          "url_pattern": "/esportes/remo/[a-z0-9.-]+",
+          "title_pattern": "(?:title=\"|\">)([^\"<]{15,})",
+          "title_window": 300
         }
       ],
       "sources_nao_automatizadas": [
@@ -122,6 +132,16 @@
           "url": "https://dol.com.br/esporte/paysandu?d=1",
           "base_url": "https://dol.com.br",
           "url_pattern": "/esporte/paysandu/\\d+/[a-z0-9-]+"
+        },
+        {
+          "id": "oliberal_paysandu",
+          "type": "scrape_list",
+          "name": "O Liberal (Paysandu)",
+          "url": "https://www.oliberal.com/esportes",
+          "base_url": "https://www.oliberal.com",
+          "url_pattern": "/esportes/paysandu/[a-z0-9.-]+",
+          "title_pattern": "(?:title=\"|\">)([^\"<]{15,})",
+          "title_window": 300
         }
       ]
     },
