@@ -73,6 +73,12 @@
           "url_pattern": "/esportes/remo/[a-z0-9.-]+",
           "title_pattern": "(?:title=\"|\">)([^\"<]{15,})",
           "title_window": 300
+        },
+        {
+          "id": "ge_remo",
+          "type": "rss",
+          "name": "ge.globo (Remo)",
+          "url": "https://pox.globo.com/rss/ge/pa/futebol/times/remo/"
         }
       ],
       "sources_nao_automatizadas": [
@@ -80,11 +86,6 @@
           "name": "Remistas",
           "url": "https://remistas.com.br/",
           "motivo": "site com bloqueio anti-bot ativo; checar manualmente por enquanto"
-        },
-        {
-          "name": "ge.globo.com (Remo)",
-          "url": "https://ge.globo.com/pa/futebol/times/remo/",
-          "motivo": "domínio Globo bloqueia acesso automatizado; sem RSS público"
         }
       ]
     },
@@ -142,6 +143,12 @@
           "url_pattern": "/esportes/paysandu/[a-z0-9.-]+",
           "title_pattern": "(?:title=\"|\">)([^\"<]{15,})",
           "title_window": 300
+        },
+        {
+          "id": "ge_paysandu",
+          "type": "rss",
+          "name": "ge.globo (Paysandu)",
+          "url": "https://pox.globo.com/rss/ge/pa/futebol/times/paysandu/"
         }
       ]
     },
@@ -176,6 +183,12 @@
           "url": "https://www.piriquitonews.com/noticias",
           "base_url": "https://www.piriquitonews.com/",
           "url_pattern": "ler_noticia\\.php\\?id=\\d+"
+        },
+        {
+          "id": "ge_goias",
+          "type": "rss",
+          "name": "ge.globo (Goiás)",
+          "url": "https://pox.globo.com/rss/ge/go/futebol/times/goias/"
         }
       ]
     },
@@ -202,6 +215,12 @@
           "type": "rss",
           "name": "Mais Goiás (Vila Nova)",
           "url": "https://www.maisgoias.com.br/tag/vila-nova/feed/"
+        },
+        {
+          "id": "ge_vila_nova",
+          "type": "rss",
+          "name": "ge.globo (Vila Nova)",
+          "url": "https://pox.globo.com/rss/ge/go/futebol/times/vila-nova/"
         }
       ]
     },
@@ -230,7 +249,11 @@
           "base_url": "https://www.alagoasalerta.com.br",
           "url_pattern": "/noticia/[a-z0-9-]+",
           "title_window": 2500,
-          "filter_keywords": ["crb", "regatas", "galo"]
+          "filter_keywords": [
+            "crb",
+            "regatas",
+            "galo"
+          ]
         },
         {
           "id": "fala_regatiano_youtube",
@@ -246,7 +269,11 @@
           "base_url": "https://tribunahoje.com",
           "url_pattern": "/noticias/esportes/\\d{4}/\\d{2}/\\d{2}/\\d+-[a-z0-9-]+",
           "title_window": 2500,
-          "filter_keywords": ["crb", "regatas", "galo"]
+          "filter_keywords": [
+            "crb",
+            "regatas",
+            "galo"
+          ]
         },
         {
           "id": "gazeta_alagoas_crb",
@@ -256,7 +283,11 @@
           "base_url": "https://www.gazetaweb.com",
           "url_pattern": "/noticias/esportes/alagoano/[a-z0-9-]+-\\d{4,}",
           "title_window": 2500,
-          "filter_keywords": ["crb", "regatas", "galo"]
+          "filter_keywords": [
+            "crb",
+            "regatas",
+            "galo"
+          ]
         },
         {
           "id": "frances_news_crb",
@@ -267,7 +298,17 @@
           "url_pattern": "/post/\\d{4}/\\d{2}/\\d{2}/\\d+-[a-z0-9-]+",
           "title_pattern": "<div class=\"box-title\">(.*?)</div>",
           "title_window": 2500,
-          "filter_keywords": ["crb", "regatas", "galo"]
+          "filter_keywords": [
+            "crb",
+            "regatas",
+            "galo"
+          ]
+        },
+        {
+          "id": "ge_crb",
+          "type": "rss",
+          "name": "ge.globo (CRB)",
+          "url": "https://pox.globo.com/rss/ge/al/futebol/times/crb/"
         }
       ],
       "sources_nao_automatizadas": [

@@ -53,9 +53,10 @@ TITLE_TAG_ANY_RE = re.compile(r"<h[1-6][^>]*>(.*?)</h[1-6]>", re.DOTALL)
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 
 
-def extract_nearby_title(html_text: str, end_pos: int, fallback: str,
+def extract_nearby_title(html_text: str, end_pos: int,
                          window_size: int = TITLE_SEARCH_WINDOW,
-                         custom_pattern: str | None = None) -> str:
+                         custom_pattern: str | None = None) -> str | None:
+    """Devolve o titulo achado perto do link, ou None se nao achar."""
     window = html_text[end_pos: end_pos + window_size]
     # alguns sites nao usam h1-h6 no titulo da chamada (ex: <div class=
     # "box-title">); nesses da pra dizer na config onde o titulo esta
@@ -69,7 +70,7 @@ def extract_nearby_title(html_text: str, end_pos: int, fallback: str,
             cleaned = " ".join(cleaned.split())
             if cleaned:
                 return cleaned
-    return fallback
+    return None
 
 
 def item_cap(source: dict) -> int:
@@ -134,11 +135,17 @@ def fetch_scrape_list(source: dict) -> list[dict]:
             continue
         seen_links.add(link)
         title = extract_nearby_title(
-            page_html, m.end(), source["name"],
+            page_html, m.end(),
             source.get("title_window", TITLE_SEARCH_WINDOW),
             source.get("title_pattern"),
         )
-        items.append({"id": link, "title": title, "link": link})
+        item = {"id": link, "title": title or source["name"], "link": link}
+        if title is None:
+            # marca que o titulo e so o nome da fonte, pra esse texto nao
+            # entrar na peneira de palavra-chave (o nome costuma conter o
+            # proprio nome do clube, o que deixaria passar qualquer coisa)
+            item["title_fallback"] = True
+        items.append(item)
         if len(items) >= item_cap(source):
             break
     return items
@@ -174,7 +181,10 @@ def fetch_json_list(source: dict) -> list[dict]:
 
 
 def matches_keywords(item: dict, keywords: list[str]) -> bool:
-    alvo = (item.get("title", "") + " " + item.get("link", "")).lower()
+    partes = [item.get("link", "")]
+    if not item.get("title_fallback"):
+        partes.append(item.get("title", ""))
+    alvo = " ".join(partes).lower()
     return any(k.lower() in alvo for k in keywords)
 
 
