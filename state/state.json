@@ -149,7 +149,8 @@
       "yt:video:Iqks0ZOJSfo",
       "yt:video:UuC9_qRgauU",
       "yt:video:aVgYc96bj6w",
-      "yt:video:bilkJHzUiXQ"
+      "yt:video:bilkJHzUiXQ",
+      "yt:video:_KJT-a5RH8o"
     ],
     "remo100_rss": [
       "https://www.remo100porcento.com/?p=117374",
@@ -455,7 +456,8 @@
       "https://dol.com.br/esporte/remo/959154/remo-tchamba-avanca-na-recuperacao-e-ja-tem-prazo-para-voltar",
       "https://dol.com.br/esporte/remo/959161/remo-e-multado-por-desordem-no-mangueirao-e-tera-baixa-contra-o-atletico",
       "https://dol.com.br/esporte/remo/959204/pikachu-mira-revanche-contra-atletico-mg-para-sair-do-z4",
-      "https://dol.com.br/esporte/remo/959209/sem-marcelinho-e-marllon-veja-a-provavel-escalacao-do-remo-contra-o-atletico"
+      "https://dol.com.br/esporte/remo/959209/sem-marcelinho-e-marllon-veja-a-provavel-escalacao-do-remo-contra-o-atletico",
+      "https://dol.com.br/esporte/remo/959214/remo-x-atletico-mg-escalacoes-detalhes-arbitragem-e-onde-assistir"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -662,6 +664,42 @@
       "https://www.alagoasalerta.com.br/noticia/apos-deixar-o-crb-estrella-treina-separado-no-vasco-e-aguarda-definicao-sobre-futuro",
       "https://www.alagoasalerta.com.br/noticia/crb-tem-seis-jogadores-pendurados-antes-de-duelo-contra-o-avai-pela-serie-b",
       "https://www.alagoasalerta.com.br/noticia/csa-fecha-com-centroavante-ex-crb-e-corre-contra-o-tempo-para-regularizar-reforco-na-serie-d"
+    ],
+    "fala_regatiano_youtube": [
+      "yt:video:Y7qUf2gqH5Q",
+      "yt:video:yqSp8auAfUc",
+      "yt:video:NiBybJO9-2A",
+      "yt:video:gtfwSsX4vgY",
+      "yt:video:i9jPzKET_7U",
+      "yt:video:xhKuV6Me8JA",
+      "yt:video:d82S5-DIkhg",
+      "yt:video:f-slNOfyKas",
+      "yt:video:RgcR5kEPP88",
+      "yt:video:6mtdvypQPy0"
+    ],
+    "tribuna_hoje_crb": [
+      "https://tribunahoje.com/noticias/esportes/2026/08/05/190560-cbf-reconhece-titulos-do-crb-que-ultrapassa-csa",
+      "https://tribunahoje.com/noticias/esportes/2026/08/06/190642-crb-segue-no-mercado-em-busca-de-reforcos",
+      "https://tribunahoje.com/noticias/esportes/2026/08/06/190693-crb-anuncia-livro-exclusivo-para-arrecadar-recursos-destinados-ao-memorial-do-clube",
+      "https://tribunahoje.com/noticias/esportes/2026/08/07/190733-crb-quer-vencer-avai-para-entrar-na-briga-por-vaga-no-g6",
+      "https://tribunahoje.com/noticias/esportes/2026/08/07/190764-crb-destaca-novo-status-de-maior-campeao-de-alagoas-em-fachada-do-ct-ninho-do-galo",
+      "https://tribunahoje.com/noticias/esportes/2026/08/07/190805-csa-contrata-o-atacante-alan-james-ex-cse-e-crb-de-28-anos",
+      "https://tribunahoje.com/noticias/esportes/2026/08/08/190826-delegacao-do-crb-embarca-neste-domingo-para-florianopolis"
+    ],
+    "gazeta_alagoas_crb": [
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/entenda-como-o-crb-conseguiu-o-aval-da-cbf-para-se-tornar-o-maior-campeao-de-alagoas-927105",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/mario-marroquim-celebra-resgate-historico-do-crb-e-projeta-novos-passos-do-clube-927135",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/vice-do-crb-eduardo-marinho-exalta-pesquisa-e-reconhecimento-oficial-de-titulos-alagoanos-927143",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/casagrande-celebra-reconhecimento-de-titulos-do-crb-valorizar-ainda-mais-a-historia-927158",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-obtem-certificado-de-clube-formador-da-cbf-entenda-a-importancia-do-selo-927188",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/reforco-do-crb-estevao-destaca-evolucao-fisica-e-briga-por-vaga-no-meio-campo-927305",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/fabio-matias-ve-crb-alinhado-a-sua-filosofia-e-o-time-que-mais-se-encaixa-na-minha-ideia-927426",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/mario-marroquim-comenta-criacao-de-livro-e-memorial-do-crb-resgate-do-clube-e-da-cidade-927625",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/marroquim-cita-proximos-passos-dentro-e-fora-de-campo-sob-sua-gestao-no-crb-927626",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-instala-fachada-de-maior-campeao-de-alagoas-na-entrada-do-ct-apos-reconhecimento-da-cbf-927762"
+    ],
+    "frances_news_crb": [
+      "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf"
     ]
   },
   "goias": {
@@ -756,7 +794,8 @@
       "https://www.maisgoias.com.br/?p=1111111",
       "https://www.maisgoias.com.br/?p=1113899",
       "https://www.maisgoias.com.br/?p=1114563",
-      "https://www.maisgoias.com.br/?p=1115023"
+      "https://www.maisgoias.com.br/?p=1115023",
+      "https://www.maisgoias.com.br/?p=1114640"
     ]
   }
 }
