@@ -608,9 +608,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/948563/executivo-do-remo-destaca-as-melhorias-de-estrutura-no-ct-e-baenao",
-      "https://dol.com.br/esporte/remo/948511/agencia-da-cbf-aplica-advertencia-ao-remo-entenda-o-caso",
-      "https://dol.com.br/esporte/remo/947541/remo-retoma-brasileirao-em-semana-decisiva-veja-os-numeros",
       "https://dol.com.br/esporte/remo/947722/gramado-do-corinthians-recebe-criticas-e-preocupa-o-remo",
       "https://dol.com.br/esporte/remo/947473/remo-conde-minimiza-resultado-de-jogo-treino-e-foca-no-retorno-da-serie-a",
       "https://dol.com.br/esporte/remo/948175/leo-conde-celebra-retomada-da-identidade-do-remo-contra-o-vitoria",
@@ -907,7 +904,10 @@
       "https://dol.com.br/esporte/remo/962022/apos-13-anos-remo-e-flamengo-voltam-a-se-enfrentar-no-mangueirao",
       "https://dol.com.br/esporte/remo/962057/marcos-braz-declara-torcida-pelo-flamengo-contra-o-remo",
       "https://dol.com.br/esporte/remo/962061/acompanhe-ao-vivo-remo-0-x-0-flamengo",
-      "https://dol.com.br/esporte/remo/962061/acompanhe-ao-vivo-remo-0-x-1-flamengo"
+      "https://dol.com.br/esporte/remo/962061/acompanhe-ao-vivo-remo-0-x-1-flamengo",
+      "https://dol.com.br/esporte/remo/962077/marcelo-rangel-se-destaca-na-partida-contra-o-flamengo-e-pede-apoio-da-torcida",
+      "https://dol.com.br/esporte/remo/962075/torcida-do-remo-faz-festa-nas-arquibancadas-mas-time-decepciona",
+      "https://dol.com.br/esporte/remo/962076/flamengo-vence-remo-no-mangueirao-mas-admite-partida-dificil"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1035,7 +1035,8 @@
       "yt:video:mrw_GJj8QE8",
       "yt:video:6l-1LV5uZfE",
       "yt:video:JhDz3lh-5gc",
-      "yt:video:Y4ipVFUwGHk"
+      "yt:video:Y4ipVFUwGHk",
+      "yt:video:pYYXP8V5QwY"
     ],
     "oliberal_remo": [
       "https://www.oliberal.com/esportes/remo/vai-lotar-remo-divulga-nova-parcial-de-ingressos-para-o-jogo-contra-o-santos-de-neymar-1.1153124",
@@ -1165,7 +1166,11 @@
       "https://www.oliberal.com/esportes/remo/confianca-oposta-toma-conta-do-mangueirao-antes-de-remo-x-flamengo-1.1165592",
       "https://www.oliberal.com/esportes/remo/torcedores-de-remo-e-flamengo-se-envolvem-em-briga-nos-arredores-do-mangueirao-1.1165647",
       "https://www.oliberal.com/esportes/remo/torcida-do-remo-homenageia-nossa-senhora-de-nazare-e-resgata-herois-antes-do-jogo-com-o-flamengo-1.1165687",
-      "https://www.oliberal.com/esportes/remo/remo-faz-jogo-duro-mas-flamengo-vence-e-complica-leao-na-tabela-da-serie-a-1.1165805"
+      "https://www.oliberal.com/esportes/remo/remo-faz-jogo-duro-mas-flamengo-vence-e-complica-leao-na-tabela-da-serie-a-1.1165805",
+      "https://www.oliberal.com/esportes/remo/picco-avalia-proximas-rodadas-como-finais-para-o-remo-e-cutuca-conde-1.1165860",
+      "https://www.oliberal.com/esportes/remo/apos-a-vitoria-sobre-o-remo-tecnico-do-flamengo-elogia-torcida-paraense-espetacular-1.1165855",
+      "https://www.oliberal.com/esportes/remo/leonardo-jardim-critica-gramado-do-mangueirao-apos-vitoria-do-flamengo-sobre-o-remo-1.1165863",
+      "https://www.oliberal.com/esportes/remo/tecnico-do-flamengo-exalta-defesa-do-goleiro-marcelo-rangel-do-remo-uma-das-melhores-do-ano-1.1165865"
     ],
     "ge_remo": [
       "https://ge.globo.com/pa/futebol/noticia/2026/08/05/remo-bate-o-paysandu-na-curuzu-e-larga-em-vantagem-na-final-copa-para-sub-17.ghtml",
@@ -1270,7 +1275,9 @@
       "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/09/05/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-26a-rodada.ghtml",
       "https://ge.globo.com/pa/futebol/brasileirao-serie-a/noticia/2026/09/06/remo-x-flamengo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/06/com-idolos-e-nossa-senhora-remo-apresenta-tres-mosaicos-antes-de-jogo-com-flamengo.ghtml",
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/06/atuacoes-marcelo-rangel-se-destaca-em-derrota-do-remo-para-o-flamengo-de-suas-notas.ghtml"
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/06/atuacoes-marcelo-rangel-se-destaca-em-derrota-do-remo-para-o-flamengo-de-suas-notas.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/06/remo-x-flamengo-eleito-melhor-do-jogo-rangel-faz-defesa-inacreditavel-em-finalizacao-de-pedro-video.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/06/patrick-lamenta-pouca-sorte-do-remo-e-atribui-derrota-para-o-flamengo-a-detalhe.ghtml"
     ]
   },
   "paysandu": {
