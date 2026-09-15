@@ -685,8 +685,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/958750/remo-ajuda-copa-do-brasil-a-registrar-marca-inedita-veja-qual",
-      "https://dol.com.br/esporte/remo/948478/apos-teimosia-de-conde-picco-se-firma-entre-os-titulares-do-remo",
       "https://dol.com.br/esporte/remo/947929/remo-confirma-saida-do-zagueiro-thalisson-com-destino-ao-ceara",
       "https://dol.com.br/esporte/remo/947590/remo-intensifica-revitalizacao-no-baenao-e-melhorias-no-nasp",
       "https://dol.com.br/esporte/remo/948589/copa-do-brasil-remo-tera-zaga-inedita-contra-o-santos-confira-o-time",
@@ -984,7 +982,9 @@
       "https://dol.com.br/esporte/remo/962752/com-20-rodadas-no-z4-remo-precisa-vencer-o-bahia-para-reagir-na-serie-a",
       "https://dol.com.br/esporte/remo/962753/terceiro-uniforme-do-remo-exalta-a-cultura-e-as-raizes-do-para",
       "https://dol.com.br/esporte/remo/962759/remo-conde-leva-vantagem-sobre-ceni-e-quer-manter-tabu-contra-bahia",
-      "https://dol.com.br/esporte/remo/962762/acompanhe-ao-vivo-bahia-0-x-0-remo"
+      "https://dol.com.br/esporte/remo/962762/acompanhe-ao-vivo-bahia-0-x-0-remo",
+      "https://dol.com.br/esporte/remo/962770/rogerio-ceni-elogia-defesa-iconica-de-rangel-mais-bonita-em-10-anos",
+      "https://dol.com.br/esporte/remo/962774/video-vitor-bueno-desabafa-derrota-do-remo-para-o-bahia"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1428,7 +1428,10 @@
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/13/remo-encara-bahia-sem-peca-importante-e-outros-dois-desfalques-veja-relacionados.ghtml",
       "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/09/14/bahia-x-remo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/14/remo-lanca-terceiro-uniforme-vermelho-em-homenagem-a-bandeira-do-para-e-a-cultura-marajoara.ghtml",
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/14/com-tres-mexidas-e-mudanca-de-esquema-conde-define-remo-contra-o-bahia.ghtml"
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/14/com-tres-mexidas-e-mudanca-de-esquema-conde-define-remo-contra-o-bahia.ghtml",
+      "https://ge.globo.com/pa/futebol/brasileirao-serie-a/noticia/2026/09/14/rogerio-ceni-elogia-marcelo-rangel-por-defesa-em-remo-x-flamengo-mais-bonita-dos-ultimos-10-anos.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/14/atuacoes-do-remo-tchamba-falha-feio-em-quarta-derrota-seguida-do-time-de-suas-notas.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/14/bueno-desabafa-sobre-situacao-do-remo-na-serie-a-nao-e-impossivel-mas-muito-dificil.ghtml"
     ]
   },
   "paysandu": {
@@ -2956,7 +2959,10 @@
       "https://www.maisgoias.com.br/?p=1132954",
       "https://www.maisgoias.com.br/?p=1133550",
       "https://www.maisgoias.com.br/?p=1133643",
-      "https://www.maisgoias.com.br/?p=1134012"
+      "https://www.maisgoias.com.br/?p=1134012",
+      "https://www.maisgoias.com.br/?p=1134068",
+      "https://www.maisgoias.com.br/?p=1134093",
+      "https://www.maisgoias.com.br/?p=1134135"
     ],
     "piriquito_news": [
       "https://www.piriquitonews.com/ler_noticia.php?id=27",
@@ -3019,7 +3025,8 @@
       "https://www.piriquitonews.com/ler_noticia.php?id=91",
       "https://www.piriquitonews.com/ler_noticia.php?id=92",
       "https://www.piriquitonews.com/ler_noticia.php?id=94",
-      "https://www.piriquitonews.com/ler_noticia.php?id=95"
+      "https://www.piriquitonews.com/ler_noticia.php?id=95",
+      "https://www.piriquitonews.com/ler_noticia.php?id=96"
     ],
     "ge_goias": [
       "https://ge.globo.com/go/noticia/2026/08/04/obras-no-serra-dourada-ja-estao-a-todo-vapor-veja-imagens-exclusivas.ghtml",
@@ -3084,7 +3091,9 @@
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/10/mozart-reconhece-situacao-dificil-apos-derrota-no-classico-mas-cre-em-retomada-jamais-vou-desistir.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/11/goias-desmorona-no-segundo-turno-e-fica-longe-da-briga-pelo-acesso.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/11/goias-busca-reacao-fora-de-casa-apos-derrota-no-classico.ghtml",
-      "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/brasileirao-serie-b/noticia/2026/09/14/botafogo-sp-x-goias-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+      "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/brasileirao-serie-b/noticia/2026/09/14/botafogo-sp-x-goias-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+      "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/brasileirao-serie-b/noticia/2026/09/14/tadeu-faz-lambanca-contra-botafogo-sp-mas-se-redime-com-gol-em-vitoria-do-goias-video.ghtml",
+      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/14/mozart-diz-que-goias-ainda-sonha-com-acesso-na-serie-b.ghtml"
     ]
   },
   "vila_nova": {
@@ -3239,7 +3248,9 @@
       "https://www.maisgoias.com.br/?p=1132918",
       "https://www.maisgoias.com.br/?p=1132924",
       "https://www.maisgoias.com.br/?p=1132954",
-      "https://www.maisgoias.com.br/?p=1133682"
+      "https://www.maisgoias.com.br/?p=1133682",
+      "https://www.maisgoias.com.br/?p=1134080",
+      "https://www.maisgoias.com.br/?p=1134136"
     ],
     "vilanova_site": [
       "https://www.vilanovafc.com.br/noticias/540-venda-de-ingressos-vila-nova-x-botafogo-sp-serie-b-2026",
