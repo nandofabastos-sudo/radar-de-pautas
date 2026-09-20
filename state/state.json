@@ -373,7 +373,6 @@
       "yt:video:u7fWneIWdC0"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=117650",
       "https://www.remo100porcento.com/?p=117415",
       "https://www.remo100porcento.com/?p=117642",
       "https://www.remo100porcento.com/?p=117378",
@@ -672,7 +671,8 @@
       "https://www.remo100porcento.com/?p=119026",
       "https://www.remo100porcento.com/?p=119030",
       "https://www.remo100porcento.com/?p=119033",
-      "https://www.remo100porcento.com/?p=119065"
+      "https://www.remo100porcento.com/?p=119065",
+      "https://www.remo100porcento.com/?p=119057"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -2521,7 +2521,8 @@
       "yt:video:Ec63nFFRle8",
       "yt:video:gfl-owi4g5M",
       "yt:video:iRyVlVPv_9I",
-      "yt:video:DvQAqBhdCsE"
+      "yt:video:DvQAqBhdCsE",
+      "yt:video:KD5_MZtAsyg"
     ],
     "crb_site": [
       "https://www.crboficial.com.br/futebol/crb-vence-nautico-por-2x1-pela-18-rodada-da-serie-b",
@@ -2572,7 +2573,8 @@
       "https://www.crboficial.com.br/futebol/crb-finaliza-preparacao-para-enfrentar-o-sport-pela-serie-b",
       "https://www.crboficial.com.br/futebol/no-estadio-rei-pele-crb-vence-o-sport-por-2x1-pela-serie-b",
       "https://www.crboficial.com.br/futebol/apos-vitoria-sobre-o-sport-crb-volta-aos-trabalhos-de-olho-na-ponte-preta",
-      "https://www.crboficial.com.br/futebol/em-campinas-crb-finaliza-preparacao-para-enfrentar-a-ponte-preta-pela-29-rodada"
+      "https://www.crboficial.com.br/futebol/em-campinas-crb-finaliza-preparacao-para-enfrentar-a-ponte-preta-pela-29-rodada",
+      "https://www.crboficial.com.br/futebol/crb-e-superado-pela-ponte-preta-na-29-rodada-da-serie-b"
     ],
     "alagoas_alerta_crb": [
       "https://www.alagoasalerta.com.br/noticia/lyncon-ganha-espaco-no-crb-com-fabio-matias-e-destaca-confianca-do-treinador",
@@ -2734,7 +2736,9 @@
       "https://tribunahoje.com/noticias/esportes/2026/09/17/193966-crystopher-destaca-forca-coletiva-do-crb-e-pede-humildade-na-reta-final-da-serie-b",
       "https://tribunahoje.com/noticias/esportes/2026/09/18/193996-crb-aumenta-chance-do-sonho-da-serie-a",
       "https://tribunahoje.com/noticias/esportes/2026/09/19/194099-crb-faz-aniversario-e-encara-a-ponte-preta-neste-domingo-20",
-      "https://tribunahoje.com/noticias/esportes/2026/09/19/194125-crb-encerra-preparacao-para-enfrentar-a-ponte-preta-pela-serie-b"
+      "https://tribunahoje.com/noticias/esportes/2026/09/19/194125-crb-encerra-preparacao-para-enfrentar-a-ponte-preta-pela-serie-b",
+      "https://tribunahoje.com/noticias/esportes/2026/09/20/194150-crb-perde-em-seu-aniversario-para-a-ponte-preta-que-volta-a-vencer-apos-quase-5-meses",
+      "https://tribunahoje.com/noticias/esportes/2026/09/20/194152-foi-um-dia-infeliz-admite-fabio-matias-apos-derrota-do-crb"
     ],
     "gazeta_alagoas_crb": [
       "https://www.gazetaweb.com/noticias/esportes/alagoano/entenda-como-o-crb-conseguiu-o-aval-da-cbf-para-se-tornar-o-maior-campeao-de-alagoas-927105",
@@ -2860,7 +2864,9 @@
       "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-embarca-para-enfrentar-a-ponte-preta-com-mudanca-na-lateral-direita-936631",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/no-dia-do-aniversario-crb-projeta-vitoria-contra-a-ponte-preta-para-retornar-ao-g-6-936721",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/segundo-tempo-comeca-com-a-ponte-na-frente-do-crb-1-a-0-acompanhe-ao-vivo-na-gazeta-937010",
-      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-falha-nas-finalizacoes-e-derrotado-pela-ponte-preta-e-segue-fora-do-g-6-1-a-0-937036"
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-falha-nas-finalizacoes-e-derrotado-pela-ponte-preta-e-segue-fora-do-g-6-1-a-0-937036",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/em-meio-a-derrota-para-a-ponte-preta-crb-comemora-114-anos-de-historia-937045",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/apos-derrota-para-a-ponte-preta-fabio-matias-projeta-recuperacao-do-crb-contra-o-cuiaba-937050"
     ],
     "frances_news_crb": [
       "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf",
@@ -2901,7 +2907,8 @@
       "https://francesnews.com.br/post/2026/09/26/39197-crb-x-sport-saiba-onde-assistir-horario-e-escalacoes-pela-serie-b",
       "https://francesnews.com.br/post/2026/09/26/39327-crb-vence-o-sport-amplia-tabu-no-rei-pele-e-fica-a-um-ponto-do-g-6-da-serie-b",
       "https://francesnews.com.br/post/2026/09/26/39333-tumulto-apos-crb-x-sport-tem-barreiras-derrubadas-agressao-a-pms-e-denuncias-contra-acao-policial",
-      "https://francesnews.com.br/post/2026/09/26/39746-crb-visita-a-ponte-preta-de-olho-no-g-6-da-serie-b-veja-onde-assistir-e-escalacoes"
+      "https://francesnews.com.br/post/2026/09/26/39746-crb-visita-a-ponte-preta-de-olho-no-g-6-da-serie-b-veja-onde-assistir-e-escalacoes",
+      "https://francesnews.com.br/post/2026/09/26/39789-crb-perde-para-lanterna-ponte-preta-no-dia-do-aniversario-de-114-anos"
     ],
     "ge_crb": [
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/04/crb-promove-a-primeira-corrida-do-galo-com-percursos-de-3-5-e-10-km.ghtml",
@@ -3037,7 +3044,9 @@
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/19/provavel-escalacao-com-visita-de-bicampeao-crb-encerra-treinos-para-jogo-contra-a-ponte.ghtml",
       "https://ge.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-b/noticia/2026/09/19/ponte-preta-x-crb-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/20/crb-comemora-114-anos-com-reconhecimento-de-titulos-e-vivo-na-briga-pelo-acesso-a-serie-a.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/20/matias-faz-tres-mudancas-no-crb-contra-a-ponte-e-mantem-reverson-na-lateral.ghtml"
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/20/matias-faz-tres-mudancas-no-crb-contra-a-ponte-e-mantem-reverson-na-lateral.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/20/no-aniversario-crb-perde-para-a-lanterna-da-serie-b-e-nao-entra-no-g-6.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/20/matias-nao-culpa-o-gramado-por-pessima-atuacao-do-crb-velocidade-baixa.ghtml"
     ]
   },
   "goias": {
@@ -3121,7 +3130,8 @@
       "https://www.goiasec.com.br/noticias/goias-e-c-x-fortaleza-e-c---guia-da-partida-em-5-setembro---campeonato-brasileiro-serie-b",
       "https://www.goiasec.com.br/noticias/goias-esporte-clube-anuncia-parceria-com-a-sintonizy",
       "https://www.goiasec.com.br/noticias/vila-nova-f-c-x-goias-e-c---guia-da-partida-em-10-setembro---campeonato-brasileiro-serie-b",
-      "https://www.goiasec.com.br/noticias/botafogo-sp-x-goias-e-c---guia-da-partida-em-14-setembro---campeonato-brasileiro-serie-b"
+      "https://www.goiasec.com.br/noticias/botafogo-sp-x-goias-e-c---guia-da-partida-em-14-setembro---campeonato-brasileiro-serie-b",
+      "https://www.goiasec.com.br/noticias/goias-e-c-x-avai-f-c---guia-da-partida-em-20-setembro---campeonato-brasileiro-serie-b"
     ],
     "mais_goias_goias": [
       "https://www.maisgoias.com.br/?p=1106124",
@@ -3219,7 +3229,8 @@
       "https://www.maisgoias.com.br/?p=1136073",
       "https://www.maisgoias.com.br/?p=1136274",
       "https://www.maisgoias.com.br/?p=1136318",
-      "https://www.maisgoias.com.br/?p=1136585"
+      "https://www.maisgoias.com.br/?p=1136585",
+      "https://www.maisgoias.com.br/?p=1137040"
     ],
     "piriquito_news": [
       "https://www.piriquitonews.com/ler_noticia.php?id=27",
