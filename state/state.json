@@ -389,9 +389,6 @@
       "yt:video:wddmSVnvJgE"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=117470",
-      "https://www.remo100porcento.com/?p=117539",
-      "https://www.remo100porcento.com/?p=117401",
       "https://www.remo100porcento.com/?p=117575",
       "https://www.remo100porcento.com/?p=117672",
       "https://www.remo100porcento.com/?p=117467",
@@ -688,7 +685,10 @@
       "https://www.remo100porcento.com/?p=119107",
       "https://www.remo100porcento.com/?p=119112",
       "https://www.remo100porcento.com/?p=119114",
-      "https://www.remo100porcento.com/?p=119118"
+      "https://www.remo100porcento.com/?p=119118",
+      "https://www.remo100porcento.com/?p=119116",
+      "https://www.remo100porcento.com/?p=119123",
+      "https://www.remo100porcento.com/?p=119125"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -750,8 +750,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/958873/rangel-destaca-foco-e-confianca-do-remo-para-decisao-contra-o-santos",
-      "https://dol.com.br/esporte/remo/958903/justica-da-vitoria-ao-remo-contra-fornecedora-e-livra-clube-de-multa",
       "https://dol.com.br/esporte/remo/958930/vice-do-remo-protesta-contra-arbitragem-um-absurdo-mais-uma-vez",
       "https://dol.com.br/esporte/remo/958927/lei-do-ex-rony-marca-e-santos-elimina-o-remo-na-copa-do-brasil",
       "https://dol.com.br/esporte/remo/958929/remo-perde-chance-de-chegar-as-quartas-de-final-apos-35-anos",
@@ -1049,7 +1047,9 @@
       "https://dol.com.br/esporte/remo/963697/titular-tchamba-se-destaca-e-camaroes-vence-nas-eliminatorias",
       "https://dol.com.br/esporte/remo/963701/destaque-no-remo-marcelo-rangel-entra-no-radar-do-santos-e-outras-equipes",
       "https://dol.com.br/esporte/remo/963706/remo-joao-lucas-inicia-transicao-fisica-apos-grave-lesao-no-joelho",
-      "https://dol.com.br/esporte/remo/963756/quatro-atletas-da-base-do-remo-assinam-contrato-ate-2029"
+      "https://dol.com.br/esporte/remo/963756/quatro-atletas-da-base-do-remo-assinam-contrato-ate-2029",
+      "https://dol.com.br/esporte/remo/963790/remo-marcelinho-entra-no-radar-de-bahia-e-internacional-para-2027",
+      "https://dol.com.br/esporte/remo/963793/enquanto-aguarda-definicao-no-remo-rangel-diz-momento-e-trabalhar"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1216,7 +1216,8 @@
       "yt:video:DUAYCrju5i4",
       "yt:video:7kur6XevBME",
       "yt:video:k-M9lHJ9hho",
-      "yt:video:zF14l6Ex2Pg"
+      "yt:video:zF14l6Ex2Pg",
+      "yt:video:LsOlxOvnnX4"
     ],
     "oliberal_remo": [
       "https://www.oliberal.com/esportes/remo/vai-lotar-remo-divulga-nova-parcial-de-ingressos-para-o-jogo-contra-o-santos-de-neymar-1.1153124",
@@ -1420,7 +1421,8 @@
       "https://www.oliberal.com/esportes/remo/renato-gaucho-tera-dois-desfalques-para-duelo-com-o-remo-1.1172706",
       "https://www.oliberal.com/esportes/remo/em-fase-final-de-recuperacao-joao-lucas-deve-retornar-ao-remo-em-outubro-1.1172741",
       "https://www.oliberal.com/esportes/remo/lembra-dele-concorrente-do-remo-na-serie-a-inter-fecha-com-tecnico-campeao-com-o-leao-1.1172167",
-      "https://www.oliberal.com/esportes/remo/clubes-da-serie-a-sinalizam-interesse-em-marcelinho-destaque-do-remo-1.1173120"
+      "https://www.oliberal.com/esportes/remo/clubes-da-serie-a-sinalizam-interesse-em-marcelinho-destaque-do-remo-1.1173120",
+      "https://www.oliberal.com/esportes/remo/nao-sei-o-que-desenrolou-para-o-afastamento-diz-lateral-do-remo-sobre-alef-manga-1.1173227"
     ],
     "ge_remo": [
       "https://ge.globo.com/pa/futebol/noticia/2026/08/05/remo-bate-o-paysandu-na-curuzu-e-larga-em-vantagem-na-final-copa-para-sub-17.ghtml",
@@ -1597,7 +1599,9 @@
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/25/tchamba-do-remo-e-titular-em-vitoria-de-camaroes.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/25/remo-usa-apenas-dois-sub-23-no-brasileiro-veja-historico-do-clube-com-jovens-nesta-decada.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/25/torcedor-do-remo-que-tatuou-defesa-de-rangel-encontra-goleiro-e-eterniza-autografo-na-pele.ghtml",
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/25/remo-assina-contrato-de-tres-temporadas-com-quatro-destaques-do-time-sub-17.ghtml"
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/25/remo-assina-contrato-de-tres-temporadas-com-quatro-destaques-do-time-sub-17.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/25/remo-e-multado-e-atacante-advertido-em-julgamento-no-stjd.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/09/25/alef-manga-e-afastado-do-remo-e-vive-novo-caso-de-indisciplina-na-carreira.ghtml"
     ]
   },
   "paysandu": {
@@ -1803,7 +1807,8 @@
       "yt:video:88u5Rzk8tcw",
       "yt:video:BTlckSWYxqE",
       "yt:video:t8oZHlIVz9g",
-      "yt:video:CzEWgCFkfHQ"
+      "yt:video:CzEWgCFkfHQ",
+      "yt:video:N_U2qSVkWfI"
     ],
     "noticias_paysandu_youtube": [
       "yt:video:WbGw0_T_gNA",
@@ -2894,7 +2899,8 @@
       "https://tribunahoje.com/noticias/esportes/2026/09/23/194476-foi-uma-serie-de-fatores-admite-fabio-alemao-apos-derrota-do-crb-para-a-ponte-preta",
       "https://tribunahoje.com/noticias/esportes/2026/09/23/194491-crb-inicia-venda-de-ingressos-para-duelo-decisivo-contra-o-cuiaba",
       "https://tribunahoje.com/noticias/esportes/2026/09/24/194512-crb-deve-ter-mudancas-contra-o-cuiaba-no-domingo",
-      "https://tribunahoje.com/noticias/esportes/2026/09/25/194608-crb-espera-casa-cheia-contra-o-cuiaba"
+      "https://tribunahoje.com/noticias/esportes/2026/09/25/194608-crb-espera-casa-cheia-contra-o-cuiaba",
+      "https://tribunahoje.com/noticias/esportes/2026/09/25/194667-bressan-retorna-ao-crb-e-mira-vitoria-sobre-o-cuiaba-para-seguir-na-briga-pelo-acesso"
     ],
     "gazeta_alagoas_crb": [
       "https://www.gazetaweb.com/noticias/esportes/alagoano/entenda-como-o-crb-conseguiu-o-aval-da-cbf-para-se-tornar-o-maior-campeao-de-alagoas-927105",
@@ -3025,7 +3031,9 @@
       "https://www.gazetaweb.com/noticias/esportes/alagoano/apos-derrota-para-a-ponte-preta-fabio-matias-projeta-recuperacao-do-crb-contra-o-cuiaba-937050",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/reuniao-presenca-de-diretores-e-uniao-do-elenco-marcam-reapresentacao-do-crb-937720",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/baggio-ve-duelo-com-cuiaba-como-mais-uma-final-na-luta-do-crb-pelo-g-6-937926",
-      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-continua-preparacao-para-duelo-decisivo-contra-o-cuiaba-937953"
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-continua-preparacao-para-duelo-decisivo-contra-o-cuiaba-937953",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/bressan-convoca-torcida-para-jogo-do-crb-a-gente-precisa-muito-para-buscar-o-sonho-938217",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/em-boa-fase-cuiaba-conta-com-a-segunda-melhor-defesa-da-serie-b-para-encarar-o-crb-938227"
     ],
     "frances_news_crb": [
       "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf",
@@ -3218,7 +3226,9 @@
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/24/diretoria-vai-ao-treino-do-crb-e-se-reune-com-comissao-tecnica-e-elenco.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/24/time-da-serie-b-deve-fazer-caminho-inverso-ao-do-crb-em-2024-demite-helio-dos-anjos-e-encaminha-acerto-com-pivetti.ghtml",
       "https://ge.globo.com/al/futebol/noticia/2026/09/24/defesa-pede-liberdade-para-torcedor-do-sport-preso-por-agredir-pm-no-rei-pele.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/24/escalacao-do-crb-kevin-nao-treina-com-o-grupo-e-hereda-continua-na-equipe.ghtml"
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/24/escalacao-do-crb-kevin-nao-treina-com-o-grupo-e-hereda-continua-na-equipe.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/25/bressan-analisa-momento-do-crb-e-nivel-de-competitividade-da-serie-b.ghtml",
+      "https://ge.globo.com/al/futebol/noticia/2026/09/25/cbf-quer-mudar-rebaixamento-presidente-do-crb-diz-que-times-da-serie-b-nao-aprovam.ghtml"
     ]
   },
   "goias": {
@@ -3573,7 +3583,8 @@
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/22/comentarista-elogia-protesto-silencioso-do-elenco-e-analisa-crise-financeira-do-goias.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/23/goias-tem-desfalques-mas-conta-com-o-retorno-de-filipe-machado-no-classico.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/24/goias-inicia-venda-de-ingressos-para-classico-mas-torcida-protesta-paguem-os-jogadores.ghtml",
-      "https://ge.globo.com/mt/futebol/times/cuiaba/noticia/2026/09/24/com-passagens-por-palmeiras-e-goias-lorenzo-se-firma-como-titular-no-cuiaba.ghtml"
+      "https://ge.globo.com/mt/futebol/times/cuiaba/noticia/2026/09/24/com-passagens-por-palmeiras-e-goias-lorenzo-se-firma-como-titular-no-cuiaba.ghtml",
+      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/25/de-coadjuvante-a-artilheiro-kadu-sousa-lidera-goias-em-temporada-turbulenta.ghtml"
     ]
   },
   "vila_nova": {
