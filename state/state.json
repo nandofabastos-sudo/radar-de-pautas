@@ -393,8 +393,6 @@
       "yt:video:ixvwtrylpK4"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=117467",
-      "https://www.remo100porcento.com/?p=117644",
       "https://www.remo100porcento.com/?p=117636",
       "https://www.remo100porcento.com/?p=117423",
       "https://www.remo100porcento.com/?p=117369",
@@ -692,7 +690,9 @@
       "https://www.remo100porcento.com/?p=119123",
       "https://www.remo100porcento.com/?p=119125",
       "https://www.remo100porcento.com/?p=119127",
-      "https://www.remo100porcento.com/?p=119131"
+      "https://www.remo100porcento.com/?p=119131",
+      "https://www.remo100porcento.com/?p=119140",
+      "https://www.remo100porcento.com/?p=119142"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -1428,7 +1428,14 @@
       "https://www.oliberal.com/esportes/remo/clubes-da-serie-a-sinalizam-interesse-em-marcelinho-destaque-do-remo-1.1173120",
       "https://www.oliberal.com/esportes/remo/nao-sei-o-que-desenrolou-para-o-afastamento-diz-lateral-do-remo-sobre-alef-manga-1.1173227",
       "https://www.oliberal.com/esportes/remo/marlon-cobra-equilibrio-do-remo-para-duelo-direto-contra-o-gremio-1.1173299",
-      "https://www.oliberal.com/esportes/remo/remo-se-manifesta-sobre-proibicao-das-bets-no-brasil-1.1173350"
+      "https://www.oliberal.com/esportes/remo/remo-se-manifesta-sobre-proibicao-das-bets-no-brasil-1.1173350",
+      "https://www.oliberal.com/esportes/remo/em-fase-final-de-recuperac-o-jo-o-lucas-deve-retornar-ao-remo-em-outubro-1.1172741",
+      "https://www.oliberal.com/esportes/remo/com-tchamba-titular-camar-es-estreia-com-vitoria-nas-eliminatorias-da-copa-africana-1.1172798",
+      "https://www.oliberal.com/esportes/remo/marcelo-rangel-garante-foco-no-remo-a-meses-do-fim-do-contrato-meu-empresario-e-quem-sabe-1.1173114",
+      "https://www.oliberal.com/esportes/remo/clubes-da-serie-a-sinalizam-interesse-em-marcelinho-do-remo-1.1173120",
+      "https://www.oliberal.com/esportes/remo/n-o-sei-o-que-desenrolou-para-o-afastamento-diz-lateral-do-remo-sobre-alef-manga-1.1173227",
+      "https://www.oliberal.com/esportes/remo/bahia-vence-o-remo-e-afunda-o-le-o-azul-na-zona-de-rebaixamento-da-serie-a-1.1168785",
+      "https://www.oliberal.com/esportes/remo/remo-se-manifesta-sobre-proibic-o-das-bets-no-brasil-1.1173350"
     ],
     "ge_remo": [
       "https://ge.globo.com/pa/futebol/noticia/2026/08/05/remo-bate-o-paysandu-na-curuzu-e-larga-em-vantagem-na-final-copa-para-sub-17.ghtml",
@@ -2318,7 +2325,12 @@
       "https://dol.com.br/esporte/paysandu/963838/inter-de-limeira-x-paysandu-onde-assistir-horario-e-escalacoes",
       "https://dol.com.br/esporte/paysandu/963860/ainda-da-veja-o-que-o-paysandu-precisa-para-garantir-o-acesso-a-serie-b",
       "https://dol.com.br/esporte/paysandu/963871/inter-de-limeira-x-paysandu-acompanhe-pelo-tem-jogo-no-dol",
-      "https://dol.com.br/esporte/paysandu/963871/ao-vivo-inter-de-limeira-2-x-0-paysandu"
+      "https://dol.com.br/esporte/paysandu/963871/ao-vivo-inter-de-limeira-2-x-0-paysandu",
+      "https://dol.com.br/esporte/paysandu/963884/paysandu-perde-para-a-inter-e-ve-acesso-a-serie-b-ficar-ainda-mais-distante",
+      "https://dol.com.br/esporte/paysandu/963885/por-que-o-paysandu-enfrentou-a-inter-com-a-bet-da-sorte-na-camisa",
+      "https://dol.com.br/esporte/paysandu/963889/quem-morre-de-vespera-e-peru-dispara-mazola-apos-derrota-do-paysandu",
+      "https://dol.com.br/esporte/paysandu/963890/por-um-fio-veja-a-combinacao-de-resultados-que-interessa-ao-paysandu",
+      "https://dol.com.br/esporte/paysandu/963892/jogou-a-toalha-marcinho-fala-em-planejar-2027-no-paysandu"
     ],
     "oliberal_paysandu": [
       "https://www.oliberal.com/esportes/paysandu/junior-rocha-elogia-integracao-da-base-apos-jogo-treino-e-confirma-reforcos-a-disposicao-no-paysandu-1.1152645",
@@ -2480,7 +2492,13 @@
       "https://www.oliberal.com/esportes/paysandu/lembra-deles-adversario-do-paysandu-inter-de-limeira-possui-jogadores-que-defenderam-leao-e-papao-1.1173133",
       "https://www.oliberal.com/esportes/paysandu/paysandu-tera-que-superar-historico-ruim-em-quadrangular-para-sonhar-com-acesso-1.1173248",
       "https://www.oliberal.com/esportes/paysandu/em-busca-da-sobrevivencia-paysandu-encara-a-inter-de-limeira-no-quadrangular-da-serie-c-1.1173150",
-      "https://www.oliberal.com/esportes/paysandu/paysandu-perde-para-a-inter-de-limeira-e-esta-praticamente-fora-da-briga-pelo-acesso-a-serie-b-1.1173524"
+      "https://www.oliberal.com/esportes/paysandu/paysandu-perde-para-a-inter-de-limeira-e-esta-praticamente-fora-da-briga-pelo-acesso-a-serie-b-1.1173524",
+      "https://www.oliberal.com/esportes/paysandu/inter-de-limeira-pega-o-paysandu-e-artilheiro-da-equipe-diz-tem-que-ganhar-os-dois-em-casa-1.1173045",
+      "https://www.oliberal.com/esportes/paysandu/vai-tirar-o-selo-paysandu-vai-inaugurar-sistema-de-iluminac-o-do-estadio-da-inter-de-limeira-1.1173073",
+      "https://www.oliberal.com/esportes/paysandu/lembra-deles-adversario-do-paysandu-inter-de-limeira-possui-jogadores-que-defenderam-le-o-e-pap-o-1.1173133",
+      "https://www.oliberal.com/esportes/paysandu/apos-demiss-o-do-paysandu-junior-rocha-agradece-clube-e-rebate-criticas-1.1169148",
+      "https://www.oliberal.com/esportes/paysandu/marcinho-deixa-futuro-em-aberto-e-lamenta-queda-na-serie-c-somos-todos-culpados-1.1173600",
+      "https://www.oliberal.com/esportes/paysandu/sincer-o-mazola-junior-detona-atuac-o-do-paysandu-fomos-muito-incompetentes-1.1173579"
     ],
     "ge_paysandu": [
       "https://ge.globo.com/rn/futebol/noticia/2026/08/03/zagueiro-destaque-do-america-rn-na-serie-d-acerta-com-o-paysandu.ghtml",
@@ -2615,7 +2633,8 @@
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/09/25/kukri-e-relacionado-pela-primeira-vez-no-paysandu.ghtml",
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/09/25/mazola-projeta-poucas-mexidas-no-paysandu-e-reacao-no-quadrangular-desafio-gigantesco.ghtml",
       "https://ge.globo.com/sp/campinas-e-regiao/futebol/brasileirao-serie-c/noticia/2026/09/26/inter-de-limeira-x-paysandu-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/09/26/com-uma-mudanca-mazola-confirma-paysandu-para-decisao-contra-inter-de-limeira.ghtml"
+      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/09/26/com-uma-mudanca-mazola-confirma-paysandu-para-decisao-contra-inter-de-limeira.ghtml",
+      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/09/26/mazola-detona-atuacao-do-paysandu-em-derrota-para-inter-fomos-muito-incompetentes.ghtml"
     ]
   },
   "crb": {
@@ -3266,7 +3285,8 @@
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/26/crb-de-fabio-matias-tem-81percent-de-aproveitamento-em-casa.ghtml",
       "https://ge.globo.com/mt/futebol/brasileirao-serie-b/noticia/2026/09/26/idolo-do-cuiaba-boge-marcou-unico-gol-pelo-clube-contra-o-crb-relembre.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/26/saiba-o-que-o-crb-precisa-fazer-na-30a-rodada-para-entrar-no-g-6.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/26/com-mikael-disparado-na-artilharia-crb-confia-no-seu-poder-ofensivo-para-tentar-o-acesso-veja-os-numeros.ghtml"
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/09/26/com-mikael-disparado-na-artilharia-crb-confia-no-seu-poder-ofensivo-para-tentar-o-acesso-veja-os-numeros.ghtml",
+      "https://ge.globo.com/al/futebol/brasileirao-serie-b/noticia/2026/09/27/crb-x-cuiaba-onde-assistir-ao-vivo-horario-e-escalacao.ghtml"
     ]
   },
   "goias": {
@@ -3628,7 +3648,8 @@
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/24/goias-inicia-venda-de-ingressos-para-classico-mas-torcida-protesta-paguem-os-jogadores.ghtml",
       "https://ge.globo.com/mt/futebol/times/cuiaba/noticia/2026/09/24/com-passagens-por-palmeiras-e-goias-lorenzo-se-firma-como-titular-no-cuiaba.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/25/de-coadjuvante-a-artilheiro-kadu-sousa-lidera-goias-em-temporada-turbulenta.ghtml",
-      "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/09/26/goias-x-atletico-go-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+      "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/09/26/goias-x-atletico-go-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/09/26/mozart-cutuca-diretoria-do-goias-apos-derrota-no-classico-contra-o-atletico-go.ghtml"
     ]
   },
   "vila_nova": {
