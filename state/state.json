@@ -2160,9 +2160,6 @@
       "8693"
     ],
     "dol_paysandu": [
-      "https://dol.com.br/esporte/paysandu/959062/rodada-da-serie-c-pode-tirar-paysandu-do-g-8-ou-leva-lo-ao-2-lugar",
-      "https://dol.com.br/esporte/paysandu/959064/paysandu-anuncia-o-zagueiro-lucas-rodrigues-em-busca-do-acesso",
-      "https://dol.com.br/esporte/paysandu/959098/mesmo-contra-o-lanterna-radsley-preve-jogo-complicado-para-o-paysandu",
       "https://dol.com.br/esporte/paysandu/959141/juninho-sofre-lesao-e-vira-desfalque-no-paysandu",
       "https://dol.com.br/esporte/paysandu/959141/paysandu-artilheiro-da-serie-c-juninho-vira-duvida-apos-lesao",
       "https://dol.com.br/esporte/paysandu/959195/helio-dos-anjos-e-ex-atletas-contestam-recuperacao-judicial-do-paysandu",
@@ -2459,7 +2456,10 @@
       "https://dol.com.br/esporte/paysandu/964486/paysandu-x-ferroviaria-escalacoes-probabilidades-e-onde-assistir",
       "https://dol.com.br/esporte/paysandu/964491/chapa-papao-da-curuzu-e-registrada-para-eleicao-do-paysandu",
       "https://dol.com.br/esporte/paysandu/964498/marcinho-pede-reacao-do-paysandu-contra-a-ferroviaria-seguimos-vivos",
-      "https://dol.com.br/esporte/paysandu/964520/acompanhe-ao-vivo-paysandu-0-x-0-ferroviaria"
+      "https://dol.com.br/esporte/paysandu/964520/acompanhe-ao-vivo-paysandu-0-x-0-ferroviaria",
+      "https://dol.com.br/esporte/paysandu/964520/fim-de-papo-paysandu-1-x-0-ferroviaria",
+      "https://dol.com.br/esporte/paysandu/964527/paysandu-vence-a-ferroviaria-e-segue-vivo-pelo-acesso-a-serie-b",
+      "https://dol.com.br/esporte/paysandu/964528/o-que-o-paysandu-precisa-para-garantir-o-acesso-a-serie-b"
     ],
     "oliberal_paysandu": [
       "https://www.oliberal.com/esportes/paysandu/junior-rocha-elogia-integracao-da-base-apos-jogo-treino-e-confirma-reforcos-a-disposicao-no-paysandu-1.1152645",
@@ -2646,7 +2646,9 @@
       "https://www.oliberal.com/esportes/paysandu/se-n-o-subir-paysandu-enfrentara-serie-c-maior-e-com-times-tradicionais-em-2027-1.1176005",
       "https://www.oliberal.com/esportes/paysandu/vendido-ao-flamengo-pedro-henrique-se-despede-da-curuzu-contra-a-ferroviaria-1.1176101",
       "https://www.oliberal.com/esportes/paysandu/marcinho-ve-1-de-chance-e-cobra-vitoria-do-paysandu-contra-a-ferroviaria-1.1176259",
-      "https://www.oliberal.com/esportes/paysandu/paysandu-joga-a-vida-contra-a-ferroviaria-na-curuzu-1.1176271"
+      "https://www.oliberal.com/esportes/paysandu/paysandu-joga-a-vida-contra-a-ferroviaria-na-curuzu-1.1176271",
+      "https://www.oliberal.com/esportes/paysandu/paysandu-vence-a-ferroviaria-e-segue-na-disputa-por-vaga-na-serie-b-1.1176503",
+      "https://www.oliberal.com/esportes/paysandu/mazola-destaca-encaixe-do-paysandu-contra-a-ferroviaria-parabens-ao-grupo-1.1176504"
     ],
     "ge_paysandu": [
       "https://ge.globo.com/rn/futebol/noticia/2026/08/03/zagueiro-destaque-do-america-rn-na-serie-d-acerta-com-o-paysandu.ghtml",
@@ -4128,7 +4130,9 @@
       "https://www.maisgoias.com.br/?p=1143307",
       "https://www.maisgoias.com.br/?p=1143461",
       "https://www.maisgoias.com.br/?p=1143723",
-      "https://www.maisgoias.com.br/?p=1144079"
+      "https://www.maisgoias.com.br/?p=1144079",
+      "https://www.maisgoias.com.br/?p=1144145",
+      "https://www.maisgoias.com.br/?p=1144162"
     ],
     "vilanova_site": [
       "https://www.vilanovafc.com.br/noticias/540-venda-de-ingressos-vila-nova-x-botafogo-sp-serie-b-2026",
@@ -4235,7 +4239,8 @@
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/02/lider-da-serie-b-vila-nova-anuncia-patrocinio-com-montadora-chinesa.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/02/vila-nova-pode-repetir-escalacao-pela-terceira-vez-seguida-na-serie-b.ghtml",
       "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/brasileirao-serie-b/noticia/2026/10/03/botafogo-sp-x-vila-nova-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/03/vila-nova-tenta-quebrar-jejum-fora-de-goiania-contra-o-botafogo-sp.ghtml"
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/03/vila-nova-tenta-quebrar-jejum-fora-de-goiania-contra-o-botafogo-sp.ghtml",
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/03/guto-celebra-vitoria-que-mantem-vila-lider-e-enaltece-a-torcida-invadimos-a-casa-do-vizinho.ghtml"
     ]
   }
 }
