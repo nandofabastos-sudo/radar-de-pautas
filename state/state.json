@@ -421,8 +421,6 @@
       "yt:video:fI74zfpUYM4"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=117533",
-      "https://www.remo100porcento.com/?p=117431",
       "https://www.remo100porcento.com/?p=117437",
       "https://www.remo100porcento.com/?p=117521",
       "https://www.remo100porcento.com/?p=117452",
@@ -720,7 +718,9 @@
       "https://www.remo100porcento.com/?p=119319",
       "https://www.remo100porcento.com/?p=119324",
       "https://www.remo100porcento.com/?p=119326",
-      "https://www.remo100porcento.com/?p=119328"
+      "https://www.remo100porcento.com/?p=119328",
+      "https://www.remo100porcento.com/?p=119331",
+      "https://www.remo100porcento.com/?p=119336"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -782,7 +782,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/959332/concorrentes-tropecam-mas-remo-precisa-se-ajudar-para-sair-do-z4",
       "https://dol.com.br/esporte/remo/959364/em-meio-a-criticas-remo-participa-de-reuniao-da-cbf-sobre-arbitragem",
       "https://dol.com.br/esporte/remo/959367/clube-do-remo-ja-deixou-19-pontos-escapar-em-casa-na-serie-a",
       "https://dol.com.br/esporte/remo/959379/remo-segue-a-um-ponto-de-sair-do-z-4-veja-a-classificacao",
@@ -1081,7 +1080,8 @@
       "https://dol.com.br/esporte/remo/964588/remo-pode-pagar-bicho-de-r-10-milhoes-por-permanencia-na-serie-a",
       "https://dol.com.br/esporte/remo/964604/remo-se-apega-a-arrancada-de-2025-para-reagir-e-evitar-o-rebaixamento",
       "https://dol.com.br/esporte/remo/964657/cria-do-remo-e-idolo-do-gremio-nildo-bigode-projeta-duelo-na-serie-a",
-      "https://dol.com.br/esporte/remo/964665/remo-traca-estrategia-para-contar-com-tchamba-contra-o-gremio"
+      "https://dol.com.br/esporte/remo/964665/remo-traca-estrategia-para-contar-com-tchamba-contra-o-gremio",
+      "https://dol.com.br/esporte/remo/964711/com-apoio-de-tonhao-glauber-goncalves-registra-chapa-para-eleicao-no-remo"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1508,7 +1508,8 @@
       "https://www.oliberal.com/esportes/remo/marcelo-rangel-convoca-torcida-do-remo-para-duelo-decisivo-contra-o-gremio-1.1177089",
       "https://www.oliberal.com/esportes/remo/jean-klay-confirma-chapa-de-glauber-goncalves-para-presidencia-do-remo-1.1177468",
       "https://www.oliberal.com/esportes/remo/remo-tem-quatro-desfalques-e-tres-retornos-para-duelo-contra-o-gremio-rs-1.1177507",
-      "https://www.oliberal.com/esportes/remo/remo-teve-alivio-de-r-12-milh-es-com-saidas-do-elenco-em-2026-afirma-vivian-1.1177523"
+      "https://www.oliberal.com/esportes/remo/remo-teve-alivio-de-r-12-milh-es-com-saidas-do-elenco-em-2026-afirma-vivian-1.1177523",
+      "https://www.oliberal.com/esportes/remo/chapa-da-situac-o-e-inscrita-para-eleic-o-no-remo-confira-a-composic-o-1.1177585"
     ],
     "ge_remo": [
       "https://ge.globo.com/pa/futebol/noticia/2026/08/05/remo-bate-o-paysandu-na-curuzu-e-larga-em-vantagem-na-final-copa-para-sub-17.ghtml",
@@ -2191,11 +2192,10 @@
       "8690",
       "8691",
       "8692",
-      "8693"
+      "8693",
+      "8695"
     ],
     "dol_paysandu": [
-      "https://dol.com.br/esporte/paysandu/959132/dia-dos-pais-amor-pelo-paysandu-atravessa-geracoes-e-cruza-fronteiras",
-      "https://dol.com.br/esporte/paysandu/959285/lanterna-carrerette-nao-ve-vida-facil-em-paysandu-x-confianca",
       "https://dol.com.br/esporte/paysandu/959328/paysandu-sai-do-g8-e-pressao-aumenta-antes-de-duelo-contra-o-confianca",
       "https://dol.com.br/esporte/paysandu/959343/paysandu-tera-desfalques-contra-o-confianca-veja-os-relacionados",
       "https://dol.com.br/esporte/paysandu/959345/paysandu-x-confianca-onde-assistir-horario-e-retrospecto",
@@ -2493,7 +2493,9 @@
       "https://dol.com.br/esporte/paysandu/964600/curuzu-vira-caldeirao-e-torcida-do-paysandu-canta-eu-acredito",
       "https://dol.com.br/esporte/paysandu/964621/emocionado-pedro-henrique-se-despede-do-paysandu-cenario-que-sonhei",
       "https://dol.com.br/esporte/paysandu/964650/edilson-exalta-reacao-do-paysandu-vamos-vivos-para-brusque",
-      "https://dol.com.br/esporte/paysandu/964706/paysandu-juninho-sofre-lesao-no-joelho-e-deve-passar-por-cirurgia"
+      "https://dol.com.br/esporte/paysandu/964706/paysandu-juninho-sofre-lesao-no-joelho-e-deve-passar-por-cirurgia",
+      "https://dol.com.br/esporte/paysandu/964723/chance-de-acesso-do-paysandu-salta-de-13-para-136",
+      "https://dol.com.br/esporte/paysandu/964729/pablo-baianinho-convoca-torcida-do-paysandu-para-decisao-pelo-acesso"
     ],
     "oliberal_paysandu": [
       "https://www.oliberal.com/esportes/paysandu/junior-rocha-elogia-integracao-da-base-apos-jogo-treino-e-confirma-reforcos-a-disposicao-no-paysandu-1.1152645",
@@ -2686,7 +2688,9 @@
       "https://www.oliberal.com/esportes/paysandu/proxima-gest-o-do-paysandu-tera-desafio-de-reconstruir-clube-entenda-1.1176186",
       "https://www.oliberal.com/esportes/paysandu/veja-o-que-o-paysandu-precisa-fazer-para-conquistar-o-acesso-a-serie-b-1.1176979",
       "https://www.oliberal.com/esportes/paysandu/remista-sonha-com-acesso-do-paysandu-e-diz-foi-o-pior-sonho-da-minha-vida-1.1177349",
-      "https://www.oliberal.com/esportes/paysandu/marcio-tuma-confirma-inscric-o-de-chapa-para-disputar-presidencia-do-paysandu-1.1177480"
+      "https://www.oliberal.com/esportes/paysandu/marcio-tuma-confirma-inscric-o-de-chapa-para-disputar-presidencia-do-paysandu-1.1177480",
+      "https://www.oliberal.com/esportes/paysandu/candidato-unico-marcio-tuma-sera-reeleito-presidente-do-paysandu-saiba-mais-1.1177541",
+      "https://www.oliberal.com/esportes/paysandu/pablo-alcantara-espera-apoio-do-torcedor-em-brusque-faz-total-diferenca-1.1177604"
     ],
     "ge_paysandu": [
       "https://ge.globo.com/rn/futebol/noticia/2026/08/03/zagueiro-destaque-do-america-rn-na-serie-d-acerta-com-o-paysandu.ghtml",
@@ -2840,7 +2844,8 @@
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/03/veja-o-que-o-paysandu-precisa-para-garantir-o-acesso.ghtml",
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/03/marcinho-se-emociona-com-paysandu-ainda-vivo-pelo-acesso-o-futebol-e-muito-louco.ghtml",
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/05/suspenso-contra-o-brusque-pedro-henrique-encerra-ciclo-pelo-paysandu.ghtml",
-      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/05/pablo-chama-duelo-com-brusque-de-jogo-da-vida-e-convoca-torcida-do-paysandu.ghtml"
+      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/05/pablo-chama-duelo-com-brusque-de-jogo-da-vida-e-convoca-torcida-do-paysandu.ghtml",
+      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/05/caio-mello-destaca-gol-pelo-paysandu-e-mira-final-contra-o-brusque-na-serie-c.ghtml"
     ]
   },
   "crb": {
@@ -3577,7 +3582,8 @@
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/04/projecoes-veja-como-estao-as-chances-de-acesso-do-crb-depois-da-rodada-31.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/05/artilheiro-do-brasil-mikael-vive-jejum-de-gols-no-crb.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/05/pc-gusmao-mantem-confianca-no-crb-depois-de-derrota-fazer-ajustes-para-os-erros-nao-se-repetirem.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/05/filha-de-assis-massagista-do-crb-e-assassinada-a-tiros-em-maceio.ghtml"
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/05/filha-de-assis-massagista-do-crb-e-assassinada-a-tiros-em-maceio.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/05/crb-x-atletico-go-confira-o-valor-e-onde-comprar-ingresso-para-o-jogo.ghtml"
     ]
   },
   "goias": {
@@ -3801,7 +3807,9 @@
       "https://www.maisgoias.com.br/?p=1143167",
       "https://www.maisgoias.com.br/?p=1143216",
       "https://www.maisgoias.com.br/?p=1143273",
-      "https://www.maisgoias.com.br/?p=1145077"
+      "https://www.maisgoias.com.br/?p=1145077",
+      "https://www.maisgoias.com.br/?p=1145344",
+      "https://www.maisgoias.com.br/?p=1145366"
     ],
     "piriquito_news": [
       "https://www.piriquitonews.com/ler_noticia.php?id=27",
@@ -3977,7 +3985,8 @@
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/01/goias-ja-desperdicou-metade-dos-penaltis-que-teve-na-serie-b.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/01/mozart-define-derrota-do-goias-como-vergonhosa-e-a-pior-de-sua-carreira.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/02/no-returno-goias-tem-campanha-de-time-que-luta-contra-o-z-4.ghtml",
-      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/05/goias-ganha-tres-reforcos-e-tenta-quebrar-sequencia-negativa-na-serie-b.ghtml"
+      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/05/goias-ganha-tres-reforcos-e-tenta-quebrar-sequencia-negativa-na-serie-b.ghtml",
+      "https://ge.globo.com/go/futebol/times/atletico-go/noticia/2026/10/05/adson-batista-presidente-do-atletico-go-e-punido-pelo-stjd-com-15-dias-de-suspensao.ghtml"
     ]
   },
   "vila_nova": {
@@ -4191,7 +4200,8 @@
       "https://www.maisgoias.com.br/?p=1144162",
       "https://www.maisgoias.com.br/?p=1144298",
       "https://www.maisgoias.com.br/?p=1145197",
-      "https://www.maisgoias.com.br/?p=1145218"
+      "https://www.maisgoias.com.br/?p=1145218",
+      "https://www.maisgoias.com.br/?p=1145310"
     ],
     "vilanova_site": [
       "https://www.vilanovafc.com.br/noticias/540-venda-de-ingressos-vila-nova-x-botafogo-sp-serie-b-2026",
