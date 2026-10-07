@@ -436,8 +436,6 @@
       "yt:video:YCYgXFwmPLw"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=117426",
-      "https://www.remo100porcento.com/?p=117318",
       "https://www.remo100porcento.com/?p=117680",
       "https://www.remo100porcento.com/?p=117311",
       "https://www.remo100porcento.com/?p=117579",
@@ -735,7 +733,9 @@
       "https://www.remo100porcento.com/?p=119345",
       "https://www.remo100porcento.com/?p=119353",
       "https://www.remo100porcento.com/?p=119351",
-      "https://www.remo100porcento.com/?p=119360"
+      "https://www.remo100porcento.com/?p=119360",
+      "https://www.remo100porcento.com/?p=119355",
+      "https://www.remo100porcento.com/?p=119397"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -797,10 +797,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/959525/remo-adquire-50-dos-direitos-de-galeano-com-o-mirassol-sp",
-      "https://dol.com.br/esporte/remo/959537/leo-conde-critica-maratona-de-jogos-do-remo-a-tabela-foi-um-absurdo",
-      "https://dol.com.br/esporte/remo/959586/mayk-tem-lesao-constatada-e-vira-desfalque-do-remo-contra-o-inter",
-      "https://dol.com.br/esporte/remo/959594/como-estao-os-adversarios-do-remo-na-luta-contra-o-z-4",
       "https://dol.com.br/esporte/remo/959633/remo-espera-retornos-importantes-contra-o-internacional-pela-serie-a",
       "https://dol.com.br/esporte/remo/959651/remo-baenao-recebe-imagem-peregrina-de-nossa-senhora-de-nazare",
       "https://dol.com.br/esporte/remo/959656/remo-recupera-acesso-ao-site-oficial-apos-ataque-de-hackers",
@@ -1096,7 +1092,11 @@
       "https://dol.com.br/esporte/remo/964850/remo-x-gremio-justica-determina-penhora-de-20-da-renda-do-jogo",
       "https://dol.com.br/esporte/remo/964860/remo-x-gremio-goleiros-tecnicos-e-numeros-em-destaque",
       "https://dol.com.br/esporte/remo/964869/menos-de-10-mil-remo-e-gremio-tem-baixa-procura-por-ingressos",
-      "https://dol.com.br/esporte/remo/964890/remo-x-gremio-veja-novidades-entre-os-relacionados-para-o-jogo-no-mangueirao"
+      "https://dol.com.br/esporte/remo/964890/remo-x-gremio-veja-novidades-entre-os-relacionados-para-o-jogo-no-mangueirao",
+      "https://dol.com.br/esporte/remo/964890/andres-gonzalez-conheca-a-novidade-do-remo-contra-o-gremio",
+      "https://dol.com.br/esporte/remo/964916/remo-estreia-terceiro-uniforme-vermelho-no-duelo-contra-o-gremio",
+      "https://dol.com.br/esporte/remo/964917/acompanhe-remo-0-x-1-gremio-no-mangueirao",
+      "https://dol.com.br/esporte/remo/964921/video-remo-reclama-de-penalti-nao-marcado-contra-o-gremio"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1538,7 +1538,8 @@
       "https://www.oliberal.com/esportes/remo/remo-recebe-o-gremio-em-duelo-de-seis-pontos-no-brasileirao-1.1177985",
       "https://www.oliberal.com/esportes/remo/com-colombiano-da-base-tecnico-do-remo-relaciona-jogadores-para-pegar-o-gremio-1.1178107",
       "https://www.oliberal.com/esportes/remo/remo-tera-20-da-bilheteria-contra-o-gremio-bloqueada-para-pagar-divida-1.1178299",
-      "https://www.oliberal.com/esportes/remo/remo-quita-mais-de-10-processos-civeis-e-reduz-divida-em-62-diz-diretor-1.1178310"
+      "https://www.oliberal.com/esportes/remo/remo-quita-mais-de-10-processos-civeis-e-reduz-divida-em-62-diz-diretor-1.1178310",
+      "https://www.oliberal.com/esportes/remo/ex-dirigente-do-remo-magnataanuncia-chapa-de-oposicao-para-eleicao-no-clube-1.1178375"
     ],
     "ge_remo": [
       "https://ge.globo.com/pa/futebol/noticia/2026/08/05/remo-bate-o-paysandu-na-curuzu-e-larga-em-vantagem-na-final-copa-para-sub-17.ghtml",
@@ -1752,7 +1753,8 @@
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/07/pikachu-revela-que-carpini-testou-variacoes-e-pediu-mais-coragem-para-ficar-com-a-bola.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/07/remo-encara-gremio-com-novidade-entre-os-relacionados-veja.ghtml",
       "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/10/07/seu-time-faz-gol-de-falta-quando-foi-o-ultimo-veja-o-ranking-dos-ultimos-dez-anos.ghtml",
-      "https://ge.globo.com/pa/santarem-regiao/noticia/2026/10/07/ex-amazonia-independente-e-a-novidade-no-elenco-profissional-do-remo.ghtml"
+      "https://ge.globo.com/pa/santarem-regiao/noticia/2026/10/07/ex-amazonia-independente-e-a-novidade-no-elenco-profissional-do-remo.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/07/remo-estreia-camisa-vermelha-em-duelo-contra-o-gremio-na-serie-a.ghtml"
     ]
   },
   "paysandu": {
@@ -1943,7 +1945,8 @@
       "yt:video:kqomhWbOB3w",
       "yt:video:NeHG98wEPAs",
       "yt:video:Szs2POIi5Ds",
-      "yt:video:ZL5PIZqsrKU"
+      "yt:video:ZL5PIZqsrKU",
+      "yt:video:t11ZHI_EI5s"
     ],
     "meu_paysandu_youtube": [
       "yt:video:XK0L6svQBYg",
@@ -2240,7 +2243,8 @@
       "8695",
       "8696",
       "8694",
-      "8697"
+      "8697",
+      "8698"
     ],
     "dol_paysandu": [
       "https://dol.com.br/esporte/paysandu/959426/acompanhe-ao-vivo-paysandu-0-x-0-confianca-pela-serie-c",
@@ -2742,7 +2746,9 @@
       "https://www.oliberal.com/esportes/paysandu/paysandu-tem-13-6-de-chance-de-acesso-aponta-chance-de-gol-1.1177661",
       "https://www.oliberal.com/esportes/paysandu/serie-c-paysandu-nunca-venceu-o-brusque-fora-do-para-veja-retrospecto-1.1177855",
       "https://www.oliberal.com/esportes/paysandu/atacante-passa-por-cirurgia-no-joelho-e-nao-joga-mais-pelo-paysandu-na-temporada-1.1178164",
-      "https://www.oliberal.com/esportes/paysandu/paysandu-vence-na-justica-acao-de-r-8-milhoes-ligada-a-yago-pikachu-1.1178265"
+      "https://www.oliberal.com/esportes/paysandu/paysandu-vence-na-justica-acao-de-r-8-milhoes-ligada-a-yago-pikachu-1.1178265",
+      "https://www.oliberal.com/esportes/paysandu/arbitro-de-paysandu-x-brusque-e-o-mesmo-do-acesso-bicolor-em-2023-saiba-quem-e-1.1178383",
+      "https://www.oliberal.com/esportes/paysandu/italo-trata-duelo-contra-o-brusque-como-jogo-das-nossas-vidas-1.1178402"
     ],
     "ge_paysandu": [
       "https://ge.globo.com/rn/futebol/noticia/2026/08/03/zagueiro-destaque-do-america-rn-na-serie-d-acerta-com-o-paysandu.ghtml",
@@ -2902,7 +2908,8 @@
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/06/com-apenas-uma-chapa-inscricoes-para-eleicoes-do-paysandu-estao-encerradas.ghtml",
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/06/paysandu-reencontra-gramado-sintetico-apos-um-ano-em-decisao-pelo-acesso-a-serie-b.ghtml",
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/06/maior-venda-do-paysandu-pedro-henrique-se-despede-antes-de-apresentacao-no-flamengo.ghtml",
-      "https://ge.globo.com/pa/futebol/brasileirao-serie-c/noticia/2026/10/06/jogo-entre-brusque-e-paysandu-tera-arbitro-de-copa-do-mundo.ghtml"
+      "https://ge.globo.com/pa/futebol/brasileirao-serie-c/noticia/2026/10/06/jogo-entre-brusque-e-paysandu-tera-arbitro-de-copa-do-mundo.ghtml",
+      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/07/paysandu-evita-cobranca-de-r-8-milhoes-em-disputa-por-transferencia-de-pikachu.ghtml"
     ]
   },
   "crb": {
@@ -3158,7 +3165,8 @@
       "yt:video:cY3HsbQYL58",
       "yt:video:YXuAQdgAFBc",
       "yt:video:PNNd8RrLVEw",
-      "yt:video:9sJPZ82yu2o"
+      "yt:video:9sJPZ82yu2o",
+      "yt:video:4PSVk3Om9_U"
     ],
     "tribuna_hoje_crb": [
       "https://tribunahoje.com/noticias/esportes/2026/08/05/190560-cbf-reconhece-titulos-do-crb-que-ultrapassa-csa",
@@ -3250,7 +3258,8 @@
       "https://tribunahoje.com/noticias/esportes/2026/10/05/195495-crb-inicia-venda-de-ingressos-para-duelo-decisivo-contra-o-atletico-go",
       "https://tribunahoje.com/noticias/esportes/2026/10/06/195519-crb-precisa-de-cinco-vitorias-na-reta-final",
       "https://tribunahoje.com/noticias/esportes/2026/10/06/195595-crb-finaliza-preparacao-para-enfrentar-o-atletico-go-pela-32a-rodada-da-serie-b",
-      "https://tribunahoje.com/noticias/esportes/2026/10/07/195625-crb-e-atletico-go-fazem-jogo-de-seis-pontos-no-rei-pele"
+      "https://tribunahoje.com/noticias/esportes/2026/10/07/195625-crb-e-atletico-go-fazem-jogo-de-seis-pontos-no-rei-pele",
+      "https://tribunahoje.com/noticias/esportes/2026/10/07/195704-crb-destaca-a-timemania-na-camisa-para-duelo-contra-o-atletico-go"
     ],
     "gazeta_alagoas_crb": [
       "https://www.gazetaweb.com/noticias/esportes/alagoano/entenda-como-o-crb-conseguiu-o-aval-da-cbf-para-se-tornar-o-maior-campeao-de-alagoas-927105",
@@ -3412,7 +3421,8 @@
       "https://www.gazetaweb.com/noticias/esportes/alagoano/em-duelo-marcado-pelo-equilibrio-crb-leva-vantagem-contra-o-atletico-go-940783",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/vice-lider-do-returno-veja-como-chega-o-atletico-go-para-duelo-decisivo-contra-o-crb-940785",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/no-estadio-rei-pele-crb-recebe-o-atletico-go-em-jogo-decisivo-na-disputa-pelo-acesso-940797",
-      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-enfrenta-atletico-go-sem-patrocinio-da-bolsa-de-aposta-na-camisa-apos-proibicao-das-bets-940974"
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-enfrenta-atletico-go-sem-patrocinio-da-bolsa-de-aposta-na-camisa-apos-proibicao-das-bets-940974",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/comeca-o-jogo-entre-crb-e-atletico-go-pela-serie-b-acompanhe-ao-vivo-na-gazeta-941071"
     ],
     "frances_news_crb": [
       "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf",
@@ -3657,7 +3667,9 @@
       "https://ge.globo.com/pe/futebol/brasileirao-serie-b/noticia/2026/10/06/confrontos-diretos-movimentam-briga-pelo-g-6-na-reta-final-da-serie-b-veja-o-caminho-do-seu-time.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/06/escalacao-do-crb-fabio-matias-conta-com-a-volta-de-hereda-para-jogo-contra-o-atletico-go.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/06/olho-neles-adversario-do-crb-tem-aproveitamento-de-quase-50percent-fora-de-casa-com-roger-silva.ghtml",
-      "https://ge.globo.com/al/futebol/brasileirao-serie-b/noticia/2026/10/07/crb-x-atletico-go-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+      "https://ge.globo.com/al/futebol/brasileirao-serie-b/noticia/2026/10/07/crb-x-atletico-go-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/07/cbf-divulga-a-tabela-detalhada-do-crb-para-as-quatro-ultimas-rodadas-da-serie-b.ghtml",
+      "https://ge.globo.com/mt/futebol/times/cuiaba/noticia/2026/10/07/atuacoes-do-cuiaba-joao-carlos-evita-placar-ainda-mais-elastico-contra-o-crb-de-suas-notas.ghtml"
     ]
   },
   "goias": {
@@ -4079,7 +4091,8 @@
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/06/presidente-executivo-do-goias-renuncia-ao-cargo-veja-quem-assume-o-clube.ghtml",
       "https://ge.globo.com/mt/futebol/times/sport-sinop/noticia/2026/10/06/time-de-mato-grosso-acerta-contratacao-de-campeao-da-copa-do-brasil-pelo-corinthians.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/07/mozart-diz-que-nem-conhecia-presidente-que-renunciou-no-goias-video.ghtml",
-      "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/10/07/seu-time-faz-gol-de-falta-quando-foi-o-ultimo-veja-o-ranking-dos-ultimos-dez-anos.ghtml"
+      "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/10/07/seu-time-faz-gol-de-falta-quando-foi-o-ultimo-veja-o-ranking-dos-ultimos-dez-anos.ghtml",
+      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/07/tadeu-confia-em-arrancada-e-ainda-cre-no-acesso-do-goias-a-serie-a.ghtml"
     ]
   },
   "vila_nova": {
@@ -4296,7 +4309,8 @@
       "https://www.maisgoias.com.br/?p=1145197",
       "https://www.maisgoias.com.br/?p=1145218",
       "https://www.maisgoias.com.br/?p=1145310",
-      "https://www.maisgoias.com.br/?p=1145691"
+      "https://www.maisgoias.com.br/?p=1145691",
+      "https://www.maisgoias.com.br/?p=1146421"
     ],
     "vilanova_site": [
       "https://www.vilanovafc.com.br/noticias/540-venda-de-ingressos-vila-nova-x-botafogo-sp-serie-b-2026",
