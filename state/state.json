@@ -452,8 +452,6 @@
       "yt:video:sCILQ_7ZROw"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=117395",
-      "https://www.remo100porcento.com/?p=117698",
       "https://www.remo100porcento.com/?p=117700",
       "https://www.remo100porcento.com/?p=117702",
       "https://www.remo100porcento.com/?p=117704",
@@ -751,7 +749,9 @@
       "https://www.remo100porcento.com/?p=119501",
       "https://www.remo100porcento.com/?p=119503",
       "https://www.remo100porcento.com/?p=119505",
-      "https://www.remo100porcento.com/?p=119510"
+      "https://www.remo100porcento.com/?p=119510",
+      "https://www.remo100porcento.com/?p=119512",
+      "https://www.remo100porcento.com/?p=119518"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -813,7 +813,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/960017/remo-visita-o-internacional-visando-sair-do-z-4-veja-os-detalhes",
       "https://dol.com.br/esporte/remo/960056/remo-precisa-ficar-atento-aos-minutos-favoritos-do-inter",
       "https://dol.com.br/esporte/remo/960085/video-torcedor-do-remo-adota-gata-que-viralizou-na-web-conheca-a-historia",
       "https://dol.com.br/esporte/remo/960102/remo-perde-marllon-para-duelo-com-o-inter-apos-efeito-suspensivo",
@@ -1112,7 +1111,8 @@
       "https://dol.com.br/esporte/remo/965138/vasco-da-gama-x-remo-onde-assistir-horario-e-provaveis-escalacoes",
       "https://dol.com.br/esporte/remo/965167/vasco-0-x-0-remo-acompanhe-ao-vivo-pela-serie-a",
       "https://dol.com.br/esporte/remo/965167/fim-de-papo-pela-serie-a-vasco-0-x-0-remo",
-      "https://dol.com.br/esporte/remo/965179/remo-empata-com-o-vasco-e-chega-a-10-jogos-sem-vitorias-na-serie-a"
+      "https://dol.com.br/esporte/remo/965179/remo-empata-com-o-vasco-e-chega-a-10-jogos-sem-vitorias-na-serie-a",
+      "https://dol.com.br/esporte/remo/965194/carpini-ve-remo-mais-competitivo-criamos-uma-identidade"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -2304,13 +2304,10 @@
       "8694",
       "8697",
       "8698",
-      "8699"
+      "8699",
+      "8700"
     ],
     "dol_paysandu": [
-      "https://dol.com.br/esporte/paysandu/959772/dois-ou-tres-jogadores-ainda-estao-dando-problema-diz-tecnico-do-paysandu",
-      "https://dol.com.br/esporte/paysandu/959779/paysandu-confirma-lesao-no-tornozelo-de-meia-ryan-vieira",
-      "https://dol.com.br/esporte/paysandu/959783/junior-rocha-alcanca-23-vitoria-pelo-paysandu-e-reencontra-a-ferroviaria",
-      "https://dol.com.br/esporte/paysandu/959862/paysandu-encaminha-contratacao-de-lateral-direito-que-estava-na-serie-d",
       "https://dol.com.br/esporte/paysandu/959873/decisivo-italo-mantem-foco-no-paysandu-e-adia-conversa-sobre-futuro",
       "https://dol.com.br/esporte/paysandu/959880/paysandu-anuncia-o-lateral-direito-eduardo-para-reta-final-da-serie-c",
       "https://dol.com.br/esporte/paysandu/959888/paysandu-trata-lesoes-de-juninho-e-radsley-e-evita-prazo-para-retorno",
@@ -2606,7 +2603,11 @@
       "https://dol.com.br/esporte/paysandu/965175/videos-arquibancada-quebra-com-festa-da-torcida-do-paysandu-em-brusque",
       "https://dol.com.br/esporte/paysandu/965176/secador-picco-pergunta-pelo-jogo-do-paysandu-em-vasco-x-remo",
       "https://dol.com.br/esporte/paysandu/965178/brusque-x-paysandu-e-suspenso-e-sera-retomado-neste-domingo-1110",
-      "https://dol.com.br/esporte/paysandu/965184/tuma-critica-brusque-cbf-e-paralisacao-em-ferroviaria-e-inter"
+      "https://dol.com.br/esporte/paysandu/965184/tuma-critica-brusque-cbf-e-paralisacao-em-ferroviaria-e-inter",
+      "https://dol.com.br/esporte/paysandu/965187/apos-critica-do-paysandu-cbf-explica-parada-de-ferroviaria-e-inter",
+      "https://dol.com.br/esporte/paysandu/965189/se-comportar-como-ser-humano-paysandu-denuncia-xenofobia-em-brusque",
+      "https://dol.com.br/esporte/paysandu/965191/vice-da-cbf-ve-jogo-de-compadre-em-sp-e-aconselha-paysandu-entrega",
+      "https://dol.com.br/esporte/paysandu/965195/paysandu-cobra-cbf-apos-caos-em-brusque-e-jogo-suspenso-em-sp"
     ],
     "oliberal_paysandu": [
       "https://www.oliberal.com/esportes/paysandu/junior-rocha-elogia-integracao-da-base-apos-jogo-treino-e-confirma-reforcos-a-disposicao-no-paysandu-1.1152645",
