@@ -813,8 +813,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/959973/remo-embarca-para-sequencia-decisiva-contra-inter-e-fluminense",
-      "https://dol.com.br/esporte/remo/960017/internacional-x-remo-onde-assistir-retrospecto-e-escalacoes",
       "https://dol.com.br/esporte/remo/960017/remo-visita-o-internacional-visando-sair-do-z-4-veja-os-detalhes",
       "https://dol.com.br/esporte/remo/960056/remo-precisa-ficar-atento-aos-minutos-favoritos-do-inter",
       "https://dol.com.br/esporte/remo/960085/video-torcedor-do-remo-adota-gata-que-viralizou-na-web-conheca-a-historia",
@@ -1112,7 +1110,9 @@
       "https://dol.com.br/esporte/remo/965118/remo-tera-so-dois-zagueiros-disponiveis-contra-o-vasco-veja-a-relacao",
       "https://dol.com.br/esporte/remo/965128/eduardo-melo-mira-sequencia-no-remo-e-duelo-contra-o-vasco",
       "https://dol.com.br/esporte/remo/965138/vasco-da-gama-x-remo-onde-assistir-horario-e-provaveis-escalacoes",
-      "https://dol.com.br/esporte/remo/965167/vasco-0-x-0-remo-acompanhe-ao-vivo-pela-serie-a"
+      "https://dol.com.br/esporte/remo/965167/vasco-0-x-0-remo-acompanhe-ao-vivo-pela-serie-a",
+      "https://dol.com.br/esporte/remo/965167/fim-de-papo-pela-serie-a-vasco-0-x-0-remo",
+      "https://dol.com.br/esporte/remo/965179/remo-empata-com-o-vasco-e-chega-a-10-jogos-sem-vitorias-na-serie-a"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1567,7 +1567,8 @@
       "https://www.oliberal.com/esportes/remo/remo-tchamba-volta-da-selecao-lesionadoe-esta-fora-de-duelo-contra-o-vasco-1.1179465",
       "https://www.oliberal.com/esportes/remo/apos-polemica-contra-o-gremio-arbitro-fifa-ira-comandar-vasco-x-remo-1.1179619",
       "https://www.oliberal.com/esportes/remo/eduardo-melo-quer-vitoria-do-remo-contra-o-vasco-1.1179821",
-      "https://www.oliberal.com/esportes/remo/remo-visita-o-vasco-em-mais-uma-tentativa-de-reacao-no-brasileirao-1.1179803"
+      "https://www.oliberal.com/esportes/remo/remo-visita-o-vasco-em-mais-uma-tentativa-de-reacao-no-brasileirao-1.1179803",
+      "https://www.oliberal.com/esportes/remo/remo-empata-com-o-vasco-e-chega-aos-12-jogos-sem-vencer-na-serie-a-1.1180464"
     ],
     "ge_remo": [
       "https://ge.globo.com/pa/futebol/noticia/2026/08/05/remo-bate-o-paysandu-na-curuzu-e-larga-em-vantagem-na-final-copa-para-sub-17.ghtml",
@@ -1794,7 +1795,9 @@
       "https://ge.globo.com/gato-mestre/dicas/noticia/2026/10/09/palpites-e-dicas-para-vasco-x-remo-pelo-brasileirao.ghtml",
       "https://ge.globo.com/gato-mestre/dicas/noticia/2026/10/09/favoritismos-30-dicas-palpites-e-chances-no-brasileirao.ghtml",
       "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/10/10/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-30a-rodada.ghtml",
-      "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/10/10/vasco-x-remo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+      "https://ge.globo.com/futebol/brasileirao-serie-a/noticia/2026/10/10/vasco-x-remo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/10/atuacoes-do-remo-equipe-azulina-perde-chances-de-pontuar-fora-de-casa-de-suas-notas.ghtml",
+      "https://ge.globo.com/blogs/blog-do-rodrigo-coutinho/post/2026/10/10/vasco-tropeca-em-noite-de-quebra-de-ritmo-e-nao-ganha-gordura-contra-o-z-4.ghtml"
     ]
   },
   "paysandu": {
@@ -2300,13 +2303,10 @@
       "8696",
       "8694",
       "8697",
-      "8698"
+      "8698",
+      "8699"
     ],
     "dol_paysandu": [
-      "https://dol.com.br/esporte/paysandu/959654/paysandu-chega-a-8-virada-na-temporada-e-reforca-poder-de-reacao",
-      "https://dol.com.br/esporte/paysandu/959658/italo-mira-sequencia-decisiva-e-destaca-forca-de-reacao-do-paysandu",
-      "https://dol.com.br/esporte/paysandu/959690/edilson-confia-no-ataque-e-pede-defesa-mais-segura-no-paysandu",
-      "https://dol.com.br/esporte/paysandu/959758/ex-remo-atacante-victor-andrade-nao-esta-nos-planos-do-paysandu",
       "https://dol.com.br/esporte/paysandu/959772/dois-ou-tres-jogadores-ainda-estao-dando-problema-diz-tecnico-do-paysandu",
       "https://dol.com.br/esporte/paysandu/959779/paysandu-confirma-lesao-no-tornozelo-de-meia-ryan-vieira",
       "https://dol.com.br/esporte/paysandu/959783/junior-rocha-alcanca-23-vitoria-pelo-paysandu-e-reencontra-a-ferroviaria",
@@ -2602,7 +2602,11 @@
       "https://dol.com.br/esporte/paysandu/965137/brusque-x-paysandu-onde-assistir-horario-e-provaveis-escalacoes",
       "https://dol.com.br/esporte/paysandu/965160/brusque-0-x-1-paysandu-acompanhe-a-decisao-do-acesso",
       "https://dol.com.br/esporte/paysandu/965161/paysandu-aumenta-premio-por-acesso-antes-de-decisao-na-serie-c",
-      "https://dol.com.br/esporte/paysandu/965171/video-problema-estrutural-paralisa-brusque-x-paysandu"
+      "https://dol.com.br/esporte/paysandu/965171/video-problema-estrutural-paralisa-brusque-x-paysandu",
+      "https://dol.com.br/esporte/paysandu/965175/videos-arquibancada-quebra-com-festa-da-torcida-do-paysandu-em-brusque",
+      "https://dol.com.br/esporte/paysandu/965176/secador-picco-pergunta-pelo-jogo-do-paysandu-em-vasco-x-remo",
+      "https://dol.com.br/esporte/paysandu/965178/brusque-x-paysandu-e-suspenso-e-sera-retomado-neste-domingo-1110",
+      "https://dol.com.br/esporte/paysandu/965184/tuma-critica-brusque-cbf-e-paralisacao-em-ferroviaria-e-inter"
     ],
     "oliberal_paysandu": [
       "https://www.oliberal.com/esportes/paysandu/junior-rocha-elogia-integracao-da-base-apos-jogo-treino-e-confirma-reforcos-a-disposicao-no-paysandu-1.1152645",
@@ -2814,7 +2818,13 @@
       "https://www.oliberal.com/esportes/paysandu/paysandu-entra-em-campo-por-vaga-na-serie-b-1.1179845",
       "https://www.oliberal.com/esportes/paysandu/fe-e-futebol-torcedor-simbolo-do-paysandu-faz-promessa-pelo-acesso-a-serie-b-1.1179723",
       "https://www.oliberal.com/esportes/paysandu/com-novidades-paysandu-esta-escalado-para-decisao-na-serie-c-confira-1.1180408",
-      "https://www.oliberal.com/esportes/paysandu/a-arquibancada-quebrou-diz-seguranca-apos-paralisacao-de-brusque-x-paysandu-1.1180594"
+      "https://www.oliberal.com/esportes/paysandu/a-arquibancada-quebrou-diz-seguranca-apos-paralisacao-de-brusque-x-paysandu-1.1180594",
+      "https://www.oliberal.com/esportes/paysandu/paralisacao-em-jogo-do-paysandu-afeta-confronto-em-sao-paulo-entenda-a-situacao-1.1180643",
+      "https://www.oliberal.com/esportes/paysandu/por-falta-de-seguranca-partida-entre-brusque-x-paysandu-e-suspensa-saiba-mais-1.1180702",
+      "https://www.oliberal.com/esportes/paysandu/cbf-define-nova-data-e-horario-para-retomada-de-brusque-x-paysandu-1.1180718",
+      "https://www.oliberal.com/esportes/paysandu/veja-como-ficou-a-arquibancada-que-cedeu-em-jogo-do-paysandu-1.1180749",
+      "https://www.oliberal.com/esportes/paysandu/executivo-do-paysandu-questiona-suspensao-na-outra-partida-do-grupo-da-serie-c-1.1180754",
+      "https://www.oliberal.com/esportes/paysandu/tuma-nao-garante-ida-do-paysandu-ao-jogo-no-domingo-tudo-vai-ser-estudado-1.1180757"
     ],
     "ge_paysandu": [
       "https://ge.globo.com/rn/futebol/noticia/2026/08/03/zagueiro-destaque-do-america-rn-na-serie-d-acerta-com-o-paysandu.ghtml",
