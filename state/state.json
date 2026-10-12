@@ -454,8 +454,6 @@
       "yt:video:wgOl11uPfEs"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=117700",
-      "https://www.remo100porcento.com/?p=117702",
       "https://www.remo100porcento.com/?p=117704",
       "https://www.remo100porcento.com/?p=117706",
       "https://www.remo100porcento.com/?p=117708",
@@ -753,7 +751,9 @@
       "https://www.remo100porcento.com/?p=119505",
       "https://www.remo100porcento.com/?p=119510",
       "https://www.remo100porcento.com/?p=119512",
-      "https://www.remo100porcento.com/?p=119518"
+      "https://www.remo100porcento.com/?p=119518",
+      "https://www.remo100porcento.com/?p=119525",
+      "https://www.remo100porcento.com/?p=119527"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -3556,7 +3556,8 @@
       "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-reencontra-o-fortaleza-com-desvantagem-no-historico-de-confrontos-941538",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/arbitro-escalado-para-fortaleza-x-crb-se-envolve-em-polemica-dias-antes-do-confronto-941557",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/lucas-lovat-valoriza-grandes-atuacoes-pelo-crb-na-temporada-2026-941888",
-      "https://www.gazetaweb.com/noticias/esportes/alagoano/em-grande-fase-fortaleza-defende-13-jogos-de-invencibilidade-diante-do-crb-941894"
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/em-grande-fase-fortaleza-defende-13-jogos-de-invencibilidade-diante-do-crb-941894",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/ex-crb-wallace-marca-no-gre-nal-e-garante-empate-do-gremio-no-classico-veja-o-gol-941904"
     ],
     "frances_news_crb": [
       "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf",
@@ -4059,7 +4060,9 @@
       "https://www.maisgoias.com.br/?p=1145980",
       "https://www.maisgoias.com.br/?p=1147606",
       "https://www.maisgoias.com.br/?p=1147721",
-      "https://www.maisgoias.com.br/?p=1147953"
+      "https://www.maisgoias.com.br/?p=1147953",
+      "https://www.maisgoias.com.br/?p=1148236",
+      "https://www.maisgoias.com.br/?p=1148274"
     ],
     "piriquito_news": [
       "https://www.piriquitonews.com/ler_noticia.php?id=27",
@@ -4147,7 +4150,8 @@
       "https://www.piriquitonews.com/ler_noticia.php?id=118",
       "https://www.piriquitonews.com/ler_noticia.php?id=119",
       "https://www.piriquitonews.com/ler_noticia.php?id=120",
-      "https://www.piriquitonews.com/ler_noticia.php?id=121"
+      "https://www.piriquitonews.com/ler_noticia.php?id=121",
+      "https://www.piriquitonews.com/ler_noticia.php?id=122"
     ],
     "ge_goias": [
       "https://ge.globo.com/go/noticia/2026/08/04/obras-no-serra-dourada-ja-estao-a-todo-vapor-veja-imagens-exclusivas.ghtml",
@@ -4255,7 +4259,8 @@
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/08/goias-podera-repetir-escalacao-contra-o-operario-pr-domingo.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/09/goias-mantem-chances-remotas-de-g-6-e-calcula-cenario-na-reta-final-da-serie-b.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/09/com-lesao-kadu-sousa-e-vetado-e-desfalca-o-goias-contra-o-operario-pr.ghtml",
-      "https://ge.globo.com/pr/futebol/brasileirao-serie-b/noticia/2026/10/11/operario-pr-x-goias-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+      "https://ge.globo.com/pr/futebol/brasileirao-serie-b/noticia/2026/10/11/operario-pr-x-goias-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+      "https://ge.globo.com/go/futebol/goiano-segunda-divisao/noticia/2026/10/11/goianesia-sobe-e-rio-verde-fica-com-o-titulo-da-divisao-de-acesso-do-goianao.ghtml"
     ]
   },
   "vila_nova": {
@@ -4483,7 +4488,8 @@
       "https://www.maisgoias.com.br/?p=1147973",
       "https://www.maisgoias.com.br/?p=1148116",
       "https://www.maisgoias.com.br/?p=1148095",
-      "https://www.maisgoias.com.br/?p=1148223"
+      "https://www.maisgoias.com.br/?p=1148223",
+      "https://www.maisgoias.com.br/?p=1148266"
     ],
     "vilanova_site": [
       "https://www.vilanovafc.com.br/noticias/540-venda-de-ingressos-vila-nova-x-botafogo-sp-serie-b-2026",
@@ -4604,7 +4610,8 @@
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/09/vila-nova-perde-a-lideranca-da-serie-b-e-ve-concorrentes-se-aproximarem.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/09/vila-nova-se-ampara-na-defesa-forte-para-buscar-o-acesso.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/09/vila-nova-tem-problemas-na-defesa-para-enfrentar-o-nautico-veja-provavel-escalacao.ghtml",
-      "https://ge.globo.com/pe/futebol/brasileirao-serie-b/noticia/2026/10/11/nautico-x-vila-nova-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+      "https://ge.globo.com/pe/futebol/brasileirao-serie-b/noticia/2026/10/11/nautico-x-vila-nova-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+      "https://ge.globo.com/go/futebol/goiano-segunda-divisao/noticia/2026/10/11/goianesia-sobe-e-rio-verde-fica-com-o-titulo-da-divisao-de-acesso-do-goianao.ghtml"
     ]
   }
 }
