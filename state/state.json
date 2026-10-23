@@ -857,7 +857,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/961023/torcida-do-remo-pressiona-e-consegue-reunir-com-diretores-apos-protestos",
       "https://dol.com.br/esporte/remo/961055/remo-tem-segunda-defesa-mais-vazada-e-sofre-com-bolas-alcadas-na-area",
       "https://dol.com.br/esporte/remo/961055/remo-tem-segunda-defesa-mais-vazada-e-sofre-com-bolas-altas-na-area",
       "https://dol.com.br/esporte/remo/961061/vitor-bueno-pede-equilibrio-ao-remo-as-coisas-nao-podem-ser-baguncadas",
@@ -1156,7 +1155,8 @@
       "https://dol.com.br/esporte/remo/966242/remo-assembleia-aprova-estatuto-com-mudancas-na-gestao-e-fiscalizacao",
       "https://dol.com.br/esporte/remo/966245/remo-completa-5-meses-sem-vencer-fora-de-casa-e-desafia-cruzeiro",
       "https://dol.com.br/esporte/remo/966260/jaja-ve-remo-capaz-de-reagir-e-fazer-o-torcedor-feliz-novamente",
-      "https://dol.com.br/esporte/remo/966262/chapa-estuda-retorno-de-sergio-papellin-ao-remo-para-2027"
+      "https://dol.com.br/esporte/remo/966262/chapa-estuda-retorno-de-sergio-papellin-ao-remo-para-2027",
+      "https://dol.com.br/esporte/remo/966345/cruzeiro-x-remo-horario-escalacoes-desfalques-e-onde-assistir"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1342,7 +1342,6 @@
       "yt:video:530XsEPPSnY"
     ],
     "oliberal_remo": [
-      "https://www.oliberal.com/esportes/remo/lei-do-ex-encerra-sonho-da-copa-do-brasil-remo-perde-para-o-santos-em-um-mangueircao-lotado-1.1153372",
       "https://www.oliberal.com/esportes/remo/remo-empata-com-o-atletico-mg-no-mangueirao-e-segue-no-z4-da-serie-a-1.1154929",
       "https://www.oliberal.com/esportes/remo/site-do-remo-e-hackeado-recebe-montagem-de-neymar-e-tonhao-e-ganha-um-salve-paysandu-1.1154971",
       "https://www.oliberal.com/esportes/remo/futebol-remo-volta-a-vencer-o-paysandu-e-e-campeao-da-copa-para-sub-17-1.1154976",
@@ -1641,7 +1640,8 @@
       "https://www.oliberal.com/esportes/remo/remo-acerta-retorno-do-analista-de-desempenho-em-meio-a-processo-de-reformulacao-1.1185436",
       "https://www.oliberal.com/esportes/remo/remo-tem-tres-desfalques-por-lesao-para-enfrentar-o-cruzeiro-veja-os-nomes-1.1185505",
       "https://www.oliberal.com/esportes/remo/remo-aprova-novo-estatuto-e-diretor-estatutario-pode-receber-salario-entenda-1.1185534",
-      "https://www.oliberal.com/esportes/remo/tchamba-reforca-confianca-do-remo-em-batalha-contra-o-rebaixamento-1.1185646"
+      "https://www.oliberal.com/esportes/remo/tchamba-reforca-confianca-do-remo-em-batalha-contra-o-rebaixamento-1.1185646",
+      "https://www.oliberal.com/esportes/remo/remo-visita-o-cruzeiro-em-busca-de-reacao-contra-o-rebaixamento-1.1185637"
     ],
     "ge_remo": [
       "https://ge.globo.com/pa/futebol/noticia/2026/08/05/remo-bate-o-paysandu-na-curuzu-e-larga-em-vantagem-na-final-copa-para-sub-17.ghtml",
@@ -1898,7 +1898,8 @@
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/22/remo-tem-tres-baixas-por-lesao-para-confronto-com-o-cruzeiro-veja.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/22/novo-estatuto-do-remo-saf-regulamentada-remuneracao-e-quarentena-politica-veja-o-que-muda.ghtml",
       "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/10/23/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-32a-rodada.ghtml",
-      "https://ge.globo.com/mg/futebol/brasileirao-serie-a/noticia/2026/10/23/cruzeiro-x-remo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml"
+      "https://ge.globo.com/mg/futebol/brasileirao-serie-a/noticia/2026/10/23/cruzeiro-x-remo-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
+      "https://ge.globo.com/gato-mestre/dicas/noticia/2026/10/23/palpites-e-dicas-para-cruzeiro-x-remo-pelo-brasileirao.ghtml"
     ]
   },
   "paysandu": {
@@ -2462,7 +2463,6 @@
       "8710"
     ],
     "dol_paysandu": [
-      "https://dol.com.br/esporte/paysandu/960514/eduardo-mira-acesso-no-paysandu-cada-jogo-e-uma-final",
       "https://dol.com.br/esporte/paysandu/960523/paysandu-tem-quatro-problemas-para-resolver-antes-do-ituano",
       "https://dol.com.br/esporte/paysandu/960558/gustavo-henrique-e-confirmado-no-paysandu-e-projeta-subir-de-divisao",
       "https://dol.com.br/esporte/paysandu/960593/gustavo-henrique-revela-influencia-de-junior-rocha-em-chegada-ao-paysandu",
@@ -2761,7 +2761,8 @@
       "https://dol.com.br/esporte/paysandu/966046/paysandu-confirma-as-saidas-de-marcelo-santana-maia-e-vandick",
       "https://dol.com.br/esporte/paysandu/966108/paysandu-renova-contrato-com-o-meia-marcinho-por-mais-duas-temporadas",
       "https://dol.com.br/esporte/paysandu/966246/paysandu-acerta-compra-de-juninho-e-mantem-atacante-ate-2028",
-      "https://dol.com.br/esporte/paysandu/966253/paysandu-avanca-na-copa-do-brasil-e-pega-palmeiras-ou-botafogo"
+      "https://dol.com.br/esporte/paysandu/966253/paysandu-avanca-na-copa-do-brasil-e-pega-palmeiras-ou-botafogo",
+      "https://dol.com.br/esporte/paysandu/966349/paysandu-tera-palmeiras-pela-frente-nas-quartas-da-copa-do-brasil"
     ],
     "oliberal_paysandu": [
       "https://www.oliberal.com/esportes/paysandu/junior-rocha-elogia-integracao-da-base-apos-jogo-treino-e-confirma-reforcos-a-disposicao-no-paysandu-1.1152645",
