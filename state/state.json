@@ -524,8 +524,6 @@
       "yt:video:NLbA7IzIcTc"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=117997",
-      "https://www.remo100porcento.com/?p=117999",
       "https://www.remo100porcento.com/?p=118001",
       "https://www.remo100porcento.com/?p=118003",
       "https://www.remo100porcento.com/?p=118005",
@@ -823,7 +821,9 @@
       "https://www.remo100porcento.com/?p=119714",
       "https://www.remo100porcento.com/?p=119732",
       "https://www.remo100porcento.com/?p=119734",
-      "https://www.remo100porcento.com/?p=119736"
+      "https://www.remo100porcento.com/?p=119736",
+      "https://www.remo100porcento.com/?p=119738",
+      "https://www.remo100porcento.com/?p=119740"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -1950,7 +1950,9 @@
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/28/atuacoes-do-remo-jaja-e-picco-sao-protagonistas-no-fim-do-jejum-de-suas-notas.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/29/remo-volta-a-vencer-o-botafogo-unico-a-perder-duas-vezes-para-os-azulinos-nesta-serie-a.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/29/analise-remo-confirma-evolucao-com-carpini-aliando-solidez-defensiva-e-eficiencia-no-ataque.ghtml",
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/29/remo-supera-media-de-distancia-percorrida-e-carpini-descarta-cansaco-no-segundo-tempo-e-mental.ghtml"
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/29/remo-supera-media-de-distancia-percorrida-e-carpini-descarta-cansaco-no-segundo-tempo-e-mental.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/29/carpini-explica-mexidas-na-formacao-do-remo-e-destaca-vitoria-para-o-animo-do-time.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/29/remo-vence-apos-tres-meses-e-encerra-maior-jejum-em-andamento-na-serie-a.ghtml"
     ]
   },
   "paysandu": {
@@ -3316,7 +3318,8 @@
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/26/paysandu-negocia-permanencia-de-titular-do-time-na-temporada-2026.ghtml",
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/26/goleiro-confirma-despedida-do-paysandu-minha-gratidao-e-meu-abraco.ghtml",
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/26/paysandu-anuncia-renovacao-do-zagueiro-castro.ghtml",
-      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/27/apos-renovacao-com-castro-paysandu-chega-a-15-contratos-firmados-para-2027.ghtml"
+      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/27/apos-renovacao-com-castro-paysandu-chega-a-15-contratos-firmados-para-2027.ghtml",
+      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/10/29/sem-pistas-sobre-o-futuro-caio-mello-cita-gosto-amargo-e-orgulho-de-temporada-pelo-paysandu.ghtml"
     ]
   },
   "crb": {
@@ -3739,7 +3742,8 @@
       "https://tribunahoje.com/noticias/esportes/2026/10/27/197285-crb-entra-no-g6-e-faz-as-contas-para-garantir-a-classificacao",
       "https://tribunahoje.com/noticias/esportes/2026/10/27/197359-danielzinho-destaca-foco-e-humildade-do-crb-na-luta-pelo-g6-da-serie-b",
       "https://tribunahoje.com/noticias/esportes/2026/10/28/197401-crb-espera-recuperar-atletas-lesionados",
-      "https://tribunahoje.com/noticias/esportes/2026/10/29/197516-crb-tera-confronto-direto-com-o-goias"
+      "https://tribunahoje.com/noticias/esportes/2026/10/29/197516-crb-tera-confronto-direto-com-o-goias",
+      "https://tribunahoje.com/noticias/esportes/2026/10/29/197555-joao-neto-ve-crb-fortalecido-para-reta-decisiva-da-serie-b"
     ],
     "gazeta_alagoas_crb": [
       "https://www.gazetaweb.com/noticias/esportes/alagoano/entenda-como-o-crb-conseguiu-o-aval-da-cbf-para-se-tornar-o-maior-campeao-de-alagoas-927105",
@@ -3954,7 +3958,8 @@
       "https://www.gazetaweb.com/noticias/esportes/alagoano/cbf-escala-arbitro-punido-ha-menos-de-cinco-meses-para-goias-x-crb-945765",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/proximo-adversario-do-crb-fabio-matias-estreou-contra-o-goias-o-que-mudou-de-la-pra-ca-945766",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/joao-neto-destaca-uniao-do-crb-na-briga-pelo-g6-estamos-fechados-945988",
-      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-desafia-retrospecto-contra-o-goias-inspirado-em-triunfo-recente-como-visitante-946048"
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-desafia-retrospecto-contra-o-goias-inspirado-em-triunfo-recente-como-visitante-946048",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/invicto-ha-quatro-jogos-e-sonhando-com-o-g-6-veja-como-chega-o-goias-para-duelo-com-o-crb-946060"
     ],
     "frances_news_crb": [
       "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf",
@@ -4279,7 +4284,8 @@
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/27/mikael-e-lucas-lovat-estao-machucados-veja-como-esta-o-departamento-medico-do-crb.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/27/danielzinho-diz-que-crb-entrou-no-g-6-na-hora-certa-agora-e-manter-a-garra.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/28/joao-neto-comemora-chance-como-titular-do-crb-e-projeta-duelo-contra-o-goias.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/28/saiba-como-estao-as-chances-do-crb-de-chegar-aos-playoffs-depois-da-vitoria-sobre-o-londrina.ghtml"
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/28/saiba-como-estao-as-chances-do-crb-de-chegar-aos-playoffs-depois-da-vitoria-sobre-o-londrina.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/29/livro-futebol-clube-goleiro-matheus-albino-revela-rotina-de-leitura-e-indica-seus-favoritos.ghtml"
     ]
   },
   "goias": {
@@ -4567,7 +4573,8 @@
       "https://www.maisgoias.com.br/?p=1155825",
       "https://www.maisgoias.com.br/?p=1155833",
       "https://www.maisgoias.com.br/?p=1155849",
-      "https://www.maisgoias.com.br/?p=1156397"
+      "https://www.maisgoias.com.br/?p=1156397",
+      "https://www.maisgoias.com.br/?p=1157020"
     ],
     "piriquito_news": [
       "https://www.piriquitonews.com/ler_noticia.php?id=27",
@@ -4803,7 +4810,8 @@
       "https://ge.globo.com/volei/noticia/2026/10/27/irma-de-capitao-do-volei-estrela-outubro-rosa-do-goias-apos-vencer-cancer-com-apoio-da-torcida.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/27/mozart-reforca-confianca-em-acesso-do-goias-e-fala-em-criar-atmosfera-de-final-nos-ultimos-jogos.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/28/atacante-marca-um-gol-de-letra-e-outro-quase-do-meio-campo-em-vitoria-do-goias-contra-o-ceara-veja.ghtml",
-      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/28/goias-vivo-pelo-acesso-veja-o-que-o-clube-precisa-para-entrar-no-g-6.ghtml"
+      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/28/goias-vivo-pelo-acesso-veja-o-que-o-clube-precisa-para-entrar-no-g-6.ghtml",
+      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/10/29/artilheiro-do-goias-kadu-sousa-celebra-noite-especial-no-castelao-e-prega-luta-ate-o-fim-por-vaga-na-serie-a.ghtml"
     ]
   },
   "vila_nova": {
@@ -5229,7 +5237,8 @@
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/28/com-volta-de-dudu-e-desfalque-na-lateral-vila-nova-ja-pensa-em-decisao-contra-o-juventude.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/28/vila-nova-x-juventude-ingressos-esgotados-para-jogo-decisivo-de-sabado.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/28/faltando-tres-rodadas-veja-as-chances-de-acesso-do-vila-nova-na-serie-b.ghtml",
-      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/28/restando-tres-rodadas-veja-as-chances-de-acesso-do-atletico-go-na-serie-b.ghtml"
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/28/restando-tres-rodadas-veja-as-chances-de-acesso-do-atletico-go-na-serie-b.ghtml",
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/29/melhor-mandante-da-serie-b-vila-nova-espera-confirmar-acesso-com-dois-jogos-seguidos-em-casa.ghtml"
     ]
   }
 }
