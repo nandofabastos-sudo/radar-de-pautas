@@ -529,8 +529,6 @@
       "yt:video:uGuqQgPOD4g"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=118005",
-      "https://www.remo100porcento.com/?p=118008",
       "https://www.remo100porcento.com/?p=118015",
       "https://www.remo100porcento.com/?p=118097",
       "https://www.remo100porcento.com/?p=118100",
@@ -828,7 +826,9 @@
       "https://www.remo100porcento.com/?p=119738",
       "https://www.remo100porcento.com/?p=119740",
       "https://www.remo100porcento.com/?p=119754",
-      "https://www.remo100porcento.com/?p=119759"
+      "https://www.remo100porcento.com/?p=119759",
+      "https://www.remo100porcento.com/?p=119761",
+      "https://www.remo100porcento.com/?p=119763"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -1376,8 +1376,6 @@
       "yt:video:bd4Ylllm_rg"
     ],
     "oliberal_remo": [
-      "https://www.oliberal.com/esportes/remo/tchamba-retorna-contra-o-internacional-medico-do-remo-explica-a-situacao-1.1156276",
-      "https://www.oliberal.com/esportes/remo/remo-pode-ir-do-ceu-ao-inferno-contra-o-internacional-entenda-1.1156344",
       "https://www.oliberal.com/esportes/remo/remo-vive-entra-e-sai-no-departamento-medico-antes-de-sequencia-decisiva-fora-de-casa-1.1156410",
       "https://www.oliberal.com/esportes/remo/site-do-remo-e-recuperado-apos-ataque-hacker-1.1156512",
       "https://www.oliberal.com/esportes/remo/surto-de-lesoes-musculares-na-serie-a-1.1156515",
@@ -1675,7 +1673,9 @@
       "https://www.oliberal.com/esportes/remo/hoje-vejo-um-time-competitivo-destaca-thiago-carpini-apos-vitoria-do-remo-1.1188218",
       "https://www.oliberal.com/esportes/remo/remo-e-carrasco-do-botafogo-e-acende-alerta-no-clube-carioca-na-serie-a-1.1188291",
       "https://www.oliberal.com/esportes/remo/remo-pode-diminuir-distancia-para-sair-do-z-4-ao-fim-da-33-rodada-da-serie-a-1.1188346",
-      "https://www.oliberal.com/esportes/remo/cbf-detalha-jogos-do-remo-contra-chapecoense-e-athletico-pr-na-serie-a-1.1188822"
+      "https://www.oliberal.com/esportes/remo/cbf-detalha-jogos-do-remo-contra-chapecoense-e-athletico-pr-na-serie-a-1.1188822",
+      "https://www.oliberal.com/esportes/remo/remo-oficializa-proposta-de-renovacao-para-marcelinho-veja-detalhes-1.1188902",
+      "https://www.oliberal.com/esportes/remo/vice-presidente-do-remo-confirma-renovacao-de-contrato-de-tchamba-saiba-mais-1.1189015"
     ],
     "ge_remo": [
       "https://ge.globo.com/pa/futebol/noticia/2026/08/05/remo-bate-o-paysandu-na-curuzu-e-larga-em-vantagem-na-final-copa-para-sub-17.ghtml",
@@ -1959,7 +1959,8 @@
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/29/carpini-explica-mexidas-na-formacao-do-remo-e-destaca-vitoria-para-o-animo-do-time.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/29/remo-vence-apos-tres-meses-e-encerra-maior-jejum-em-andamento-na-serie-a.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/30/cbf-divulga-tabela-detalhada-das-rodadas-35-e-36-da-serie-a-veja-jogos-do-remo.ghtml",
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/30/jaja-pede-para-torcida-acreditar-no-remo-e-afirma-que-jogadores-vao-lutar-ate-o-fim.ghtml"
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/30/jaja-pede-para-torcida-acreditar-no-remo-e-afirma-que-jogadores-vao-lutar-ate-o-fim.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/10/30/taliari-cobra-remo-focado-nao-adianta-pensar-no-corinthians-e-esquecer-o-palmeiras.ghtml"
     ]
   },
   "paysandu": {
@@ -2175,7 +2176,8 @@
       "yt:video:ZMsGKe7kkcc",
       "yt:video:qhSrg0ton_Y",
       "yt:video:jwRrQUviCP4",
-      "yt:video:xETha9Dx27k"
+      "yt:video:xETha9Dx27k",
+      "yt:video:HwildE591WU"
     ],
     "meu_paysandu_youtube": [
       "yt:video:XK0L6svQBYg",
@@ -4299,7 +4301,9 @@
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/27/danielzinho-diz-que-crb-entrou-no-g-6-na-hora-certa-agora-e-manter-a-garra.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/28/joao-neto-comemora-chance-como-titular-do-crb-e-projeta-duelo-contra-o-goias.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/28/saiba-como-estao-as-chances-do-crb-de-chegar-aos-playoffs-depois-da-vitoria-sobre-o-londrina.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/29/livro-futebol-clube-goleiro-matheus-albino-revela-rotina-de-leitura-e-indica-seus-favoritos.ghtml"
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/29/livro-futebol-clube-goleiro-matheus-albino-revela-rotina-de-leitura-e-indica-seus-favoritos.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/30/escalacao-do-crb-matias-conta-com-retorno-de-titular-contra-o-goias.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/10/30/time-da-serie-b-desiste-de-esperar-por-fabio-matias-e-contrata-ze-ricardo.ghtml"
     ]
   },
   "goias": {
@@ -4381,7 +4385,8 @@
       "yt:video:d1BlenipYUc",
       "yt:video:JUlWq2un1S0",
       "yt:video:bA9IFt95KoA",
-      "yt:video:K4HaZV9zF-s"
+      "yt:video:K4HaZV9zF-s",
+      "yt:video:AAbRs0n5_PM"
     ],
     "goias_site": [
       "https://www.goiasec.com.br/noticias/goias-esporte-clube-comunica-o-encerramento-do-ciclo-de-daniel-paulista",
@@ -4589,7 +4594,8 @@
       "https://www.maisgoias.com.br/?p=1155833",
       "https://www.maisgoias.com.br/?p=1155849",
       "https://www.maisgoias.com.br/?p=1156397",
-      "https://www.maisgoias.com.br/?p=1157020"
+      "https://www.maisgoias.com.br/?p=1157020",
+      "https://www.maisgoias.com.br/?p=1157276"
     ],
     "piriquito_news": [
       "https://www.piriquitonews.com/ler_noticia.php?id=27",
@@ -5260,7 +5266,9 @@
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/28/restando-tres-rodadas-veja-as-chances-de-acesso-do-atletico-go-na-serie-b.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/29/melhor-mandante-da-serie-b-vila-nova-espera-confirmar-acesso-com-dois-jogos-seguidos-em-casa.ghtml",
       "https://ge.globo.com/pb/futebol/noticia/2026/10/30/cria-do-vf4-pb-paraibano-assina-contrato-profissional-com-o-vila-nova-ate-2029.ghtml",
-      "https://ge.globo.com/pb/futebol/noticia/2026/10/30/artilheiro-na-paraiba-e-nome-de-craque-atacante-kaka-assina-pre-contrato-com-o-vila-nova-para-2027.ghtml"
+      "https://ge.globo.com/pb/futebol/noticia/2026/10/30/artilheiro-na-paraiba-e-nome-de-craque-atacante-kaka-assina-pre-contrato-com-o-vila-nova-para-2027.ghtml",
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/30/confira-a-provavel-escalacao-do-vila-nova-para-enfrentar-o-juventude.ghtml",
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/10/30/joao-vieira-prega-concentracao-no-vila-nova-antes-de-confronto-direto-contra-o-juventude.ghtml"
     ]
   }
 }
