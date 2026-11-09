@@ -147,7 +147,8 @@
       "yt:video:2xu11hnOxys",
       "yt:video:m-nymXbUbcs",
       "yt:video:tRv1zybmY00",
-      "yt:video:ddwY_D_VtF0"
+      "yt:video:ddwY_D_VtF0",
+      "yt:video:shBB1WjMQwQ"
     ],
     "leao_azulino_youtube": [
       "yt:video:LiOFOu_8Xvo",
@@ -339,7 +340,8 @@
       "yt:video:z1NuSvu4mdU",
       "yt:video:UK6lRKCXkgE",
       "yt:video:QhvIvvWoXus",
-      "yt:video:uZBPq5NnJQM"
+      "yt:video:uZBPq5NnJQM",
+      "yt:video:9AwrULQRFAU"
     ],
     "chaves_remista_youtube": [
       "yt:video:TNTaEz1zCvs",
@@ -562,12 +564,10 @@
       "yt:video:CpYTcAiNhBs",
       "yt:video:yvA_w5wsPpA",
       "yt:video:AJi9y3o1ZQ4",
-      "yt:video:VcfUuuYYpZM"
+      "yt:video:VcfUuuYYpZM",
+      "yt:video:ULrSVRgIpXo"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=118286",
-      "https://www.remo100porcento.com/?p=118288",
-      "https://www.remo100porcento.com/?p=118290",
       "https://www.remo100porcento.com/?p=118284",
       "https://www.remo100porcento.com/?p=118364",
       "https://www.remo100porcento.com/?p=118366",
@@ -864,7 +864,10 @@
       "https://www.remo100porcento.com/?p=119919",
       "https://www.remo100porcento.com/?p=119929",
       "https://www.remo100porcento.com/?p=119933",
-      "https://www.remo100porcento.com/?p=119936"
+      "https://www.remo100porcento.com/?p=119936",
+      "https://www.remo100porcento.com/?p=119943",
+      "https://www.remo100porcento.com/?p=119923",
+      "https://www.remo100porcento.com/?p=119947"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -926,8 +929,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/962061/acompanhe-ao-vivo-remo-0-x-1-flamengo",
-      "https://dol.com.br/esporte/remo/962077/marcelo-rangel-se-destaca-na-partida-contra-o-flamengo-e-pede-apoio-da-torcida",
       "https://dol.com.br/esporte/remo/962075/torcida-do-remo-faz-festa-nas-arquibancadas-mas-time-decepciona",
       "https://dol.com.br/esporte/remo/962076/flamengo-vence-remo-no-mangueirao-mas-admite-partida-dificil",
       "https://dol.com.br/esporte/remo/962077/remo-rangel-se-destaca-na-partida-contra-o-flamengo-e-pede-apoio-da-torcida",
@@ -1225,7 +1226,9 @@
       "https://dol.com.br/esporte/remo/967731/de-saida-tonhao-projeta-futuro-do-remo-e-revela-bastidores-do-elenco",
       "https://dol.com.br/esporte/remo/967730/remo-pretende-manter-o-volante-patrick-para-a-temporada-de-2027",
       "https://dol.com.br/esporte/remo/967747/glauber-goncalves-e-eleito-presidente-do-remo-para-o-trienio-202720282029",
-      "https://dol.com.br/esporte/remo/967748/glauber-goncalves-promete-ser-o-presidente-que-vai-ganhar-titulos"
+      "https://dol.com.br/esporte/remo/967748/glauber-goncalves-promete-ser-o-presidente-que-vai-ganhar-titulos",
+      "https://dol.com.br/esporte/remo/967806/fabio-bentes-e-o-mais-votado-para-o-condel-do-remo-veja-a-lista",
+      "https://dol.com.br/esporte/remo/967808/remo-ainda-nao-caiu-mas-presidente-ja-mira-titulo-da-serie-b"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1413,10 +1416,6 @@
       "yt:video:1A-oNUW_24g"
     ],
     "oliberal_remo": [
-      "https://www.oliberal.com/esportes/remo/nem-de-graca-x-ze-chorao-galhardo-critica-remo-e-ganha-resposta-de-eduardo-ramos-1.1159306",
-      "https://www.oliberal.com/esportes/remo/remo-finaliza-preparacao-em-porto-alegre-e-segue-para-jogo-com-o-fluminense-1.1159464",
-      "https://www.oliberal.com/esportes/remo/remo-desembarca-no-rj-e-treina-no-ct-do-vasco-antes-de-pegar-o-fluminense-pela-serie-a-1.1159623",
-      "https://www.oliberal.com/esportes/remo/ze-welison-destaca-apoio-da-torcida-do-remo-antes-de-duelo-com-o-fluminense-1.1159782",
       "https://www.oliberal.com/esportes/remo/remo-tenta-manter-reacao-contra-o-fluminense-no-maracana-1.1159801",
       "https://www.oliberal.com/esportes/remo/com-gol-de-hulk-remo-perde-de-virada-para-o-fluminense-e-segue-no-z4-da-serie-a-1.1160134",
       "https://www.oliberal.com/esportes/remo/conde-lamenta-erros-do-remo-em-derrota-para-o-fluminense-e-cita-escolhas-no-time-1.1160195",
@@ -1712,11 +1711,13 @@
       "https://www.oliberal.com/esportes/remo/remo-pode-nao-renovar-com-a-volt-e-tem-propostas-de-outras-quatro-empresas-1.1191974",
       "https://www.oliberal.com/esportes/remo/eleicao-do-remo-votacao-e-encerrada-apos-atraso-de-1h30-apuracao-comeca-1.1191986",
       "https://www.oliberal.com/esportes/remo/eleito-glauber-goncalves-deve-anunciar-novo-executivo-do-remo-nos-proximos-dias-1.1191954",
-      "https://www.oliberal.com/esportes/remo/em-primeiro-discurso-como-presidente-glauber-ja-admite-remo-na-serie-b-de-2027-1.1191998"
+      "https://www.oliberal.com/esportes/remo/em-primeiro-discurso-como-presidente-glauber-ja-admite-remo-na-serie-b-de-2027-1.1191998",
+      "https://www.oliberal.com/esportes/remo/remo-fabio-bentes-e-tres-filhos-de-tonhao-sao-eleitos-conselheiros-veja-lista-1.1192089",
+      "https://www.oliberal.com/esportes/remo/cbf-divulga-tabela-das-duas-ultimas-rodadas-da-serie-a-veja-os-jogos-do-remo-1.1192142",
+      "https://www.oliberal.com/esportes/remo/carrasco-do-paysandu-desperta-interesse-do-remo-para-2027-saiba-mais-1.1192171",
+      "https://www.oliberal.com/esportes/remo/pai-do-atacante-rony-e-morto-a-facadas-no-interior-do-para-1.1192312"
     ],
     "ge_remo": [
-      "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/08/08/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-22a-rodada.ghtml",
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/08/remo-consegue-efeito-suspensivo-e-confirma-marllon-contra-atletico-mg-veja-escalacao.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/08/atuacoes-do-remo-laterais-e-atacantes-sao-protagonistas-de-empate-de-suas-notas.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/08/taliari-comemora-reencontro-com-as-redes-mas-lamenta-primeiro-tempo-do-remo.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/09/analise-escorregadas-mantem-remo-dentro-do-z-4-da-serie-a.ghtml",
@@ -2014,7 +2015,9 @@
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/08/vice-na-chapa-de-glauber-jean-klay-promete-remo-academy-e-reorganizacao-no-futebol.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/08/glauber-goncalves-e-eleito-presidente-do-remo-para-o-trienio-2027-2029.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/08/eleito-presidente-do-remo-glauber-mira-futuro-na-serie-b-lutar-para-ser-campeao.ghtml",
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/08/com-fabio-bentes-como-mais-votado-remo-define-novo-condel-confira.ghtml"
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/08/com-fabio-bentes-como-mais-votado-remo-define-novo-condel-confira.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/09/novo-presidente-do-remo-revela-conversa-com-papellin-sobre-possivel-retorno.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/09/marcelo-rangel-do-remo-vence-defesa-da-rodada-do-brasileirao-por-lance-contra-o-palmeiras.ghtml"
     ]
   },
   "paysandu": {
@@ -2432,7 +2435,8 @@
       "yt:video:GftGFwSByiE",
       "yt:video:gNRvCCneN5c",
       "yt:video:t2gphAmjq14",
-      "yt:video:x6GJbx69sj8"
+      "yt:video:x6GJbx69sj8",
+      "yt:video:XDGV3Jwd2iw"
     ],
     "tomazao_tv_youtube": [
       "yt:video:y90CcUcJ5HQ",
@@ -2630,11 +2634,10 @@
       "8716",
       "8717",
       "8718",
-      "8719"
+      "8719",
+      "8720"
     ],
     "dol_paysandu": [
-      "https://dol.com.br/esporte/paysandu/961048/acolhido-pelo-elenco-zagueiro-castro-ganha-nova-chance-no-paysandu",
-      "https://dol.com.br/esporte/paysandu/961062/paysandu-avanca-na-aquisicao-de-igor-henrique-volante-do-atletico-go",
       "https://dol.com.br/esporte/paysandu/961087/paysandu-confirma-25-mil-bicolores-e-arabes-contra-o-maringa",
       "https://dol.com.br/esporte/paysandu/961111/paysandu-acerta-contratacao-de-kukri-junto-ao-aguia-veja-os-detalhes",
       "https://dol.com.br/esporte/paysandu/961143/paysandu-x-maringa-tem-30-mil-torcedores-confirmados",
@@ -2932,7 +2935,9 @@
       "https://dol.com.br/esporte/paysandu/967643/ignacio-neto-fala-sobre-possivel-comando-tecnico-no-paysandu-em-2027",
       "https://dol.com.br/esporte/paysandu/967643/paysandu-ignacio-neto-fala-sobre-possibilidade-de-ser-tecnico-do-time-profissional",
       "https://dol.com.br/esporte/paysandu/967693/parazao-2027-paysandu-vai-estrear-no-mangueirao-pela-supercopa-grao-para",
-      "https://dol.com.br/esporte/paysandu/967712/paysandu-deve-anunciar-novo-tecnico-nesta-segunda-feira-9-diz-tuma"
+      "https://dol.com.br/esporte/paysandu/967712/paysandu-deve-anunciar-novo-tecnico-nesta-segunda-feira-9-diz-tuma",
+      "https://dol.com.br/esporte/paysandu/967810/novo-treinador-do-paysandu-tres-nomes-movimentam-bastidores",
+      "https://dol.com.br/esporte/paysandu/967846/stjd-nao-interdita-estadio-multa-brusque-e-mantem-empate-com-paysandu"
     ],
     "oliberal_paysandu": [
       "https://www.oliberal.com/esportes/paysandu/junior-rocha-elogia-integracao-da-base-apos-jogo-treino-e-confirma-reforcos-a-disposicao-no-paysandu-1.1152645",
@@ -3446,7 +3451,8 @@
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/11/05/ignacio-neto-passa-por-entrevista-com-executivo-e-e-opcao-para-comandar-o-paysandu.ghtml",
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/11/06/tuma-justifica-escolha-de-executivo-e-promete-novo-tecnico-do-paysandu-para-a-proxima-semana.ghtml",
       "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/11/06/emerson-deve-deixar-o-cargo-de-preparador-de-goleiros-do-paysandu.ghtml",
-      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/11/08/paysandu-confirma-estreia-no-parazao-2027-e-decisao-da-supercopa-no-mangueirao.ghtml"
+      "https://ge.globo.com/pa/futebol/times/paysandu/noticia/2026/11/08/paysandu-confirma-estreia-no-parazao-2027-e-decisao-da-supercopa-no-mangueirao.ghtml",
+      "https://ge.globo.com/sc/futebol/times/brusque/noticia/2026/11/09/brusque-e-multado-em-r-285-mil-pelo-stjd-por-ocorrencias-em-jogo-contra-o-paysandu-na-serie-c.ghtml"
     ]
   },
   "crb": {
@@ -4140,7 +4146,8 @@
       "https://www.gazetaweb.com/noticias/esportes/alagoano/segundo-tempo-inicia-e-crb-segue-na-frente-do-nautico2-a-0-siga-ao-vivo-na-gazeta-947952",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/danielzinho-sacramenta-a-vitoria-do-crb-sobre-o-nautico-3-a-0-siga-ao-vivo-na-gazeta-947952",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/ataque-funciona-crb-vence-o-nautico-nos-aflitos-e-fica-perto-de-vaga-nos-playoffs-3-a-0-947955",
-      "https://www.gazetaweb.com/noticias/esportes/alagoano/fabio-matias-destaca-torcida-do-crb-e-pede-equilibrio-na-busca-por-vaga-nos-playoffs-947956"
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/fabio-matias-destaca-torcida-do-crb-e-pede-equilibrio-na-busca-por-vaga-nos-playoffs-947956",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/adversario-do-crb-ceara-tera-comando-interino-na-ultima-rodada-da-serie-b-948094"
     ],
     "frances_news_crb": [
       "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf",
@@ -4223,7 +4230,8 @@
       "https://francesnews.com.br/post/2026/11/06/45114-nautico-concede-ferias-antecipadas-a-nove-atletas-antes-de-enfrentar-o-crb",
       "https://francesnews.com.br/post/2026/11/07/45218-com-transmissao-do-fsports-crb-enfrenta-o-nautico-nos-aflitos-neste-sabado-confira-todos-os-detalhes-do-duelo",
       "https://francesnews.com.br/post/2026/11/08/45258-crb-atropela-o-nautico-nos-aflitos-segue-no-g-6-e-tira-o-sport-da-briga-pelo-acesso",
-      "https://francesnews.com.br/post/2026/11/08/45298-crb-homenageia-joba-apos-vitoria-sobre-o-nautico-e-mantem-viva-a-memoria-do-funcionario-e-torcedor-que-nos-deixou-em-2026"
+      "https://francesnews.com.br/post/2026/11/08/45298-crb-homenageia-joba-apos-vitoria-sobre-o-nautico-e-mantem-viva-a-memoria-do-funcionario-e-torcedor-que-nos-deixou-em-2026",
+      "https://francesnews.com.br/post/2026/11/09/45455-atletico-go-e-goias-criticam-nautico-por-escalar-time-alternativo-contra-o-crb-na-serie-b"
     ],
     "ge_crb": [
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/04/crb-promove-a-primeira-corrida-do-galo-com-percursos-de-3-5-e-10-km.ghtml",
@@ -4509,7 +4517,9 @@
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/08/matias-destaca-mobilizacao-do-crb-para-lutar-pelo-acesso-e-lembra-que-salarios-estao-em-dia-merito.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/08/cria-do-nautico-thiaguinho-marca-nos-aflitos-e-comemora-vitoria-do-crb-entramos-ligados.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/08/bressan-exalta-mikael-e-lyncon-nos-bastidores-da-vitoria-do-crb-contra-o-nautico-video.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/08/saiba-o-que-o-crb-precisa-para-fazer-na-ultima-rodada-para-ir-aos-playoffs-da-serie-b.ghtml"
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/08/saiba-o-que-o-crb-precisa-para-fazer-na-ultima-rodada-para-ir-aos-playoffs-da-serie-b.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/09/crb-esta-a-uma-vitoria-de-ter-a-sua-melhor-campanha-na-historia-da-serie-b-dos-pontos-corridos.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/09/crb-abre-check-in-para-jogo-que-vale-vaga-nos-playoffs-e-deve-ter-recorde-de-publico-em-2026.ghtml"
     ]
   },
   "goias": {
@@ -4596,7 +4606,9 @@
       "yt:video:0RYR9bNaNRE",
       "yt:video:JO7GWEyPCjg",
       "yt:video:LCCVlEckwHU",
-      "yt:video:kj0FCFA24YY"
+      "yt:video:kj0FCFA24YY",
+      "yt:video:C3jbHHGMTaI",
+      "yt:video:TmWhSwR-_MQ"
     ],
     "goias_site": [
       "https://www.goiasec.com.br/noticias/goias-esporte-clube-comunica-o-encerramento-do-ciclo-de-daniel-paulista",
@@ -4826,7 +4838,8 @@
       "https://www.maisgoias.com.br/?p=1161007",
       "https://www.maisgoias.com.br/?p=1161038",
       "https://www.maisgoias.com.br/?p=1161046",
-      "https://www.maisgoias.com.br/?p=1161096"
+      "https://www.maisgoias.com.br/?p=1161096",
+      "https://www.maisgoias.com.br/?p=1161156"
     ],
     "piriquito_news": [
       "https://www.piriquitonews.com/ler_noticia.php?id=27",
@@ -5093,7 +5106,8 @@
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/11/06/goias-tera-mudanca-forcada-no-meio-campo-veja-provavel-escalacao-contra-a-ponte-preta.ghtml",
       "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/08/goias-x-ponte-preta-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/11/08/mozart-elogia-entrega-de-jogadores-e-torcida-em-vitoria-do-goias.ghtml",
-      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/11/08/veja-o-que-o-goias-precisa-para-entrar-no-g-6-na-ultima-rodada-da-serie-b.ghtml"
+      "https://ge.globo.com/go/futebol/times/goias/noticia/2026/11/08/veja-o-que-o-goias-precisa-para-entrar-no-g-6-na-ultima-rodada-da-serie-b.ghtml",
+      "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/09/atletico-go-e-goias-criticam-postura-do-nautico-na-reta-final-da-serie-b-desmoraliza-a-competicao.ghtml"
     ]
   },
   "vila_nova": {
@@ -5380,7 +5394,9 @@
       "https://www.maisgoias.com.br/?p=1160701",
       "https://www.maisgoias.com.br/?p=1160729",
       "https://www.maisgoias.com.br/?p=1160745",
-      "https://www.maisgoias.com.br/?p=1160862"
+      "https://www.maisgoias.com.br/?p=1160862",
+      "https://www.maisgoias.com.br/?p=1161383",
+      "https://www.maisgoias.com.br/?p=1161437"
     ],
     "vilanova_site": [
       "https://www.vilanovafc.com.br/noticias/540-venda-de-ingressos-vila-nova-x-botafogo-sp-serie-b-2026",
@@ -5564,7 +5580,9 @@
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/06/vila-nova-tem-desfalque-e-retorno-para-decisao-contra-o-criciuma-no-confira-provavel-escalacao.ghtml",
       "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/07/vila-nova-x-criciuma-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/07/veja-o-que-o-vila-nova-precisa-para-conquistar-o-acesso-direto-na-ultima-rodada.ghtml",
-      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/07/guto-ferreira-comemora-vitoria-e-reitera-confianca-no-acesso-do-vila-nova.ghtml"
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/07/guto-ferreira-comemora-vitoria-e-reitera-confianca-no-acesso-do-vila-nova.ghtml",
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/09/vila-nova-ja-teria-garantido-o-acesso-no-regulamento-antigo-da-serie-b-entenda.ghtml",
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/09/dirigente-do-vila-nova-elogia-campanha-e-nao-se-arrepende-de-ter-sugerido-criacao-do-g-6.ghtml"
     ]
   }
 }
