@@ -583,8 +583,6 @@
       "yt:video:Wm1EP3PtfTg"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=118471",
-      "https://www.remo100porcento.com/?p=118475",
       "https://www.remo100porcento.com/?p=118490",
       "https://www.remo100porcento.com/?p=118492",
       "https://www.remo100porcento.com/?p=118496",
@@ -882,7 +880,9 @@
       "https://www.remo100porcento.com/?p=119984",
       "https://www.remo100porcento.com/?p=119986",
       "https://www.remo100porcento.com/?p=119989",
-      "https://www.remo100porcento.com/?p=119991"
+      "https://www.remo100porcento.com/?p=119991",
+      "https://www.remo100porcento.com/?p=119995",
+      "https://www.remo100porcento.com/?p=120000"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -944,8 +944,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/962245/video-obras-do-ct-do-remo-avancam-com-drenagem-terraplenagem-e-portico",
-      "https://dol.com.br/esporte/remo/962253/remo-defesa-de-rangel-contra-o-flamengo-e-eleita-a-melhor-da-rodada",
       "https://dol.com.br/esporte/remo/962265/tchamba-se-torna-primeiro-jogador-do-remo-convocado-para-selecao-principal",
       "https://dol.com.br/esporte/remo/962266/remo-tera-dois-desfalques-por-suspensao-contra-o-bahia-em-salvador",
       "https://dol.com.br/esporte/remo/962281/tchamba-agradece-o-remo-por-vaga-na-selecao-amor-por-essa-camisa",
@@ -1243,7 +1241,9 @@
       "https://dol.com.br/esporte/remo/968162/remo-anuncia-saida-de-luis-vagner-vivian-e-mais-dois-dirigentes",
       "https://dol.com.br/esporte/remo/968121/remo-recebe-o-fluminense-em-decisao-da-taca-brasil-em-belem",
       "https://dol.com.br/esporte/remo/968129/tbt-arbitro-faz-xixi-em-campo-e-cumprimenta-marcelo-rangel",
-      "https://dol.com.br/esporte/remo/968143/jaja-tchamba-picco-e-marcelinho-vao-sair-do-remo-diz-caxiado"
+      "https://dol.com.br/esporte/remo/968143/jaja-tchamba-picco-e-marcelinho-vao-sair-do-remo-diz-caxiado",
+      "https://dol.com.br/esporte/remo/968181/remo-sofre-calote-da-brax-e-debito-pode-chegar-a-r-75-milhoes",
+      "https://dol.com.br/esporte/remo/968198/remo-x-chapecoense-ingressos-ja-estao-a-venda-a-partir-de-r-20"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -2304,7 +2304,8 @@
       "yt:video:giRB8YcsWy4",
       "yt:video:6rsqDuSqMks",
       "yt:video:QJ8epJkRNZE",
-      "yt:video:3ype5fBQPSs"
+      "yt:video:3ype5fBQPSs",
+      "yt:video:1wqPIV7YUlg"
     ],
     "noticias_paysandu_youtube": [
       "yt:video:WbGw0_T_gNA",
@@ -2460,7 +2461,8 @@
       "yt:video:FEUbE9sBOzA",
       "yt:video:zXJ34pUtoXk",
       "yt:video:s5OwUgz1hXI",
-      "yt:video:SrBgK43oShE"
+      "yt:video:SrBgK43oShE",
+      "yt:video:5p5PdkTZn0s"
     ],
     "tomazao_tv_youtube": [
       "yt:video:y90CcUcJ5HQ",
@@ -2667,9 +2669,6 @@
       "8722"
     ],
     "dol_paysandu": [
-      "https://dol.com.br/esporte/paysandu/961276/com-marcinho-juninho-e-castro-paysandu-define-relacao-contra-o-maringa",
-      "https://dol.com.br/esporte/paysandu/961280/volante-caio-melo-mira-jogo-mais-importante-do-ano-pelo-paysandu",
-      "https://dol.com.br/esporte/paysandu/961286/paysandu-x-maringa-veja-onde-assistir-e-provaveis-escalacoes",
       "https://dol.com.br/esporte/paysandu/961290/paysandu-anuncia-40-mil-ingressos-vendidos-para-jogo-com-o-maringa",
       "https://dol.com.br/esporte/paysandu/961300/paysandu-alerta-torcedores-antes-de-jogo-contra-o-maringa-entenda",
       "https://dol.com.br/esporte/paysandu/961319/paysandu-0-x-0-maringa-acompanhe-pelo-tem-jogo-no-dol",
@@ -2966,10 +2965,12 @@
       "https://dol.com.br/esporte/paysandu/968003/gramado-da-curuzu-ganha-prazo-para-voltar-a-receber-jogos",
       "https://dol.com.br/esporte/paysandu/968073/paysandu-supera-nacional-am-e-garante-permanencia-de-renan-castro",
       "https://dol.com.br/esporte/paysandu/968087/emerson-lamenta-saida-do-paysandu-cabia-uma-nota-agradecendo",
-      "https://dol.com.br/esporte/paysandu/968135/paysandu-tjpa-nega-novamente-pedido-do-mp-contra-recuperacao-judicial"
+      "https://dol.com.br/esporte/paysandu/968135/paysandu-tjpa-nega-novamente-pedido-do-mp-contra-recuperacao-judicial",
+      "https://dol.com.br/esporte/paysandu/968168/caio-mello-vira-alvo-da-ferroviaria-apos-temporada-no-paysandu",
+      "https://dol.com.br/esporte/paysandu/968189/paysandu-detalha-processo-de-implantacao-do-novo-gramado-da-curuzu",
+      "https://dol.com.br/esporte/paysandu/968192/paysandu-planeja-proxima-temporada-e-ja-tem-16-jogadores-garantidos"
     ],
     "oliberal_paysandu": [
-      "https://www.oliberal.com/esportes/paysandu/apresentado-no-paysandu-bruno-bispo-diz-que-clube-nao-e-time-de-serie-c-1.1102910",
       "https://www.oliberal.com/esportes/paysandu/lucas-rodrigues-se-coloca-a-disposicao-para-estrear-pelo-paysandu-contra-o-confianca-1.1154552",
       "https://www.oliberal.com/esportes/paysandu/bonifazi-cobra-autocritica-e-diz-que-paysandu-so-depende-de-si-na-serie-c-1.1154234",
       "https://www.oliberal.com/esportes/paysandu/ex-paysandu-cai-em-tunel-ao-comemorar-gol-anulado-no-brasileirao-veja-video-1.1155065",
@@ -3268,7 +3269,8 @@
       "https://www.oliberal.com/esportes/paysandu/brusque-e-punido-pelo-stjd-em-caso-envolvendo-o-paysandu-1.1192668",
       "https://www.oliberal.com/esportes/paysandu/paysandu-acerta-renovacao-de-contrato-com-renan-castro-saiba-os-detalhes-1.1193112",
       "https://www.oliberal.com/esportes/paysandu/paysandu-comeca-plantio-de-novo-gramado-da-curuzu-1.1193213",
-      "https://www.oliberal.com/esportes/paysandu/ex-goleiro-do-paysandu-emerson-lamenta-saida-e-cobra-nota-oficial-do-clube-1.1193517"
+      "https://www.oliberal.com/esportes/paysandu/ex-goleiro-do-paysandu-emerson-lamenta-saida-e-cobra-nota-oficial-do-clube-1.1193517",
+      "https://www.oliberal.com/esportes/paysandu/paysandu-avanca-em-planejamento-e-comeca-montagem-da-comissao-tecnica-1.1193692"
     ],
     "ge_paysandu": [
       "https://ge.globo.com/rn/futebol/noticia/2026/08/03/zagueiro-destaque-do-america-rn-na-serie-d-acerta-com-o-paysandu.ghtml",
@@ -3695,7 +3697,8 @@
       "https://www.crboficial.com.br/futebol/crb-finaliza-preparacao-no-ct-ninho-do-galo-e-segue-viagem-para-recife-para-enfrentar-o-nautico",
       "https://www.crboficial.com.br/futebol/crb-vence-o-nautico-por-3x0-e-segue-no-g6-da-serie-b",
       "https://www.crboficial.com.br/futebol/crb-convoca-torcedores-imprensa-e-conselheiros-para-definir-valores-dos-ingressos-para-o-duelo-contra-o-ceara",
-      "https://www.crboficial.com.br/futebol/crb-alcanca-marca-historica-de-20-mil-socios-e-se-destaca-entre-clubes-nordestinos"
+      "https://www.crboficial.com.br/futebol/crb-alcanca-marca-historica-de-20-mil-socios-e-se-destaca-entre-clubes-nordestinos",
+      "https://www.crboficial.com.br/futebol/usina-caete-e-a-nova-patrocinadora-master-do-crb"
     ],
     "alagoas_alerta_crb": [
       "https://www.alagoasalerta.com.br/noticia/lyncon-ganha-espaco-no-crb-com-fabio-matias-e-destaca-confianca-do-treinador",
@@ -3827,7 +3830,8 @@
       "yt:video:rY6XPmFytNM",
       "yt:video:Z6alij1AZXU",
       "yt:video:96H32FcO034",
-      "yt:video:RXKNbpzkOnM"
+      "yt:video:RXKNbpzkOnM",
+      "yt:video:VnR8r4RYHbQ"
     ],
     "tribuna_hoje_crb": [
       "https://tribunahoje.com/noticias/esportes/2026/08/05/190560-cbf-reconhece-titulos-do-crb-que-ultrapassa-csa",
@@ -3964,7 +3968,8 @@
       "https://tribunahoje.com/noticias/esportes/2026/11/10/198519-crb-inicia-venda-de-ingressos-para-partida-contra-o-ceara",
       "https://tribunahoje.com/noticias/esportes/2026/11/10/198539-vitor-caetano-prega-foco-e-concentracao-em-semana-decisiva-para-o-crb-na-serie-b",
       "https://tribunahoje.com/noticias/esportes/2026/11/11/198634-torcida-do-crb-esgota-mais-de-9-mil-ingressos-para-duelo-decisivo-contra-o-ceara",
-      "https://tribunahoje.com/noticias/esportes/2026/11/12/198689-crb-tera-mudancas-no-meio-campo-neste-sabado"
+      "https://tribunahoje.com/noticias/esportes/2026/11/12/198689-crb-tera-mudancas-no-meio-campo-neste-sabado",
+      "https://tribunahoje.com/noticias/esportes/2026/11/12/198766-crb-alcanca-marca-historica-de-20-mil-socios-e-se-destaca-entre-clubes-nordestinos"
     ],
     "gazeta_alagoas_crb": [
       "https://www.gazetaweb.com/noticias/esportes/alagoano/entenda-como-o-crb-conseguiu-o-aval-da-cbf-para-se-tornar-o-maior-campeao-de-alagoas-927105",
@@ -4212,7 +4217,9 @@
       "https://www.gazetaweb.com/noticias/esportes/alagoano/arbitro-escalado-para-crb-x-ceara-ja-foi-alvo-de-profecia-da-desgraca-entenda-948638",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/sem-pedro-castro-contra-o-ceara-fabio-matias-avalia-opcoes-no-meio-campo-do-crb-948641",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/hereda-ve-crb-preparado-para-decisao-contra-o-ceara-a-gente-vai-conseguir-subir-para-a-serie-a-948840",
-      "https://www.gazetaweb.com/noticias/esportes/alagoano/na-corda-bamba-e-sem-treinador-como-o-ceara-chega-para-a-final-contra-o-crb-948876"
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/na-corda-bamba-e-sem-treinador-como-o-ceara-chega-para-a-final-contra-o-crb-948876",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-x-ceara-equilibrio-no-retrospecto-geral-mas-galo-possui-marcantes-vitorias-recentes-948891",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/vasco-descarta-novo-emprestimo-do-zagueiro-lyncon-apos-sondagem-do-crb-948893"
     ],
     "frances_news_crb": [
       "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf",
@@ -4595,7 +4602,8 @@
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/11/escalacao-do-crb-matias-tem-um-desfalque-para-o-jogo-decisivo-contra-o-ceara.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/11/hereda-comemora-ter-chegado-a-10-participacoes-em-gols-do-crb-na-temporada.ghtml",
       "https://ge.globo.com/al/futebol/noticia/2026/11/11/saiba-como-wallace-do-gremio-pode-livrar-crb-de-deficit-de-r-3-milhoes.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/12/vice-artilheiro-do-crb-crystopher-preve-duelo-dificil-contra-ceara-jogo-exige-maturidade.ghtml"
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/12/vice-artilheiro-do-crb-crystopher-preve-duelo-dificil-contra-ceara-jogo-exige-maturidade.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/12/crb-anuncia-novo-patrocinador-master-para-a-reta-final-da-temporada-2026.ghtml"
     ]
   },
   "goias": {
@@ -4685,7 +4693,8 @@
       "yt:video:kj0FCFA24YY",
       "yt:video:C3jbHHGMTaI",
       "yt:video:TmWhSwR-_MQ",
-      "yt:video:GtzGO6vAYwI"
+      "yt:video:GtzGO6vAYwI",
+      "yt:video:pwP9fBCneiE"
     ],
     "goias_site": [
       "https://www.goiasec.com.br/noticias/goias-esporte-clube-comunica-o-encerramento-do-ciclo-de-daniel-paulista",
@@ -4921,7 +4930,9 @@
       "https://www.maisgoias.com.br/?p=1162327",
       "https://www.maisgoias.com.br/?p=1162415",
       "https://www.maisgoias.com.br/?p=1162839",
-      "https://www.maisgoias.com.br/?p=1162869"
+      "https://www.maisgoias.com.br/?p=1162869",
+      "https://www.maisgoias.com.br/?p=1163395",
+      "https://www.maisgoias.com.br/?p=1163446"
     ],
     "piriquito_news": [
       "https://www.piriquitonews.com/ler_noticia.php?id=27",
@@ -5197,7 +5208,8 @@
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/11/11/mozart-tecnico-do-goias-tenta-feito-inedito-tres-acessos-seguidos-na-serie-b.ghtml",
       "https://ge.globo.com/go/futebol/noticia/2026/11/11/goias-espera-proposta-de-mais-de-r-30-milhoes-do-vasco-pelo-volante-lucas-rodrigues.ghtml",
       "https://ge.globo.com/go/futebol/times/goias/noticia/2026/11/12/goias-tem-10-jogadores-pendurados-para-decisao-contra-o-sport.ghtml",
-      "https://ge.globo.com/mt/futebol/noticia/2026/11/12/sinop-contrata-junior-vicosa-atacante-de-37-anos-com-passagens-por-gremio-e-goias.ghtml"
+      "https://ge.globo.com/mt/futebol/noticia/2026/11/12/sinop-contrata-junior-vicosa-atacante-de-37-anos-com-passagens-por-gremio-e-goias.ghtml",
+      "https://ge.globo.com/go/futebol/campeonato-goiano/noticia/2026/11/12/goianao-2027-definidos-os-grupos-modelo-de-disputa-e-provaveis-datas-do-campeonato.ghtml"
     ]
   },
   "vila_nova": {
@@ -5238,7 +5250,8 @@
       "yt:video:bFaSY3m4rFg",
       "yt:video:u5T4Vex7ZQc",
       "yt:video:Zvdl2FYz5_4",
-      "yt:video:45cVyBZE8Nk"
+      "yt:video:45cVyBZE8Nk",
+      "yt:video:mRpJQ8eTtXE"
     ],
     "mais_goias_vilanova": [
       "https://www.maisgoias.com.br/?p=1107846",
@@ -5494,7 +5507,9 @@
       "https://www.maisgoias.com.br/?p=1162299",
       "https://www.maisgoias.com.br/?p=1162595",
       "https://www.maisgoias.com.br/?p=1163035",
-      "https://www.maisgoias.com.br/?p=1163154"
+      "https://www.maisgoias.com.br/?p=1163154",
+      "https://www.maisgoias.com.br/?p=1163239",
+      "https://www.maisgoias.com.br/?p=1163395"
     ],
     "vilanova_site": [
       "https://www.vilanovafc.com.br/noticias/540-venda-de-ingressos-vila-nova-x-botafogo-sp-serie-b-2026",
@@ -5688,7 +5703,9 @@
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/11/rumo-a-fortaleza-torcedores-do-vila-nova-viajam-para-possivel-jogo-do-acesso.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/11/fortaleza-x-vila-nova-veja-como-comprar-ingresso-de-visitante.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/12/andre-luis-e-vetado-e-desfalca-o-vila-nova-em-decisao-contra-o-fortaleza.ghtml",
-      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/12/vila-nova-tem-12-jogadores-e-guto-ferreira-pendurados-contra-o-fortaleza.ghtml"
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/12/vila-nova-tem-12-jogadores-e-guto-ferreira-pendurados-contra-o-fortaleza.ghtml",
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/12/vila-nova-embarca-para-fortaleza-de-olho-no-sonhado-acesso-a-serie-a.ghtml",
+      "https://ge.globo.com/go/futebol/campeonato-goiano/noticia/2026/11/12/goianao-2027-definidos-os-grupos-modelo-de-disputa-e-provaveis-datas-do-campeonato.ghtml"
     ]
   }
 }
