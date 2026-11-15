@@ -589,7 +589,6 @@
       "yt:video:Q8nbf9TFo-A"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=118516",
       "https://www.remo100porcento.com/?p=118512",
       "https://www.remo100porcento.com/?p=118510",
       "https://www.remo100porcento.com/?p=118518",
@@ -888,7 +887,8 @@
       "https://www.remo100porcento.com/?p=119998",
       "https://www.remo100porcento.com/?p=120002",
       "https://www.remo100porcento.com/?p=120007",
-      "https://www.remo100porcento.com/?p=120022"
+      "https://www.remo100porcento.com/?p=120022",
+      "https://www.remo100porcento.com/?p=120025"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -4254,7 +4254,8 @@
       "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-bate-na-trave-e-pontos-perdidos-contra-equipes-rebaixadas-fazem-falta-na-tabela-949421",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/fracasso-do-crb-na-serie-b-rende-provocacoes-de-rivais-nas-redes-sociais-veja-949424",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/compare-aproveitamento-de-fabio-matias-e-eduardo-barroca-a-frente-do-crb-na-serie-b-949426",
-      "https://www.gazetaweb.com/noticias/esportes/alagoano/fabio-matias-pede-perdao-a-torcida-mas-exalta-entrega-do-crb-e-indica-que-fica-para-2027-949430"
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/fabio-matias-pede-perdao-a-torcida-mas-exalta-entrega-do-crb-e-indica-que-fica-para-2027-949430",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/fabio-matias-pede-perdao-a-torcida-exalta-entrega-do-crb-e-indica-permanencia-para-2027-949430"
     ],
     "frances_news_crb": [
       "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf",
@@ -4349,8 +4350,6 @@
       "https://francesnews.com.br/post/2026/11/14/46083-confusao-envolve-torcedores-e-pm-apos-empate-entre-crb-e-ceara-em-maceio"
     ],
     "ge_crb": [
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/04/crb-promove-a-primeira-corrida-do-galo-com-percursos-de-3-5-e-10-km.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/04/crb-recebe-certificado-de-clube-formador-da-cbf.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/04/crb-reune-torcida-para-comemorar-o-reconhecimento-de-nove-titulos-alagoanos-videos.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/05/estevao-diz-ser-versatil-elogia-danielzinho-e-reencontra-fabio-matias-no-crb.ghtml",
       "https://ge.globo.com/al/futebol/campeonato-alagoano/noticia/2026/08/05/federacao-alagoana-se-posiciona-sobre-reconhecimento-de-titulos-estaduais-do-crb.ghtml",
@@ -4648,7 +4647,9 @@
       "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/13/o-que-e-mala-branca-entenda-a-pratica-que-movimenta-os-bastidores-do-futebol.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/13/com-fabio-matias-crb-tem-oito-vitorias-como-mandante-em-11-jogos.ghtml",
       "https://ge.globo.com/al/futebol/brasileirao-serie-b/noticia/2026/11/14/crb-x-ceara-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-      "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/14/serie-b-veja-classificados-a-serie-a-e-confrontos-dos-playoffs.ghtml"
+      "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/14/serie-b-veja-classificados-a-serie-a-e-confrontos-dos-playoffs.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/14/frustrado-fabio-matias-pede-desculpas-ao-torcedor-do-crb-depois-do-empate-com-ceara-o-futebol-nos-pune.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/14/crb-1-x-1-ceara-confira-renda-publico-e-gols-da-partida-da-rodada-38.ghtml"
     ]
   },
   "goias": {
@@ -5576,7 +5577,9 @@
       "https://www.maisgoias.com.br/?p=1164224",
       "https://www.maisgoias.com.br/?p=1164303",
       "https://www.maisgoias.com.br/?p=1164339",
-      "https://www.maisgoias.com.br/?p=1164358"
+      "https://www.maisgoias.com.br/?p=1164358",
+      "https://www.maisgoias.com.br/?p=1164373",
+      "https://www.maisgoias.com.br/?p=1164384"
     ],
     "vilanova_site": [
       "https://www.vilanovafc.com.br/noticias/540-venda-de-ingressos-vila-nova-x-botafogo-sp-serie-b-2026",
@@ -5777,7 +5780,8 @@
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/13/janderson-diz-que-elenco-do-vila-nova-esta-focado-para-tentar-acesso-direto-na-serie-b.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/13/vila-nova-perde-andre-luis-para-ultima-rodada-da-serie-b-veja-provavel-escalacao.ghtml",
       "https://ge.globo.com/ce/futebol/brasileirao-serie-b/noticia/2026/11/14/fortaleza-x-vila-nova-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-      "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/14/serie-b-veja-classificados-a-serie-a-e-confrontos-dos-playoffs.ghtml"
+      "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/14/serie-b-veja-classificados-a-serie-a-e-confrontos-dos-playoffs.ghtml",
+      "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/14/vila-nova-x-atletico-go-classico-goiano-no-playoff-vai-definir-acesso-a-serie-a.ghtml"
     ]
   }
 }
