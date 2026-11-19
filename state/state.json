@@ -155,7 +155,13 @@
       "yt:video:8p0PZ-K4oSE",
       "yt:video:S_GUD4hv6W4",
       "yt:video:XlkGNJ_MddQ",
-      "yt:video:S8o5-7wOTqg"
+      "yt:video:S8o5-7wOTqg",
+      "yt:video:JFm-rI1WAEs",
+      "yt:video:FLOuSEVc4TE",
+      "yt:video:bPXIxc4cLH8",
+      "yt:video:cxZ762jm0kM",
+      "yt:video:S_fHxP-KOB4",
+      "yt:video:Mx_63y80VS8"
     ],
     "leao_azulino_youtube": [
       "yt:video:LiOFOu_8Xvo",
@@ -358,7 +364,8 @@
       "yt:video:yBsLvf6WeUA",
       "yt:video:k7zIkoHlU00",
       "yt:video:iN-AnzDt5P4",
-      "yt:video:Hc-xtpGo10M"
+      "yt:video:Hc-xtpGo10M",
+      "yt:video:1de51zcP8qA"
     ],
     "chaves_remista_youtube": [
       "yt:video:TNTaEz1zCvs",
@@ -598,11 +605,10 @@
       "yt:video:3rEM1JP6fTY",
       "yt:video:5O6JuzLOyLY",
       "yt:video:1MvIpjfa3gs",
-      "yt:video:6ltQ_SjzOtE"
+      "yt:video:6ltQ_SjzOtE",
+      "yt:video:UoWwBEp05go"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=118614",
-      "https://www.remo100porcento.com/?p=118627",
       "https://www.remo100porcento.com/?p=118630",
       "https://www.remo100porcento.com/?p=118632",
       "https://www.remo100porcento.com/?p=118616",
@@ -900,7 +906,9 @@
       "https://www.remo100porcento.com/?p=120066",
       "https://www.remo100porcento.com/?p=120068",
       "https://www.remo100porcento.com/?p=120070",
-      "https://www.remo100porcento.com/?p=120080"
+      "https://www.remo100porcento.com/?p=120080",
+      "https://www.remo100porcento.com/?p=120084",
+      "https://www.remo100porcento.com/?p=120097"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -962,8 +970,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/962700/remo-visita-fregues-bahia-onde-assistir-horario-e-escalacoes",
-      "https://dol.com.br/esporte/remo/962733/bahia-x-remo-veja-onde-cada-time-leva-vantagem-na-serie-a",
       "https://dol.com.br/esporte/remo/962752/com-20-rodadas-no-z4-remo-precisa-vencer-o-bahia-para-reagir-na-serie-a",
       "https://dol.com.br/esporte/remo/962753/terceiro-uniforme-do-remo-exalta-a-cultura-e-as-raizes-do-para",
       "https://dol.com.br/esporte/remo/962759/remo-conde-leva-vantagem-sobre-ceni-e-quer-manter-tabu-contra-bahia",
@@ -1261,7 +1267,9 @@
       "https://dol.com.br/esporte/remo/968776/assediado-marcelinho-recebe-nova-proposta-de-renovacao-do-remo",
       "https://dol.com.br/esporte/remo/968803/remo-planeja-manter-picco-e-jaja-e-glauber-afirma-nao-chegou-proposta",
       "https://dol.com.br/esporte/remo/968823/com-risco-alto-de-rebaixamento-remo-encara-chapecoense-no-mangueirao",
-      "https://dol.com.br/esporte/remo/968826/acompanhe-ao-vivo-remo-2-x-0-chapecoense"
+      "https://dol.com.br/esporte/remo/968826/acompanhe-ao-vivo-remo-2-x-0-chapecoense",
+      "https://dol.com.br/esporte/remo/968848/remo-vence-a-chapecoense-no-mangueirao-e-se-mantem-vivo-na-serie-a",
+      "https://dol.com.br/esporte/remo/968861/carpini-abre-o-jogo-sobre-renovacao-com-o-remo-o-dinheiro-nao-me-pauta"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1453,9 +1461,6 @@
       "yt:video:REy1K_c6pak"
     ],
     "oliberal_remo": [
-      "https://www.oliberal.com/esportes/remo/fenomeno-azul-esgota-setor-a-e-promete-mangueirao-lotado-contra-o-coritiba-1.1162956",
-      "https://www.oliberal.com/esportes/remo/ex-remo-pedro-rocha-treina-no-baenao-posta-foto-e-diz-lugar-especial-1.1163133",
-      "https://www.oliberal.com/esportes/remo/flamengo-chegara-a-belem-na-vespera-de-duelo-contra-o-remo-pelo-brasileirao-1.1163243",
       "https://www.oliberal.com/esportes/remo/lembra-dele-meia-que-pertence-ao-remo-e-conseguiu-o-acesso-e-emprestado-para-time-da-serie-c-1.1162206",
       "https://www.oliberal.com/esportes/remo/conde-lamenta-chances-perdidas-e-aponta-falhas-defensivas-na-derrota-do-remo-1.1163339",
       "https://www.oliberal.com/esportes/remo/pedro-rocha-aplica-a-lei-do-ex-vira-para-o-coritiba-e-mantem-o-remo-no-z4-1.1163338",
@@ -1752,10 +1757,12 @@
       "https://www.oliberal.com/esportes/remo/presidente-do-remo-tem-carpini-como-prioridade-e-ja-negocia-renovacao-pra-2027-1.1195358",
       "https://www.oliberal.com/esportes/remo/em-jogo-da-vida-remo-recebe-a-chapecoense-para-evitar-rebaixamento-na-serie-a-1.1195395",
       "https://www.oliberal.com/esportes/remo/com-joao-lucas-de-volta-remo-define-elenco-para-encarar-a-chape-veja-a-lista-1.1195508",
-      "https://www.oliberal.com/esportes/remo/remo-planeja-manter-picco-e-jaja-para-2027-mas-nao-descarta-saidas-1.1195620"
+      "https://www.oliberal.com/esportes/remo/remo-planeja-manter-picco-e-jaja-para-2027-mas-nao-descarta-saidas-1.1195620",
+      "https://www.oliberal.com/esportes/remo/remo-vence-a-chapecoense-e-segue-vivo-na-briga-pela-permanencia-na-serie-a-1.1195877",
+      "https://www.oliberal.com/esportes/remo/patrick-destaca-clima-do-remo-para-reta-final-do-brasileirao-pensar-positivo-1.1195935",
+      "https://www.oliberal.com/esportes/remo/o-dinheiro-nao-esta-na-frente-diz-thiago-carpini-sobre-renovacao-com-o-remo-1.1195942"
     ],
     "ge_remo": [
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/13/mayk-tem-lesao-confirmada-e-desfalca-o-remo-na-serie-a.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/13/cinema-de-belem-exibe-documentario-sobre-acesso-do-remo-a-serie-a.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/13/com-contrato-por-tres-temporadas-remo-confirma-atacante-galeano.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/13/remo-anuncia-saida-de-atacante-que-fez-apenas-sete-jogos-pelo-clube.ghtml",
@@ -2054,7 +2061,8 @@
       "https://ge.globo.com/gato-mestre/dicas/noticia/2026/11/17/favoritismos-35-dicas-palpites-e-chances-no-brasileirao.ghtml",
       "https://ge.globo.com/ba/futebol/brasileirao-serie-a/noticia/2026/11/18/brasileirao-2026-veja-onde-assistir-ao-vivo-aos-jogos-da-35a-rodada.ghtml",
       "https://ge.globo.com/pa/futebol/brasileirao-serie-a/noticia/2026/11/18/remo-x-chapecoense-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-      "https://ge.globo.com/mt/futebol/times/sport-sinop/noticia/2026/11/18/sport-sinop-acerta-retorno-de-atacante-com-passagens-por-cuiaba-e-remo.ghtml"
+      "https://ge.globo.com/mt/futebol/times/sport-sinop/noticia/2026/11/18/sport-sinop-acerta-retorno-de-atacante-com-passagens-por-cuiaba-e-remo.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/18/atuacoes-do-remo-vitoria-azulina-passa-por-patrick-de-suas-notas.ghtml"
     ]
   },
   "paysandu": {
@@ -2634,7 +2642,8 @@
       "yt:video:lzUA6_Y0yqc",
       "yt:video:0ERDOi3vsFQ",
       "yt:video:pN0ROfYo_4M",
-      "yt:video:sAkEBnhSSxE"
+      "yt:video:sAkEBnhSSxE",
+      "yt:video:2stN7qwAkqc"
     ],
     "paysandu_site": [
       "8646",
