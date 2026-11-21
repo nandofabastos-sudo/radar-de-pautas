@@ -623,8 +623,6 @@
       "yt:video:YlVSrrGNdgE"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=118665",
-      "https://www.remo100porcento.com/?p=118691",
       "https://www.remo100porcento.com/?p=118685",
       "https://www.remo100porcento.com/?p=118682",
       "https://www.remo100porcento.com/?p=118697",
@@ -922,7 +920,9 @@
       "https://www.remo100porcento.com/?p=120125",
       "https://www.remo100porcento.com/?p=120128",
       "https://www.remo100porcento.com/?p=120130",
-      "https://www.remo100porcento.com/?p=120132"
+      "https://www.remo100porcento.com/?p=120132",
+      "https://www.remo100porcento.com/?p=120134",
+      "https://www.remo100porcento.com/?p=120102"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -984,7 +984,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/962778/leo-conde-justifica-escalacao-do-remo-com-tres-zagueiros",
       "https://dol.com.br/esporte/remo/962783/remo-nao-vou-jogar-a-toalha-e-confio-no-meu-trabalho-diz-leo-conde",
       "https://dol.com.br/esporte/remo/962786/remo-demite-leo-conde-apos-quarta-derrota-seguida-no-brasileirao",
       "https://dol.com.br/esporte/remo/962795/remo-negocia-com-thiago-carpini-apos-demissao-de-leo-conde",
@@ -1283,7 +1282,8 @@
       "https://dol.com.br/esporte/remo/968925/o-que-o-remo-precisa-fazer-para-permanecer-na-serie-a-em-2027",
       "https://dol.com.br/esporte/remo/968945/fair-play-financeiro-aplica-4-advertencia-e-multa-de-r-50-mil-ao-remo",
       "https://dol.com.br/esporte/remo/968965/remo-tem-patrick-e-marcelinho-no-time-da-35-rodada-do-brasileirao",
-      "https://dol.com.br/esporte/remo/968976/ct-do-remo-tem-previsao-de-entrega-para-inicio-de-2027"
+      "https://dol.com.br/esporte/remo/968976/ct-do-remo-tem-previsao-de-entrega-para-inicio-de-2027",
+      "https://dol.com.br/esporte/remo/968992/remo-se-pronuncia-sobre-multa-de-r-50-mil-aplicada-pelo-fair-play-financeiro"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -4446,7 +4446,6 @@
       "https://francesnews.com.br/post/2026/11/19/46684-crb-apresenta-proposta-e-negocia-compra-em-definitivo-do-meio-campista-crystopher"
     ],
     "ge_crb": [
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/10/de-olho-no-mercado-tecnico-do-crb-cita-artilheiro-da-copa-do-brasil-para-explicar-busca-por-reforcos.ghtml",
       "https://ge.globo.com/sc/futebol/brasileirao-serie-b/noticia/2026/08/11/avai-x-crb-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/11/mikael-concentra-os-gols-do-crb-na-temporada-veja-o-ranking-dos-artilheiros-e-garcons.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/11/crb-engata-quarta-vitoria-seguida-cola-no-g-6-e-mira-confronto-direto.ghtml",
@@ -4745,7 +4744,8 @@
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/19/quem-sai-tres-jogadores-do-crb-nao-renovam-contrato-e-se-despedem-do-clube.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/20/contratacoes-do-crb-para-2027-veja-quem-chega-quem-fica-e-quem-vai-embora.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/20/crb-lanca-vaquinha-virtual-para-tentar-manter-crystopher-destaque-do-time-na-serie-b.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/20/corinthians-palmeiras-gremio-lembre-cinco-vaquinhas-para-contratar-ou-manter-jogadores.ghtml"
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/20/corinthians-palmeiras-gremio-lembre-cinco-vaquinhas-para-contratar-ou-manter-jogadores.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/21/vitor-caetano-projeta-futuro-no-crb-depois-de-sequencia-de-jogos.ghtml"
     ]
   },
   "goias": {
@@ -5211,7 +5211,8 @@
       "https://www.piriquitonews.com/ler_noticia.php?id=153",
       "https://www.piriquitonews.com/ler_noticia.php?id=154",
       "https://www.piriquitonews.com/ler_noticia.php?id=155",
-      "https://www.piriquitonews.com/ler_noticia.php?id=156"
+      "https://www.piriquitonews.com/ler_noticia.php?id=156",
+      "https://www.piriquitonews.com/ler_noticia.php?id=157"
     ],
     "ge_goias": [
       "https://ge.globo.com/go/noticia/2026/08/04/obras-no-serra-dourada-ja-estao-a-todo-vapor-veja-imagens-exclusivas.ghtml",
