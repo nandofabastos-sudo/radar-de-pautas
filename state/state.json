@@ -625,8 +625,6 @@
       "yt:video:fm8WzNJgp7Y"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=118701",
-      "https://www.remo100porcento.com/?p=118706",
       "https://www.remo100porcento.com/?p=118773",
       "https://www.remo100porcento.com/?p=118776",
       "https://www.remo100porcento.com/?p=118778",
@@ -924,7 +922,9 @@
       "https://www.remo100porcento.com/?p=120102",
       "https://www.remo100porcento.com/?p=120137",
       "https://www.remo100porcento.com/?p=120163",
-      "https://www.remo100porcento.com/?p=120152"
+      "https://www.remo100porcento.com/?p=120152",
+      "https://www.remo100porcento.com/?p=120168",
+      "https://www.remo100porcento.com/?p=120167"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -986,10 +986,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/962800/remo-tem-ate-96-de-risco-de-rebaixamento-apontam-sites",
-      "https://dol.com.br/esporte/remo/962864/conde-cai-sem-tirar-remo-do-z-4-e-apenas-cinco-vitorias-na-serie-a",
-      "https://dol.com.br/esporte/remo/962865/thiago-carpini-e-o-novo-tecnico-do-clube-do-remo",
-      "https://dol.com.br/esporte/remo/962868/carpini-tem-chegada-marcada-em-belem-para-salvar-o-remo-do-rebaixamento",
       "https://dol.com.br/esporte/remo/962914/remo-anuncia-thiago-carpini-para-a-reta-final-da-serie-a",
       "https://dol.com.br/esporte/remo/962951/remo-x-santos-veja-valores-dos-ingressos-e-regras-de-acesso-ao-mangueirao",
       "https://dol.com.br/esporte/remo/962959/carpini-no-lugar-de-conde-remo-repete-troca-que-aconteceu-no-vitoria",
@@ -1285,7 +1281,11 @@
       "https://dol.com.br/esporte/remo/968992/remo-se-pronuncia-sobre-multa-de-r-50-mil-aplicada-pelo-fair-play-financeiro",
       "https://dol.com.br/esporte/remo/969026/problema-em-aviao-faz-remo-retornar-a-belem-e-pedir-adiamento-de-jogo",
       "https://dol.com.br/esporte/remo/969044/apos-susto-em-voo-presidente-do-remo-nao-aceitou-viagem-imediata",
-      "https://dol.com.br/esporte/remo/969046/marcelo-rangel-relata-tensao-em-voo-do-remo-ninguem-quis-entrar"
+      "https://dol.com.br/esporte/remo/969046/marcelo-rangel-relata-tensao-em-voo-do-remo-ninguem-quis-entrar",
+      "https://dol.com.br/esporte/remo/969065/quais-resultados-decretam-o-rebaixamento-do-remo-hoje-2211",
+      "https://dol.com.br/esporte/remo/969066/cbf-mantem-jogo-e-remo-enfrenta-athletico-neste-domingo-22",
+      "https://dol.com.br/esporte/remo/969072/remo-tem-apenas-002-de-chance-de-escapar-do-rebaixamento",
+      "https://dol.com.br/esporte/remo/969082/negando-pedido-do-remo-cbf-ja-adiou-jogo-do-flamengo-por-atraso-em-voo"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1478,7 +1478,6 @@
       "yt:video:Og_7-c-6R8k"
     ],
     "oliberal_remo": [
-      "https://www.oliberal.com/esportes/remo/remo-anuncia-que-torcedores-com-camisas-de-outros-clubes-serao-barrados-no-mangueirao-1.1164006",
       "https://www.oliberal.com/esportes/remo/torcida-do-remo-critica-precos-dos-ingressos-para-o-jogo-contra-o-flamengo-perderam-a-mao-1.1164096",
       "https://www.oliberal.com/esportes/remo/remo-mantem-a-esperanca-em-ter-jaja-contra-o-flamengo-1.1164169",
       "https://www.oliberal.com/esportes/remo/remo-divulga-edital-para-eleicao-de-presidente-confira-os-prazos-1.1164236",
@@ -1777,7 +1776,8 @@
       "https://www.oliberal.com/esportes/remo/mayk-celebra-retorno-ao-time-titular-do-remo-apos-periodo-afastado-por-lesoes-1.1196648",
       "https://www.oliberal.com/esportes/remo/voo-do-remo-tem-problema-tecnico-e-retorna-a-belem-jogo-pode-ser-adiado-1.1196842",
       "https://www.oliberal.com/esportes/remo/apos-susto-em-voo-remo-recusa-reembarque-e-aguarda-cbf-goleiro-relembra-tensao-1.1196885",
-      "https://www.oliberal.com/esportes/remo/presidente-do-remo-revela-plano-para-acabar-com-dependencia-debilheteria-veja-1.1196635"
+      "https://www.oliberal.com/esportes/remo/presidente-do-remo-revela-plano-para-acabar-com-dependencia-debilheteria-veja-1.1196635",
+      "https://www.oliberal.com/esportes/remo/o-que-o-remo-precisa-para-evitar-o-rebaixamento-a-serie-b-1.1196919"
     ],
     "ge_remo": [
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/15/gata-que-assistiu-a-remo-x-atletico-mg-e-encontrada-e-adotada-por-torcedor.ghtml",
@@ -2745,7 +2745,8 @@
       "8722",
       "8723",
       "8724",
-      "8725"
+      "8725",
+      "8726"
     ],
     "dol_paysandu": [
       "https://dol.com.br/esporte/paysandu/961821/paysandu-marca-eleicao-para-novembro-e-define-regras-do-pleito",
@@ -3050,7 +3051,6 @@
       "https://dol.com.br/esporte/paysandu/969033/torcida-pede-saida-do-tecnico-do-paysandu-apos-fotos-com-manto-remista"
     ],
     "oliberal_paysandu": [
-      "https://www.oliberal.com/esportes/paysandu/comissao-tecnica-do-paysandu-destaca-foco-total-pelo-acesso-e-explica-trabalho-na-serie-c-1.1156834",
       "https://www.oliberal.com/esportes/paysandu/meia-do-paysandu-sofre-lesao-no-ligamento-do-tornozelo-e-nao-possui-prazo-para-retorno-1.1156971",
       "https://www.oliberal.com/esportes/paysandu/lateral-direito-desembarca-em-belem-para-assinar-com-o-paysandu-1.1157073",
       "https://www.oliberal.com/esportes/paysandu/paysandu-oficializa-a-contratacao-do-lateral-direito-eduardo-ribeiro-ate-o-fim-da-serie-c-1.1157284",
@@ -3349,7 +3349,8 @@
       "https://www.oliberal.com/esportes/paysandu/presidente-do-paysandu-admite-dificuldade-para-manter-italo-em-2027-dificil-1.1196044",
       "https://www.oliberal.com/esportes/paysandu/paysandu-tem-divida-de-r-80-milhoes-e-preve-comecar-pagamentos-da-rj-em-2027-1.1196187",
       "https://www.oliberal.com/esportes/paysandu/remo-e-paysandu-relembram-os-idolos-no-dia-da-consciencia-negra-1.1196596",
-      "https://www.oliberal.com/esportes/paysandu/tecnico-do-paysandu-ignacio-neto-se-manifesta-sobre-fotos-com-camisa-do-remo-1.1196615"
+      "https://www.oliberal.com/esportes/paysandu/tecnico-do-paysandu-ignacio-neto-se-manifesta-sobre-fotos-com-camisa-do-remo-1.1196615",
+      "https://www.oliberal.com/esportes/paysandu/paysandu-aposta-em-inteligencia-artificial-para-mapear-o-mercado-da-bola-1.1196552"
     ],
     "ge_paysandu": [
       "https://ge.globo.com/rn/futebol/noticia/2026/08/03/zagueiro-destaque-do-america-rn-na-serie-d-acerta-com-o-paysandu.ghtml",
@@ -4356,7 +4357,8 @@
       "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-faz-proposta-e-negocia-compra-dos-direitos-do-meio-campista-crystopher-950319",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/em-despedida-douglas-baggio-anuncia-saida-do-crb-apos-fim-da-temporada-950386",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-lanca-vaquinha-para-arrecadar-r-13-milhao-e-tentar-garantir-permanencia-de-crystopher-950544",
-      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-encaminha-contratacao-do-executivo-italo-rodrigues-ex-csa-e-sport-950829"
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-encaminha-contratacao-do-executivo-italo-rodrigues-ex-csa-e-sport-950829",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/matheus-albino-se-despede-do-crb-nao-fico-triste-pelo-fim-mas-feliz-pelo-que-vivi-950892"
     ],
     "frances_news_crb": [
       "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf",
@@ -4454,7 +4456,6 @@
       "https://francesnews.com.br/post/2026/11/19/46684-crb-apresenta-proposta-e-negocia-compra-em-definitivo-do-meio-campista-crystopher"
     ],
     "ge_crb": [
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/11/mikael-concentra-os-gols-do-crb-na-temporada-veja-o-ranking-dos-artilheiros-e-garcons.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/11/crb-engata-quarta-vitoria-seguida-cola-no-g-6-e-mira-confronto-direto.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/11/matias-repete-time-do-crb-pela-terceira-vez-e-nao-sofre-gols.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/12/crb-x-novorizontino-mais-de-5-mil-ingressos-ja-foram-vendidos-para-duelo-pelo-g-6.ghtml",
@@ -4753,7 +4754,8 @@
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/20/crb-lanca-vaquinha-virtual-para-tentar-manter-crystopher-destaque-do-time-na-serie-b.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/20/corinthians-palmeiras-gremio-lembre-cinco-vaquinhas-para-contratar-ou-manter-jogadores.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/21/vitor-caetano-projeta-futuro-no-crb-depois-de-sequencia-de-jogos.ghtml",
-      "https://ge.globo.com/al/futebol/noticia/2026/11/21/crb-negocia-com-executivo-e-nome-de-italo-rodrigues-ganha-forca-nos-bastidores.ghtml"
+      "https://ge.globo.com/al/futebol/noticia/2026/11/21/crb-negocia-com-executivo-e-nome-de-italo-rodrigues-ganha-forca-nos-bastidores.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/22/matheus-albino-se-despede-do-crb-e-deve-acertar-com-o-santa-cruz.ghtml"
     ]
   },
   "goias": {
