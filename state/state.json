@@ -375,7 +375,8 @@
       "yt:video:Z8fhb7OCneA",
       "yt:video:R5vRHsqY4_4",
       "yt:video:RHbsHMgspbM",
-      "yt:video:aO1KgAYFwpc"
+      "yt:video:aO1KgAYFwpc",
+      "yt:video:sYMZshNT7Bc"
     ],
     "chaves_remista_youtube": [
       "yt:video:TNTaEz1zCvs",
@@ -625,13 +626,10 @@
       "yt:video:YlVSrrGNdgE",
       "yt:video:c3oTr_JJB4E",
       "yt:video:fm8WzNJgp7Y",
-      "yt:video:h6KDi85ivoU"
+      "yt:video:h6KDi85ivoU",
+      "yt:video:EbWwzLSuV4w"
     ],
     "remo100_rss": [
-      "https://www.remo100porcento.com/?p=118703",
-      "https://www.remo100porcento.com/?p=118785",
-      "https://www.remo100porcento.com/?p=118799",
-      "https://www.remo100porcento.com/?p=118791",
       "https://www.remo100porcento.com/?p=118789",
       "https://www.remo100porcento.com/?p=118804",
       "https://www.remo100porcento.com/?p=118808",
@@ -927,7 +925,11 @@
       "https://www.remo100porcento.com/?p=120183",
       "https://www.remo100porcento.com/?p=120186",
       "https://www.remo100porcento.com/?p=120196",
-      "https://www.remo100porcento.com/?p=120201"
+      "https://www.remo100porcento.com/?p=120201",
+      "https://www.remo100porcento.com/?p=120203",
+      "https://www.remo100porcento.com/?p=120206",
+      "https://www.remo100porcento.com/?p=120208",
+      "https://www.remo100porcento.com/?p=120210"
     ],
     "clubedoremo_site": [
       "https://clubedoremo.com.br/ler-noticia.php?id=4111",
@@ -989,8 +991,6 @@
       "https://clubedoremo.com.br/ler-noticia.php?id=4176"
     ],
     "dol_remo": [
-      "https://dol.com.br/esporte/remo/963044/jaja-sofre-lesao-na-panturrilha-e-desfalca-o-remo-contra-o-santos",
-      "https://dol.com.br/esporte/remo/963053/diego-ziegg-revela-os-bastidores-dos-desafios-do-remo-na-serie-a",
       "https://dol.com.br/esporte/remo/963065/carpini-aposta-em-potencial-do-elenco-do-remo-para-reacao-na-serie-a",
       "https://dol.com.br/esporte/remo/963066/remo-sao-11-jogos-mas-a-gente-precisa-da-primeira-vitoria-diz-carpini",
       "https://dol.com.br/esporte/remo/963100/carpini-no-remo-jornalistas-esportivos-apontam-virtudes-e-problemas",
@@ -1288,7 +1288,9 @@
       "https://dol.com.br/esporte/remo/969117/rangel-lamenta-falta-de-empatia-com-o-remo-apos-drama-aereo-estamos-no-norte",
       "https://dol.com.br/esporte/remo/969127/glauber-pede-desculpas-a-torcida-do-remo-e-admite-erros-no-planejamento",
       "https://dol.com.br/esporte/remo/969128/de-volta-a-serie-b-remo-ja-tem-adversarios-definidos-para-2027",
-      "https://dol.com.br/esporte/remo/969151/remo-volta-para-serie-b-apos-cumprir-a-risca-a-cartilha-do-rebaixamento"
+      "https://dol.com.br/esporte/remo/969151/remo-volta-para-serie-b-apos-cumprir-a-risca-a-cartilha-do-rebaixamento",
+      "https://dol.com.br/esporte/remo/969201/com-apenas-um-gol-na-copa-norte-gabriel-poveda-esta-de-saida-do-remo",
+      "https://dol.com.br/esporte/remo/969230/galeano-volta-a-marcar-apos-um-ano-mas-nao-evita-rebaixamento-do-remo"
     ],
     "rs_live_sports_youtube": [
       "yt:video:lwWWXsS3evo",
@@ -1481,7 +1483,6 @@
       "yt:video:Og_7-c-6R8k"
     ],
     "oliberal_remo": [
-      "https://www.oliberal.com/esportes/remo/flamengo-pode-ter-dois-desfalques-e-tres-retornos-contra-o-remo-saiba-detalhes-1.1164832",
       "https://www.oliberal.com/esportes/remo/remo-x-flamengo-tera-festa-azulina-com-homenagem-a-nazinha-e-aos-idolos-alcino-e-mesquita-1.1165421",
       "https://www.oliberal.com/esportes/remo/em-meio-a-crise-remo-enfrentaflamengo-no-mangueirao-com-oportunidade-de-sair-do-z4-1.1165089",
       "https://www.oliberal.com/esportes/remo/mesquita-e-ruffeil-relembram-bastidores-da-vitoria-do-remo-contra-o-flamengo-historico-1.1165199",
@@ -1780,12 +1781,10 @@
       "https://www.oliberal.com/esportes/remo/volante-do-remo-sofre-reacao-alergica-durante-jogo-da-serie-a-saiba-detalhes-1.1197184",
       "https://www.oliberal.com/esportes/remo/analise-inercia-e-mas-escolhas-levam-o-remo-de-volta-a-serie-b-do-brasileirao-1.1195798",
       "https://www.oliberal.com/esportes/remo/e-penta-com-queda-do-remo-pikachu-chega-ao-quinto-rebaixamento-da-carreira-1.1197191",
-      "https://www.oliberal.com/esportes/remo/o-sonho-virou-pesadelo-remo-passou-menos-de-um-ano-na-serie-a-do-brasileirao-1.1197248"
+      "https://www.oliberal.com/esportes/remo/o-sonho-virou-pesadelo-remo-passou-menos-de-um-ano-na-serie-a-do-brasileirao-1.1197248",
+      "https://www.oliberal.com/esportes/remo/remo-nao-exerce-opcao-de-compra-e-devolve-gabriel-poveda-ao-primavera-1.1197410"
     ],
     "ge_remo": [
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/17/remo-entra-em-campo-com-novidade-e-quatro-mudancas-contra-internacional.ghtml",
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/17/atuacoes-do-remo-desempenho-ruim-da-equipe-mas-gol-salvou-equipe-no-minuto-final-de-suas-notas.ghtml",
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/17/video-vitor-bueno-explica-o-que-pensou-antes-de-soltar-foguete-e-salvar-remo-contra-inter.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/18/analise-vitor-bueno-mostra-a-conde-que-coragem-pode-render-bons-frutos-ao-remo.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/08/18/conde-explica-dobra-na-direita-do-remo-e-elogia-vitor-bueno-tirou-coelho-da-cartola.ghtml",
       "https://ge.globo.com/gato-mestre/noticia/2026/08/18/classificacao-do-returno-mineiros-assumem-a-lidenca-flamengo-e-terceiro.ghtml",
@@ -2082,7 +2081,10 @@
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/22/zagueiro-do-remo-se-recusa-a-falar-sobre-rebaixamento-e-critica-athletico-e-cbf.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/22/presidente-do-remo-cita-falta-de-humanidade-apos-problema-em-voo-pensam-mais-no-dinheiro.ghtml",
       "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/22/apos-queda-do-remo-yago-pikachu-chega-ao-quinto-rebaixamento-na-carreira.ghtml",
-      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/23/analise-remo-tem-razao-ao-questionar-jogo-contra-o-athletico-mas-queda-comeca-bem-antes.ghtml"
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/23/analise-remo-tem-razao-ao-questionar-jogo-contra-o-athletico-mas-queda-comeca-bem-antes.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/23/bastidores-cbf-entende-que-remo-foi-responsavel-por-problema-em-viagem.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/23/marcelo-rangel-pede-desculpas-a-torcida-do-remo-apos-rebaixamento-para-a-serie-b.ghtml",
+      "https://ge.globo.com/pa/futebol/times/remo/noticia/2026/11/23/coordenador-de-fisiologia-do-remo-aponta-prejuizos-na-preparacao-apos-problema-em-voo.ghtml"
     ]
   },
   "paysandu": {
@@ -2309,7 +2311,8 @@
       "yt:video:N9bafNwK_T8",
       "yt:video:nK8pwU7VhZs",
       "yt:video:YrNvL3TN048",
-      "yt:video:tbmEJzxhC7I"
+      "yt:video:tbmEJzxhC7I",
+      "yt:video:oAbigAswmfU"
     ],
     "meu_paysandu_youtube": [
       "yt:video:XK0L6svQBYg",
@@ -2532,7 +2535,8 @@
       "yt:video:Xh5njKjyAzw",
       "yt:video:R-CdK1K9K9c",
       "yt:video:CciS9VlHF00",
-      "yt:video:y7QCk24PdQg"
+      "yt:video:y7QCk24PdQg",
+      "yt:video:1ZRkMvBoxG4"
     ],
     "tomazao_tv_youtube": [
       "yt:video:y90CcUcJ5HQ",
@@ -2754,8 +2758,6 @@
       "8726"
     ],
     "dol_paysandu": [
-      "https://dol.com.br/esporte/paysandu/961839/paysandu-avanca-nas-obras-do-ct-com-a-construcao-dos-campos-3-e-4",
-      "https://dol.com.br/esporte/paysandu/961840/bruno-bispo-e-liberado-pelo-dm-e-pode-reforcar-paysandu-no-quadrangular",
       "https://dol.com.br/esporte/paysandu/961845/paysandu-tem-prazo-curto-para-reforcar-elenco-na-luta-pelo-acesso",
       "https://dol.com.br/esporte/paysandu/961869/da-arquibancada-ao-campo-ph-mira-acesso-pelo-clube-do-coracao",
       "https://dol.com.br/esporte/paysandu/961871/paysandu-vira-trend-viral-usada-por-clubes-europeus-veja",
@@ -3053,11 +3055,11 @@
       "https://dol.com.br/esporte/paysandu/968975/paysandu-marcio-tuma-fala-sobre-possiveis-retornos-de-wanderson-e-esli-garcia",
       "https://dol.com.br/esporte/paysandu/969033/torcida-pede-saida-do-tecnico-do-paysandu-apos-fotos-com-manto-remista",
       "https://dol.com.br/esporte/paysandu/969103/paysandu-anuncia-contratacao-do-volante-lucas-mila-para-temporada-2027",
-      "https://dol.com.br/esporte/paysandu/969121/a-soberba-precede-a-queda-paysandu-provoca-remo-apos-rebaixamento"
+      "https://dol.com.br/esporte/paysandu/969121/a-soberba-precede-a-queda-paysandu-provoca-remo-apos-rebaixamento",
+      "https://dol.com.br/esporte/paysandu/969215/wanderson-fica-distante-do-paysandu-apos-impasse-financeiro-na-negociacao",
+      "https://dol.com.br/esporte/paysandu/969231/paysandu-planeja-seis-contratacoes-e-tem-quatro-pre-contratos-assinados"
     ],
     "oliberal_paysandu": [
-      "https://www.oliberal.com/esportes/paysandu/paysandu-oficializa-a-contratacao-do-lateral-direito-eduardo-ribeiro-ate-o-fim-da-serie-c-1.1157284",
-      "https://www.oliberal.com/esportes/paysandu/taboca-pede-foco-ao-paysandu-nas-tres-finais-por-vaga-na-serie-b-1.1157319",
       "https://www.oliberal.com/esportes/paysandu/eduardo-ribeiro-celebra-chegada-ao-paysandu-motivado-com-a-oportunidade-1.1157468",
       "https://www.oliberal.com/esportes/paysandu/matheus-vargas-faz-reflexao-apos-deixar-o-hospital-cada-passo-e-uma-vitoria-1.1157480",
       "https://www.oliberal.com/esportes/paysandu/paysandu-precisa-pontuar-contra-a-ferroviaria-para-nao-cair-na-classificacao-veja-cenarios-1.1157712",
@@ -3355,7 +3357,9 @@
       "https://www.oliberal.com/esportes/paysandu/tecnico-do-paysandu-ignacio-neto-se-manifesta-sobre-fotos-com-camisa-do-remo-1.1196615",
       "https://www.oliberal.com/esportes/paysandu/paysandu-aposta-em-inteligencia-artificial-para-mapear-o-mercado-da-bola-1.1196552",
       "https://www.oliberal.com/esportes/paysandu/paysandu-fecha-com-volante-cria-das-categorias-de-base-do-gremio-saiba-mais-1.1197050",
-      "https://www.oliberal.com/esportes/paysandu/zoeira-paysandu-cutuca-o-remo-apos-rebaixamento-para-a-serie-b-siaba-mais-1.1197180"
+      "https://www.oliberal.com/esportes/paysandu/zoeira-paysandu-cutuca-o-remo-apos-rebaixamento-para-a-serie-b-siaba-mais-1.1197180",
+      "https://www.oliberal.com/esportes/paysandu/conversas-travam-e-retorno-de-wanderson-ao-paysandu-fica-mais-distante-1.1197416",
+      "https://www.oliberal.com/esportes/paysandu/ricardo-drubscky-detalha-nesta-terca-feira-os-planos-do-paysandu-para-2027-1.1197459"
     ],
     "ge_paysandu": [
       "https://ge.globo.com/rn/futebol/noticia/2026/08/03/zagueiro-destaque-do-america-rn-na-serie-d-acerta-com-o-paysandu.ghtml",
@@ -4095,7 +4099,8 @@
       "https://tribunahoje.com/noticias/esportes/2026/11/18/199156-crb-nao-deve-contratar-executivo-de-futebol",
       "https://tribunahoje.com/noticias/esportes/2026/11/19/199244-crb-negocia-para-ficar-com-70-dos-titulares-em-2027",
       "https://tribunahoje.com/noticias/esportes/2026/11/21/199410-crb-encaminha-contratacao-de-italo-rodrigues-para-comandar-o-futebol-em-2027",
-      "https://tribunahoje.com/noticias/esportes/2026/11/22/199426-em-negociacao-com-o-santa-cruz-matheus-albino-se-despede-do-crb-em-carta-aberta"
+      "https://tribunahoje.com/noticias/esportes/2026/11/22/199426-em-negociacao-com-o-santa-cruz-matheus-albino-se-despede-do-crb-em-carta-aberta",
+      "https://tribunahoje.com/noticias/esportes/2026/11/23/199535-botafogo-sp-contrata-lateral-esquerdo-reverson-que-estava-no-crb"
     ],
     "gazeta_alagoas_crb": [
       "https://www.gazetaweb.com/noticias/esportes/alagoano/entenda-como-o-crb-conseguiu-o-aval-da-cbf-para-se-tornar-o-maior-campeao-de-alagoas-927105",
@@ -4368,7 +4373,8 @@
       "https://www.gazetaweb.com/noticias/esportes/alagoano/em-despedida-douglas-baggio-anuncia-saida-do-crb-apos-fim-da-temporada-950386",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-lanca-vaquinha-para-arrecadar-r-13-milhao-e-tentar-garantir-permanencia-de-crystopher-950544",
       "https://www.gazetaweb.com/noticias/esportes/alagoano/crb-encaminha-contratacao-do-executivo-italo-rodrigues-ex-csa-e-sport-950829",
-      "https://www.gazetaweb.com/noticias/esportes/alagoano/matheus-albino-se-despede-do-crb-nao-fico-triste-pelo-fim-mas-feliz-pelo-que-vivi-950892"
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/matheus-albino-se-despede-do-crb-nao-fico-triste-pelo-fim-mas-feliz-pelo-que-vivi-950892",
+      "https://www.gazetaweb.com/noticias/esportes/alagoano/titular-do-crb-na-reta-final-da-temporada-reverson-e-anunciado-pelo-botafogo-sp-951092"
     ],
     "frances_news_crb": [
       "https://francesnews.com.br/post/2026/08/26/34314-crb-instala-fachada-de-maior-campeao-de-alagoas-apos-reconhecimento-da-cbf",
@@ -4467,8 +4473,6 @@
       "https://francesnews.com.br/post/2026/11/22/46908-na-mira-do-santa-cruz-goleiro-matheus-albino-se-despede-do-crb-em-carta-emocionada"
     ],
     "ge_crb": [
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/12/crb-x-novorizontino-mais-de-5-mil-ingressos-ja-foram-vendidos-para-duelo-pelo-g-6.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/12/crb-impulsiona-sua-arrancada-na-serie-b-com-vitorias-fora-de-casa-18-pontos-e-11-jogos.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/12/bressan-recupera-espaco-e-com-gols-vira-peca-importante-na-arrancada-do-crb.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/13/kevin-aproveita-chance-no-crb-ajuda-defesa-a-zerar-baliza-e-ganha-confianca.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/08/13/tecnico-do-crb-fabio-matias-detalha-construcao-da-carreira-e-lideranca-de-processos-no-futebol.ghtml",
@@ -4766,7 +4770,9 @@
       "https://ge.globo.com/al/futebol/noticia/2026/11/21/crb-negocia-com-executivo-e-nome-de-italo-rodrigues-ganha-forca-nos-bastidores.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/22/matheus-albino-se-despede-do-crb-e-deve-acertar-com-o-santa-cruz.ghtml",
       "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/22/crb-anuncia-saida-de-goleiro-matheus-albino-e-abre-espaco-para-vitor-caetano.ghtml",
-      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/22/crb-anuncia-a-saida-de-fabio-alemao-idolo-da-historia-recente.ghtml"
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/22/crb-anuncia-a-saida-de-fabio-alemao-idolo-da-historia-recente.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/23/vice-artilheiro-do-brasil-mikael-tem-contrato-com-o-crb-mas-pode-jogar-no-exterior.ghtml",
+      "https://ge.globo.com/al/futebol/times/crb/noticia/2026/11/23/bastidores-saiba-o-que-falta-para-o-acerto-entre-crb-e-italo-rodrigues.ghtml"
     ]
   },
   "goias": {
@@ -5944,7 +5950,10 @@
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/20/destaque-do-vila-nova-dudu-mira-acesso-a-serie-a-em-classicos-contra-o-atletico-go.ghtml",
       "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/20/vila-nova-tem-duas-duvidas-na-defesa-para-enfrentar-o-atletico-go-veja-provavel-escalacao.ghtml",
       "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/22/atletico-go-x-vila-nova-onde-assistir-ao-vivo-horario-e-escalacoes.ghtml",
-      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/22/guto-ferreira-diz-que-unica-vantagem-do-vila-e-decidir-em-casa-quem-joga-para-empatar-perde.ghtml"
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/22/guto-ferreira-diz-que-unica-vantagem-do-vila-e-decidir-em-casa-quem-joga-para-empatar-perde.ghtml",
+      "https://ge.globo.com/go/futebol/brasileirao-serie-b/noticia/2026/11/23/saiba-o-que-vila-nova-e-atletico-go-precisam-fazer-para-subir-para-a-serie-a.ghtml",
+      "https://ge.globo.com/go/futebol/times/atletico-go/noticia/2026/11/23/roger-silva-se-incomoda-com-comemoracao-do-vila-nova-apos-empate.ghtml",
+      "https://ge.globo.com/go/futebol/times/vila-nova/noticia/2026/11/23/como-willian-formiga-sanou-o-problema-do-vila-nova-no-jogo-de-ida-do-playoff.ghtml"
     ]
   }
 }
